@@ -48,9 +48,6 @@ jobs:
       - name: Add .nojekyll file
         run: touch release/wwwroot/.nojekyll
 
-      - name: Copy index.html to 404.html (SPA fallback)
-        run: cp release/wwwroot/index.html release/wwwroot/404.html
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
