@@ -1,0 +1,32 @@
+<div class="scoreboard">
+	<h4>Round Scores</h4>
+	@if (RoundScores.Count == 0)
+	{
+		<p>No rounds completed yet.</p>
+	}
+	else
+	{
+		<table class="table">
+			<thead>
+				<tr>
+					<th>Round</th>
+					<th>Score</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var (title, score) in RoundScores)
+				{
+					<tr>
+						<td>@title</td>
+						<td>@score.ToString("F1")%</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	}
+</div>
+
+@code {
+	[Parameter]
+	public List<(string Title, float Score)> RoundScores { get; set; } = [];
+}

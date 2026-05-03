@@ -1,0 +1,252 @@
+[
+	{
+		"Text": "What is the capital of France?",
+		"Answers": [
+			"Berlin",
+			"London",
+			"Paris",
+			"Madrid"
+		],
+		"CorrectAnswerIndices": [ 2 ]
+	},
+	{
+		"Text": "Which planet is known as the Red Planet?",
+		"Answers": [
+			"Earth",
+			"Mars",
+			"Jupiter",
+			"Venus"
+		],
+		"CorrectAnswerIndices": [ 1 ]
+	},
+	{
+		"Text": "What is 2 + 2?",
+		"Answers": [
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"CorrectAnswerIndices": [ 1 ]
+	},
+	{
+		"Text": "Which animal barks?",
+		"Answers": [
+			"Cat",
+			"Dog",
+			"Cow",
+			"Sheep"
+		],
+		"CorrectAnswerIndices": [ 1 ]
+	},
+	{
+		"Text": "What color do you get when you mix red and white?",
+		"Answers": [
+			"Pink",
+			"Purple",
+			"Orange",
+			"Brown"
+		],
+		"CorrectAnswerIndices": [ 0 ]
+	},
+	{
+		"Text": "What is the largest ocean on Earth?",
+		"Answers": [
+			"Atlantic",
+			"Indian",
+			"Arctic",
+			"Pacific"
+		],
+		"CorrectAnswerIndices": [ 3 ]
+	},
+	{
+		"Text": "Which is the smallest prime number?",
+		"Answers": [
+			"0",
+			"1",
+			"2",
+			"3"
+		],
+		"CorrectAnswerIndices": [ 2 ]
+	},
+	{
+		"Text": "What is the freezing point of water (°C)?",
+		"Answers": [
+			"0",
+			"32",
+			"100",
+			"-10"
+		],
+		"CorrectAnswerIndices": [ 0 ]
+	},
+	{
+		"Text": "Which continent is Egypt in?",
+		"Answers": [
+			"Asia",
+			"Africa",
+			"Europe",
+			"Australia"
+		],
+		"CorrectAnswerIndices": [ 1 ]
+	},
+	{
+		"Text": "What is the main ingredient in bread?",
+		"Answers": [
+			"Rice",
+			"Flour",
+			"Corn",
+			"Oats"
+		],
+		"CorrectAnswerIndices": [ 1 ]
+	},
+	{
+		"Text": "Which gas do plants absorb from the atmosphere?",
+		"Answers": [
+			"Oxygen",
+			"Nitrogen",
+			"Carbon Dioxide",
+			"Hydrogen"
+		],
+		"CorrectAnswerIndices": [ 2 ]
+	},
+	{
+		"Text": "What is the largest planet in our solar system?",
+		"Answers": [
+			"Earth",
+			"Mars",
+			"Jupiter",
+			"Saturn"
+		],
+		"CorrectAnswerIndices": [ 2 ]
+	},
+	{
+		"Text": "How many days are there in a leap year?",
+		"Answers": [
+			"365",
+			"366",
+			"364",
+			"360"
+		],
+		"CorrectAnswerIndices": [ 1 ]
+	},
+	{
+		"Text": "Which instrument has keys, pedals, and strings?",
+		"Answers": [
+			"Guitar",
+			"Piano",
+			"Drum",
+			"Violin"
+		],
+		"CorrectAnswerIndices": [ 1 ]
+	},
+	{
+		"Text": "What is the boiling point of water (°C)?",
+		"Answers": [
+			"90",
+			"100",
+			"110",
+			"120"
+		],
+		"CorrectAnswerIndices": [ 1 ]
+	},
+	{
+		"Text": "Which country is famous for the kangaroo?",
+		"Answers": [
+			"India",
+			"Australia",
+			"Brazil",
+			"Canada"
+		],
+		"CorrectAnswerIndices": [ 1 ]
+	},
+	{
+		"Text": "What is the chemical symbol for gold?",
+		"Answers": [
+			"Au",
+			"Ag",
+			"Gd",
+			"Go"
+		],
+		"CorrectAnswerIndices": [ 0 ]
+	},
+	{
+		"Text": "Which language is primarily spoken in Brazil?",
+		"Answers": [
+			"Spanish",
+			"Portuguese",
+			"French",
+			"English"
+		],
+		"CorrectAnswerIndices": [ 1 ]
+	},
+	{
+		"Text": "How many continents are there?",
+		"Answers": [
+			"5",
+			"6",
+			"7",
+			"8"
+		],
+		"CorrectAnswerIndices": [ 2 ]
+	},
+	{
+		"Text": "What is the tallest animal in the world?",
+		"Answers": [
+			"Elephant",
+			"Giraffe",
+			"Lion",
+			"Horse"
+		],
+		"CorrectAnswerIndices": [ 1 ]
+	},
+	{
+		"Text": "Which of the following are primary colors?",
+		"Answers": [
+			"Red",
+			"Green",
+			"Blue",
+			"Yellow"
+		],
+		"CorrectAnswerIndices": [ 0, 2, 3 ]
+	},
+	{
+		"Text": "Which of these are mammals?",
+		"Answers": [
+			"Whale",
+			"Shark",
+			"Bat",
+			"Crocodile"
+		],
+		"CorrectAnswerIndices": [ 0, 2 ]
+	},
+	{
+		"Text": "Which planets in our solar system have rings?",
+		"Answers": [
+			"Saturn",
+			"Mars",
+			"Jupiter",
+			"Venus"
+		],
+		"CorrectAnswerIndices": [ 0, 2 ]
+	},
+	{
+		"Text": "Which of these are programming languages?",
+		"Answers": [
+			"Python",
+			"HTML",
+			"C#",
+			"Java"
+		],
+		"CorrectAnswerIndices": [ 0, 2, 3 ]
+	},
+	{
+		"Text": "Which of the following countries are in Europe?",
+		"Answers": [
+			"Germany",
+			"Japan",
+			"France",
+			"Argentina"
+		],
+		"CorrectAnswerIndices": [ 0, 2 ]
+	}
+]

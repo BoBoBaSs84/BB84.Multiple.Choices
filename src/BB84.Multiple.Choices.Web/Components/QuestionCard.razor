@@ -1,0 +1,62 @@
+@using BB84.Multiple.Choices.Core.Models
+
+<div class="question-card">
+	<h3>Question @QuestionIndex</h3>
+	<p class="question-text">@Question.Text</p>
+
+	@for (int i = 0; i < Question.Answers.Count; i++)
+	{
+		int index = i;
+		bool isMultiple = Question.CorrectAnswerIndices.Count > 1;
+
+		<div class="answer-option" @onclick="() => ToggleAnswer(index)">
+			<input type="@(isMultiple ? "checkbox" : "radio")"
+						 name="answer"
+						 checked="@_selectedIndices.Contains(index)"
+						 @onclick:stopPropagation="true"
+						 @onchange="() => ToggleAnswer(index)" />
+			<label>@Question.Answers[index]</label>
+		</div>
+	}
+
+	<button class="btn btn-primary mt-3" @onclick="SubmitAnswer" disabled="@(_selectedIndices.Count == 0)">
+		Submit Answer
+	</button>
+</div>
+
+@code {
+	[Parameter, EditorRequired]
+	public Question Question { get; set; } = default!;
+
+	[Parameter]
+	public int QuestionIndex { get; set; }
+
+	[Parameter]
+	public EventCallback<IReadOnlyList<int>> OnAnswerSubmitted { get; set; }
+
+	private HashSet<int> _selectedIndices = [];
+
+	private void ToggleAnswer(int index)
+	{
+		bool isMultiple = Question.CorrectAnswerIndices.Count > 1;
+
+		if (isMultiple)
+		{
+			if (!_selectedIndices.Add(index))
+				_selectedIndices.Remove(index);
+		}
+		else
+		{
+			_selectedIndices = [index];
+		}
+	}
+
+	private async Task SubmitAnswer()
+	{
+		if (_selectedIndices.Count > 0)
+		{
+			await OnAnswerSubmitted.InvokeAsync(_selectedIndices.Order().ToList());
+			_selectedIndices = [];
+		}
+	}
+}

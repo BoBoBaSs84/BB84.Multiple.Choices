@@ -1,0 +1,38 @@
+﻿<div class="round-summary">
+	<h3>@RoundTitle Complete</h3>
+	<p>Score: <strong>@Score.ToString("F1")%</strong></p>
+
+	@if (ThresholdNotMet)
+	{
+		<div class="alert alert-warning">
+			<p>⚠️ You did not meet the required threshold for this round.</p>
+		</div>
+		<button class="btn btn-warning" @onclick="OnContinue">Retry Quiz</button>
+	}
+	else
+	{
+		<div class="alert alert-success">
+			<p>✅ Well done! You passed this round.</p>
+		</div>
+		<button class="btn btn-primary" @onclick="OnContinue">Continue</button>
+	}
+
+	<button class="btn btn-secondary ms-2" @onclick="OnQuit">Quit</button>
+</div>
+
+@code {
+	[Parameter]
+	public string RoundTitle { get; set; } = string.Empty;
+
+	[Parameter]
+	public float Score { get; set; }
+
+	[Parameter]
+	public bool ThresholdNotMet { get; set; }
+
+	[Parameter]
+	public EventCallback OnContinue { get; set; }
+
+	[Parameter]
+	public EventCallback OnQuit { get; set; }
+}

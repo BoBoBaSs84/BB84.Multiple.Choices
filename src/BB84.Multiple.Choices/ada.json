@@ -1,0 +1,3018 @@
+[
+	{
+		"Text": "Der Berufsausbildungsvertrag ist ein Vertrag zwischen ...",
+		"Answers": [
+			"... Ausbilder und Auszubildenden.",
+			"... Ausbilder, Ausbildungsbetrieb und Auszubildenden.",
+			"... Ausbildenden und Auszubildenden.",
+			"... Ausbildenden, Auszubildenden und dem gesetzlichen Vertreter bei Jugendlichen.",
+			"... Ausbilder, Auszubildenden und dem gesetzlichen Vertreter bei Jugendlichen."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Was schreibt das BBiG hinsichtlich des Berufsausbildungsvertrages vor?",
+		"Answers": [
+			"Für den Berufsausbildungsvertrag gilt Vertragsfreiheit.",
+			"Der Auszubildende hat unverzüglich nach Abschluss des Vertrages die Niederschrift zum Vertrag seinem gesetzlichen Vertreter zur Kenntnisnahme und Unterschrift vorzulegen.",
+			"Der Ausbildende hat bis spätestens einen Monat nach Beginn der Berufsausbildung den wesentlichen Inhalt des Vertrages niederzulegen.",
+			"Zum Vertrag ist eine Niederschrift bis spätestens zum Ende der Probezeit anzufertigen.",
+			"Der Ausbildende hat unverzüglich nach Abschluss des Berufsausbildungsvertrages, spätestens vor Beginn der Berufsausbildung, den wesentlichen Inhalt des Vertrages schriftlich niederzulegen."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Inhaltlich kann ein Berufsausbildungsvertrag von den Vertragsparteien unter Beachtung der geltenden Rechtsgrundlagen folgendermaßen gestaltet werden:",
+		"Answers": [
+			"Die Gestaltung kann von den Vertragsparteien völlig frei vorgenommen werden.",
+			"Die Gestaltung ist durch das Bundesausbildungsförderungsgesetz zwingend vorgeschrieben.",
+			"Die Gestaltung ist durch das Berufsbildungsförderungsgesetz überwiegend vorgegeben.",
+			"Die Gestaltung ist durch Musterausbildungsverträge der zuständigen Stelle zwingend vorgegeben.",
+			"Arbeitsort, Ausbildungsberuf, Beginn und Ende müssen vereinbart werden, alles andere ist freiwillig."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Der Inhalt des Berufsausbildungsvertrages ...",
+		"Answers": [
+			"... wird unter den Vertragsparteien frei vereinbart.",
+			"... ist im BBiG mit allen Mindestpositionen weitgehend vorgegeben.",
+			"... ist aus dem allgemeinen Arbeitsrecht heraus abschließend vorgegeben.",
+			"... ist durch die zuständige Stelle im Rahmen ihrer Beratungsfunktion im Einzelfall auszufüllen und zu ergänzen, wenn einzelne Vereinbarungen der Parteien unzulässig oder lückenhaft sind.",
+			"... umfasst die Pflichten des Ausbildungsbetriebes und des Auszubildenden, auch in ihrer Eigenschaft als Berufsschüler, sowie die Rechte und Pflichten der Berufsschulen."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welcher der nachstehenden Inhalte ist ein wesentlicher Bestandteil des Berufsausbildungsvertrages?",
+		"Answers": [
+			"Eine Vereinbarung zur Freistellung des Auszubildenden für die Teilnahme an Prüfungen",
+			"Die Festlegung von Pauschalbeträgen für Schadenersatz, wenn ein Vertragspartner gegen vertragliche Vereinbarungen verstößt",
+			"Die Festlegung einer Vertragsstrafe für den Fall, dass ein Vertragspartner ohne wichtigen Grund das Berufsausbildungsverhältnis auflöst",
+			"Die Anlage der sachlichen und zeitlichen Gliederung der Berufsausbildung",
+			"Eine Regelung zum Ausschluss von Schadenersatzansprüchen"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche der folgenden Punkte sind nach dem BBiG ein wesentlicher Bestandteil eins Berufsausbildungsvertrages und müssen daher unbedingt in den Vertrag aufgenommen werden?",
+		"Answers": [
+			"Die Dauer der regelmäßigen Pausen.",
+			"Der Termin der Abschlussprüfung.",
+			"Die Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte.",
+			"Die Vertragsstrafen für den Fall der einseitigen Vertragsauflösung.",
+			"Eine Regelung für die Übernahme des Auszubildenden in ein Beschäftigungsverhältnis, wenn dieser die Abschlussprüfung besteht."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Ein Auszubildender hat am 1. August eine betriebliche Ausbildung begonnen.\nIhm war vom Ausbildungsbetrieb mitgeteilt worden, dass der Berufsausbildungsvertrag nach Beendigung der Probezeit abgeschlossen würde, um dem Betrieb im Falle der vorzeitigen Trennung Arbeit zu ersparen\nBei der vorzeitigen Trennung von dem Auszubildenden behauptet der ausbildende Betrieb, es sei gar kein rechtswirksames Ausbildungsverhältnis zustande gekommen.\nWelche der nachstehenden Aussagen zur rechtlichen Wirksamkeit eines Berufsausbildungsvertrages ist richtig?",
+		"Answers": [
+			"Die rechtliche Wirksamkeit eines Berufsausbildungsvertrages ist von der Niederschrift des wesentlichen Inhaltes des Vertrages abhängig.",
+			"Ein Berufsausbildungsvertrag ist auch dann rechtlich wirksam zustande gekommen, wenn er formlos geschlossen wurde.",
+			"Ein mündlich abgeschlossener Berufsausbildungsvertrag ist nur rechtswirksam, wenn der Auszubildende zum Zeitpunkt dieser Vereinbarung bereits volljährig war.",
+			"Ein mündlich abgeschlossener Berufsausbildungsvertrag ist nur rechtswirksam, wenn die für die Überwachung der Vorschriften des BBiG zuständige Stelle dem Verzicht auf die Niederschrift zugestimmt hat.",
+			"Ein mündlich abgeschlossener Berufsausbildungsvertrag wird erst nach Beendigung der Probezeit wirksam."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Falls die zuständige Stelle die Eintragung eines Berufsausbildungsverhältnisses verweigert, ...",
+		"Answers": [
+			"... kann dagegen das Amtsgericht angerufen werden.",
+			"... kann dagegen ohne weiteres außergerichtliches Vorverfahren das Verwaltungsgericht angerufen werden.",
+			"... kann dagegen nach Durchführung eines Widerspruchsverfahrens Klage beim Verwaltungsgericht erhoben werden.",
+			"... kann überhaupt kein Gericht angerufen werden, sondern nur Widerspruch bei der zuständigen Stelle eingelegt werden.",
+			"... kann nur Widerspruch bei der Landesregierung eingelegt werden."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Wann sind ärztliche Untersuchungen Jugendlicher vorgeschrieben?",
+		"Answers": [
+			"vor Eintritt in das Berufsleben und ein Jahr nach Aufnahme der ersten Beschäftigung",
+			"jederzeit, wenn die Jugendlichen das für erforderlich halten",
+			"vor der Berufswahl, um eine falsche Berufswahl und Berufsentscheidung zu vermeiden",
+			"wenn Jugendliche eine Berufsausbildung eingehen wollen",
+			"ein Jahr nach Eintritt in das Berufsleben"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Ein 16-jähriger Jugendlicher möchte bei ihnen eine Ausbildung zum Maurer beginnen. In welchem Zeitraum vor Beginn der Beschäftigung muss die Erstuntersuchung nach dem JArbSchG erfolgt sein?",
+		"Answers": [
+			"9 Monate vor Beschäftigungsbeginn.",
+			"12 Monate vor Beschäftigungsbeginn.",
+			"6 Monate vor Beschäftigungsbeginn.",
+			"14 Monate vor Beschäftigungsbeginn.",
+			"24 Monate vor Beschäftigungsbeginn."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Der Ausbildende beauftragt den jugendlichen Auszubildenden, sich der vorgeschriebenen Nachuntersuchung zu unterziehen. Welche Aussage ist richtig?",
+		"Answers": [
+			"Der Ausbildende muss den Auszubildenden unter Fortzahlung der Vergütung freistellen.",
+			"Der Auszubildende muss sich in seiner Freizeit untersuchen lassen.",
+			"Die Zeit der Untersuchung wird bei der Berechnung der Ausbildungsvergütung abgezogen.",
+			"Die Kosten der Untersuchung tragen die Erziehungsberechtigten des Auszubildenden.",
+			"Die Kosten der Untersuchung tragen zu je 50% der Auszubildende und die Erziehungsberechtigten des Auszubildenden."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Der Arbeitgeber hat die Jugendlichen vor Beginn der Beschäftigung über die Unfall- und Gesundheitsgefahren sowie über die Einrichtungen und Maßnahmen zur Gefahrenabwehr zu unterweisen. Welche der nachstehend genannten Personen oder Einrichtungen wird diesem Zweck der Rechtsvorschrift am besten gerecht?",
+		"Answers": [
+			"Der Ausbildende bestellt einen externen Referenten in den Betrieb, der einen Fachvortrag über Sicherheit am Arbeitsplatz vor den Auszubildenden hält.",
+			"Der Ausbilder führt den Auszubildenden im Rahmen der regelmäßigen innerbetrieblichen Unterweisungen einen Film über Sicherheit am Arbeitsplatz vor.",
+			"Ein Sachbearbeiter der Berufsgenossenschaft belehrt die Auszubildenden in allgemeiner Form über Unfallgefahren am Arbeitsplatz.",
+			"Die Auszubildenden behandeln im Rahmen einer besonderen Unterrichtsreihe in der Berufsschule in Vorträgen, Filmen und der Durchsprache exemplarischer Beispiele das Thema Sicherheit am Arbeitsplatz.",
+			"Die im Betrieb bestellte Fachkraft für Arbeitssicherheit unterweist die Auszubildenden am Arbeitsplatz über die vorhandenen Einrichtungen und Maßnahmen zur Gefahrenabwehr."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Unter Ausbildungsmethoden versteht man ...",
+		"Answers": [
+			"... die Lehre von Lehren und Lernen.",
+			"... den bewusst eingeschlagenen Weg zur Erreichung der Lernziele.",
+			"... die Ableitung von Lernzielen aus dem Ausbildungsrahmenplan.",
+			"... den Führungsstil zwischen Ausbilder und Auszubildender., der vom Ausbilder überwiegend praktiziert wird."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Als Aktionsform bezeichnet man ...",
+		"Answers": [
+			"... die lehrgangsorientierte, projektorientierte und auftragsorientierte Ausbildung.",
+			"... Art und Weise, wie Ausbilder und Lehrlinge im Rahmen der Ausbildung zur Stoffvermittlung tätig werden.",
+			"... die selbständige Aneignung des Lehrstoffs mit geeignetem und anregendem Lehrmaterial.",
+			"... eine sachliche und themenbezogene Diskussion zur Lösung von abstrakt-logischen Problemen."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Beim erarbeitenden Lehrverfahren wird ...",
+		"Answers": [
+			"... der Lernstoff vom Lehrenden vorgetragen, gezeigt und dargestellt.",
+			"... der Lernstoff mit geeignetem Lehrmaterial vom Lehrling selbst angeeignet.",
+			"... der Lernende durch Fragen und Diskussionen am Finden und Erarbeiten des neuen Lehrstoffs beteiligt.",
+			"... die Vier-Stunden-Methode in die Stoffvermittlung mit einbezogen."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Bei der Vorbereitung des Lehrlings (1. Stufe) ist besonders wichtig, ...",
+		"Answers": [
+			"... kurz und verständlich zu erklären und zu zeigen, wichtige Teilschritte hervorzuheben und Fehler rechtzeitig abzustellen.",
+			"... die Befangenheit zu nehmen und Kontakt herzustellen, Interesse zu wecken und Hemmungen zu beseitigen.",
+			"... genauere Erklärungen zu geben, Kernpunkte zu betonen und Hilfe zu geben.",
+			"... den Lehrling zum Durchdenken der Aufgaben und Lösungsmöglichkeiten zu veranlassen."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Durch welches Verhalten fördert der Ausbilder insbesondere den erfolgreichen Verlauf des Lehrgespräches? Der Ausbilder ...",
+		"Answers": [
+			"... trägt überwiegend vor.",
+			"... beteiligt sich besonders lebhaft am Gedankenaustausch und der Ideenfindung.",
+			"... sorgt dafür, dass alle Auszubildenden ihre Erfahrungen zum Thema beisteuern.",
+			"... hält sich aus dem Gespräch heraus und sorgt lediglich für Disziplin."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Bei wem liegt in der Regel in einem Lehrgespräch die Führung des Gespräches?",
+		"Answers": [
+			"Beim Ausbilder",
+			"Bei einem vorher gewählten oder bestimmten Auszubildenden.",
+			"Bei den Auszubildenden, die im Verlaufe des Lehrgespräches aufgrund ihrer Kompetenz zu Wortführern aufsteigen.",
+			"Bei keinem der Gesprächsteilnehmer, da sich das Gespräch führerlos entwickeln soll."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Was versteht die Berufspädagogik unter dem Begriff Arbeitsunterweisung?",
+		"Answers": [
+			"Das geplante und zielgerichtete Vermitteln von Kenntnissen, Fertigkeiten, Verhaltensweisen in der betrieblichen Ausbildung.",
+			"Das geplante und zielgerichtete Vermitteln von Kenntnissen, Fertigkeiten, Verhaltensweisen in der schulischen Ausbildung.",
+			"Das zielgerichtete Vermitteln von Handlungsabläufen und Fertigkeiten, damit der Lehrling für eine neue Arbeitsaufgabe befähigt wird.",
+			"Das zielgerichtete Vermitteln von Kenntnissen und Fertigkeiten ausschließlich in der beruflichen Grundbildung des Lehrlings."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Weshalb wird es als zweckmäßig angesehen, die Vorbereitung auf eine Unterweisung schriftlich zu fixieren?",
+		"Answers": [
+			"Der Aufwand ist einmalig, da sich viele Inhalte von Zeit zu Zeit wiederholen.",
+			"Um die Unterweisung zu vervollkommnen und den jeweiligen Bedingungen anzupassen, ist das schriftliche Fixieren eine geeignete Gedächtnisstütze.",
+			"Es sichert die Vollständigkeit hinsichtlich der Vermittlung von Kenntnissen und Fertigkeiten.",
+			"Die schriftliche Unterweisung gilt als Nachweis für den Ausbilder in der Rolle des Erfüllungsgehilfen."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Wann ist ein Unterweisungsauftrag zum Ausbildungsbeginn geeignet?",
+		"Answers": [
+			"Wenn der Lehrling wenigstens einen halben Tag daran beschäftigt wird.",
+			"Wenn der Lehrling Interesse und Neigung für die ausgewählte Tätigkeit mitbringt.",
+			"Wenn der Lehrling daran erkennt, was für einen anspruchsvollen Beruf er gewählt hat.",
+			"Wenn der Auftrag an der betrieblichen Ernstsituation, z. B. Kundenauftrag, ausgerichtet ist."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Schwerpunkte der Arbeitszergliederung sind ...",
+		"Answers": [
+			"... kognitive Lernziele, psychomotorische Lernziele und affektive Lernziele.",
+			"... Richtziele, Feinziele und Grobziele.",
+			"... Einzelgespräche und Gruppengespräche.",
+			"... Lernabschnitte festlegen, Kernpunkte herausstellen, Begründungen nennen."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Motivationsfördernde Merkmale der auftragsorientierten Lernsituation sind ...",
+		"Answers": [
+			"... hohe Anforderungen an den Lehrling und Übertragung schwerlösbarer Aufgaben.",
+			"... realitätsnahes Lernen und gute Entfaltungsmöglichkeiten.",
+			"... tadelndes Verhalten des Ausbilders, wenn der Lehrling Schwierigkeiten bei der Lösung seiner Aufgabe hat.",
+			"... die Beachtung der Unfallverhütungsvorschriften und Einhaltung des Jugendarbeitsschutzgesetzes."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Ausbildungsinhalte lassen sich besonders erfolgreich durch die Demonstration im Rahmen der betrieblichen Ausbildung vermitteln?",
+		"Answers": [
+			"Freundlichkeit gegenüber Kunden",
+			"Geschichtliche Daten",
+			"Unfallsicheres Verhalten beim Umgang mit gefährlichen Arbeitsstoffe",
+			"Anschauliche Vorstellungen von der Arbeitsweise einer Maschine"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Die Demonstration ...",
+		"Answers": [
+			"... dient nur zur Lösung von praktischen Problemen und wird vorwiegend in der Gruppenarbeit angewendet.",
+			"... ist ein Verfahren zur anschaulichen Darstellung abstrakter, mit Schwierigkeiten verständlicher und nur schwer wahrnehmbarer Arbeitsvorgänge.",
+			"... dient lediglich der Steigerung der rechtzeitigen Beseitigung von Unklarheiten und soll das selbständige Handeln und die Arbeitsfreude fördern.",
+			"... dient dem selbständigen Wissenserwerb in der fachtheoretischen und der fachpraktischen Ausbildung."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche der folgenden Vorteile trifft für den Vortrag zu?",
+		"Answers": [
+			"Hohes Maß an Selbständigkeit beim Lernen",
+			"Berücksichtigung des individuellen Lerntempos",
+			"Großer Zuhörerkreis wird mit einem Mal erreicht",
+			"Keine Rückkopplung"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welcher Lehrstoff lässt sich am besten im Vortrag vermitteln?",
+		"Answers": [
+			"Kontaktfähigkeit beim Umgang mit Kunden",
+			"Bohren mit der Handbohrmaschine",
+			"Herstellen einer Lötverbindung",
+			"Bruchrechnen"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche ist die richtige Reihenfolge bei der Anwendung der Vier-Stufen-Methode?",
+		"Answers": [
+			"Vormachen - Vortragen - Nachmachen - Üben",
+			"Vorbereiten - Vormachen - Nachmachen - Üben",
+			"Nachmachen - Vormachen - Üben - Vorbereiten",
+			"Vorbereiten - Fragen - Vormachen - Üben"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Um welche Stufe der Vier-Stufen-Methode handelt es sich bei der folgenden Darstellung:\nArbeitsaufgabe, Festigung und Sicherung durch Üben, kontrollieren, anerkennen?",
+		"Answers": [
+			"1.Stufe",
+			"2.Stufe",
+			"3.Stufe",
+			"4.Stufe"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welcher der folgenden Lerngegenstände lässt sich besonders durch Anwendung der Vier-Stufen-Methode vermitteln?",
+		"Answers": [
+			"Schutzbestimmungen für Jugendliche in einem Beschäftigungsverhältnis nach dem JArbSchG",
+			"Eigenschaften von Gold",
+			"Herstellen einer Lötverbindung",
+			"Führen von Telefongesprächen mit Kunden"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "In welchen Arbeitsschritten wird nach der Leittextmethode gelernt?",
+		"Answers": [
+			"Informieren - Planen - Entscheiden - Ausführen - Kontrollieren - Bewerten",
+			"Einleitung - Gesprächsführung - Zusammenfassung",
+			"Einstimmung - Ideenfindung - Auswertung",
+			"Fallbeschreiben - Erarbeitung eines Kernproblems - Erarbeitung von Alternativen - Entscheidung"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche der folgenden Aussage zur Projektarbeit als Ausbildungsmethode ist falsch? Bei der Projektarbeit ...",
+		"Answers": [
+			"... haben die Teilnehmer die Möglichkeit, ein umfangreiches Problem weitestgehend selbständig zu bearbeiten.",
+			"... sollen möglichst keine Gruppen gebildet werden - jeder soll ein Thema allein bearbeiten, damit der persönliche Leistungsstand ermittelt werden kann.",
+			"... sollen solche Aufgabenstellungen vorgegeben werden, die den Auszubildenden möglichst große Entscheidungsfreiräume offen lassen.",
+			"... soll der Ausbilder die Aufgabenstellung vorgeben, den Arbeitsablauf beobachten, bei Bedarf im Arbeitsablauf als Ansprechpartner zur Verfügung stehen und die Arbeitsergebnisse am Ende bewerten."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Man sagt, dass die programmierte Unterweisung die Auszubildenden motiviert. Welches wesentliche Merkmal der programmierten Unterweisung löst insbesondere Lernmotive aus?",
+		"Answers": [
+			"Die schriftliche Darbietung des Lernstoffes.",
+			"Die Möglichkeit, ohne unmittelbaren Kontakt mit dem Ausbilder etwas zu Lernen.",
+			"Die Möglichkeit, Fragen zu beantworten.",
+			"Der Antwortvergleich und die unmittelbare Erfolgsbestätigung."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Aussagen zur Gruppenarbeit treffen zu?",
+		"Answers": [
+			"Unter Sozialform der Unterweisung versteht man Einzel- oder Gruppenarbeit.",
+			"Bei der Gruppenarbeit können auch solche Schlüsselqualifikationen im Bereich der Sozialkompetenz verfolgt werden wie Teamfähigkeit, Ausdrucksfähigkeit und Ausprägung sozialer Verhaltensweisen.",
+			"Ein Vorteil der Gruppenarbeit ist auch, dass sich die Auszubildenden gegenseitig helfen und ergänzen können.",
+			"Alles unter a) bis c) Gesagte trifft zu."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche der folgenden Aussagen ist richtig?",
+		"Answers": [
+			"Die Ausbildungsmethoden sind insbesondere nach dem Lerngegenstand und dem Lernenden auszuwählen",
+			"Die Vier-Stufen-Methode ist die beste Methode zur Vermittlung neuer theoretischer Kenntnisse bei einem großen Zuhörerkreis.",
+			"Das Brain-storming soll in der praktischen Berufsausbildung nicht angewendet werden, weil den Auszubildenden die notwendige Sachkunde noch fehlt.",
+			"In der berufspraktischen Ausbildung soll möglichst immer die gleiche Methode vom Ausbilder angewendet werden, weil dadurch der Auszubildende auch gleichzeitig Methodenkompetenz erwirbt."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Durch welches Merkmal müsste die folgende Definition des Begriffs „Ausbildungsmittel“ ergänzt werden?\n„Ausbildungsmittel sind materielle pädagogische Hilfsmittel, die in Form originaler Gegenstände aus dem Arbeitsbereich oder in Form von Unterrichtsmedien ...",
+		"Answers": [
+			"... der Lernerfolgskontrolle dienen.",
+			"... der Entlastung der Ausbilder und Lehrer dienen.",
+			"... der Vermittlung beruflicher Kenntnisse und Fertigkeiten dienen.",
+			"... den Lernenden beschäftigen sollen.",
+			"... der Motivation der Lernenden dienen.",
+			"... eine Verbindung zwischen der Unterweisung und der beruflichen Wirklichkeit schaffen sollen.“"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Das Berufsbildungsgesetz verpflichtet den Ausbildenden dazu, Ausbildungsmittel zur Verfügung zu stellen. Welche Gruppe von Ausbildungsmitteln nennt das Berufsbildungsgesetz ausdrücklich?",
+		"Answers": [
+			"Tabellenbücher",
+			"Werkzeuge und Werkstoffe, die zum Ablegen von Zwischen- und Abschlussprüfungen erforderlich sind",
+			"Lehrbücher für den Berufsschulunterricht",
+			"Lernprogramme zur selbstständigen Fortbildung",
+			"Übungsaufgaben- Sammlung"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": " Welches Merkmal trifft bei einem Vergleich zwischen den originalen Gegenständen des Arbeitsbereichs“ und den „Unterrichtsmedien“ insbesondere auf die „originalen Gegenstände“ zu?",
+		"Answers": [
+			"Sie sind Mittel der Beobachtung und Wahrnehmung von Vorgängen",
+			"Sie vermitteln zwischen dem Lernenden und dem eigentlichen Lerngegenstand",
+			"Sie repräsentieren einen Ausschnitt der Wirklichkeit, der am Lernort nicht unmittelbar vorhanden ist",
+			"Sie sind zumeist selbst die Gegenstände des Lernens",
+			"Sie dienen u.a. der Wiedergabe gespeicherter Informationen"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welches Ausbildungsmittel ist ein auditives Ausbildungsmittel?",
+		"Answers": [
+			"Funktionsmodell",
+			"Diaprojektor",
+			"Lehrbriefe",
+			"Lexikon",
+			"Sprachlabor",
+			"Episkop"
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Weiches Ausbildungsmittel ist ein audio-visuelles Ausbildungsmittel?",
+		"Answers": [
+			"Fernsehen",
+			"Overheadprojektor",
+			"Lehrbuch",
+			"Flip-Chart",
+			"Toncassette",
+			"Pinnwand"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welches Ausbildungsmittel ist ein visuelles Ausbildungsmittel?",
+		"Answers": [
+			"Videocassette",
+			"Radio",
+			"DVD’s",
+			"Beamer",
+			"Toncassette",
+			"Sprachlabor"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Funktion erfüllt die Ausbildungsordnung?\nDie Ausbildungsordnung ...",
+		"Answers": [
+			"... ist die wichtigste Quelle für die Ableitung der Lernziele.",
+			"... ist die Rechtsvorschrift, die das Verfahren der Abschlussprüfung regelt.",
+			"... bildet die Grundlage für den fachtheoretischen Unterricht in der Berufsschule.",
+			"... regelt das Verhalten der Auszubildenden in einer Ausbildungsstätte."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Unterlagen sind insbesondere rechtsverbindliche Hilfsmittel für die Planung der betrieblichen Ausbildung?",
+		"Answers": [
+			"Planungsunterlagen einzelner Betriebe, die aufgrund ihrer Bewährung praktisch als Gewohnheitsrecht gelten",
+			"Verfügung der Bundesanstalt für Arbeit zur beruflichen Ausbildung",
+			"Berufsbildungsförderungsgesetz",
+			"Berufsbildungsgesetz und Ausbilder- Eignungs- Verordnung",
+			"Handreichungen der Fachverbände zur Ausbildungsplanung",
+			"Ausbildungsordnungen"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welchen Geltungsbereich haben Ausbildungsordnungen? Ausbildungsordnungen gelten jeweils ...",
+		"Answers": [
+			"... für die gesamte Bundesrepublik.",
+			"... nur für ein Bundesland.",
+			"... nur für ein definiertes Tarifgebiet.",
+			"... nur für den Bereich einer einzigen zuständigen Stelle.",
+			"... nur für einzelne Ausbildungsstätten."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Untergrenze für die Ausbildungsdauer sollen die Ausbildungsordnungen nach Maßgabe des Berufsbildungsgesetzes haben?\nDie Ausbildungsdauer soll nicht weniger als ...",
+		"Answers": [
+			"... ein Jahr betragen.",
+			"... eineinhalb Jahre betragen.",
+			"... zwei Jahre betragen.",
+			"... zweieinhalb Jahre betragen.",
+			"... drei Jahre betragen."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welche Aussage trifft auf die Ausbildungsordnungen für Monoberufe mit Spezialisierung zu?\nDie zu einem Monoberuf mit Spezialisierung gehörende Ausbildungsordnung...",
+		"Answers": [
+			"... sieht einen einheitlichen Ausbildungsrahmenplan für alle Auszubildenden vor.",
+			"... sieht vor, dass alle Auszubildenden eine gemeinsame Grundbildung erhalten und dann zu verschiedenen Berufsabschlüssen geführt werden.",
+			"... sieht Besonderheiten im Ausbildungsberufsbild vor, wenn der Ausbildungsberuf in verschiedene Fachrichtungen gegliedert ist.",
+			"... sieht vor der Abschlussprüfung einen Zwischenabschluss vor, der zu einer vollwertigen Berufstätigkeit befähigt.",
+			"... sieht eine für alle Auszubildenden gleiche Ausbildung vor, die von einer beruflichen Grundbildung und in eine berufliche Fachbildung einmündet."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Wann spricht man von Stufenausbildung?",
+		"Answers": [
+			"Wenn die Ausbildung an verschiedenen Lernorten erfolgt.",
+			"Wenn innerhalb des Ausbildungsganges keinerlei Differenzierung der Ausbildungsinhalte erfolgt, so dass alle Auszubildenden in gleicher Weise ausgebildet werden und den gleichen Berufsabschluss erhalten.",
+			"Wenn das erste Ausbildungsjahr in der Berufsfachschule durchgeführt wird und die Restausbildung im Ausbildungsbetrieb erfolgt.",
+			"Wenn die Ausbildung in sachlich und zeitlich besonders geordneten, aufeinander aufbauenden Abschnitten erfolgt, wobei nach diesen Abschnitten sowohl ein Berufsabschluss als auch die Fortsetzung der Berufsausbildung möglich ist.",
+			"Wenn während der Ausbildung zeitweise nach Schwerpunkten oder Fachrichtungen differenziert wird."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Aussage zu den allgemeinen Zielen der Stufenausbildung ist insbesondere zutreffend?",
+		"Answers": [
+			"Die Ausbildung soll im ersten Ausbildungsjahr in der Berufsschule durchgeführt werden.",
+			"Die Ausbildung soll vom ersten Tag an zu einer möglichst weitgehenden beruflichen Spezialisierung führen.",
+			"Betriebliche und schulische Ausbildung sollen besser ineinander greifen.",
+			"Die Auszubildenden sollen neben dem Berufsabschluss noch einen höheren allgemein bildenden Schulabschluss erwerben.",
+			"Die Auszubildenden sollen zunächst eine Grundbildung erhalten, die für eine Gruppe von Berufen gleich ist, sich erst anschließend spezialisieren und verschiedene Berufsabschlüsse erwerben."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Wie nennt man die erste Stufe bei der Stufenausbildung?",
+		"Answers": [
+			"Primarstufe",
+			"Berufliche Grundbildung",
+			"Fachbildung",
+			"Berufsgrundbildungsjahr",
+			"Besondere Fachbildung"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche Instanz erforscht vor dem Erlass einer Ausbildungsordnung die gegenwärtigen und künftigen Anforderungen des zu regelnden Ausbildungsberufs?",
+		"Answers": [
+			"Zuständige Stelle (Kammern usw.)",
+			"Bundesminister für Bildung und Wissenschaft",
+			"Koordinierungsausschuss Bund/Länder",
+			"Landesausschuss für Berufsbildung",
+			"Bundesinstitut für Berufsbildung"
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Welche Instanz hat insbesondere die Funktion, Abstimmungen zwischen Ausbildungsordnungen und Rahmenlehrplänen herbeizuführen?",
+		"Answers": [
+			"Bundesrat",
+			"Vermittlungsausschuss",
+			"Hauptausschuss des Bundesinstituts für Berufsbildung",
+			"Koordinierungsausschuss Bund/Länder",
+			"Ständige Konferenz der Kultusminister"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Worauf muss der Ausbilder während der Probezeit hauptsächlich achten?",
+		"Answers": [
+			"Dass der Auszubildende nur Tätigkeiten ausübt, die in seinem gewählten Beruf bedeutsam sind und Aufschluss über Eignung für den Beruf geben.",
+			"Dass der Auszubildende den Sinn einer Tätigkeit und die Zusammenhänge mit dem übrigen Betriebsablauf genau erkennt.",
+			"Dass der Auszubildende es bereits zu einer gewissen Perfektion bringt.",
+			"Dass der Auszubildende alle späteren Aufgaben bereits kurz kennen lernt und entscheiden kann, ob der gewählte Beruf seinen Vorstellungen entspricht.",
+			" Dass der Auszubildende alle übertragenen Aufgaben fehlerfrei erledigt und auch bereits zu Anfang mit schwierigen Problemen vertraut gemacht wird, um sich über zukünftige Arbeitsaufgaben ein Bild machen zu können."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Instanz erlässt Ausbildungsordnungen in Form von Rechtsverordnungen?",
+		"Answers": [
+			"das Bundesinstitut für Berufsbildung",
+			"der jeweils zuständige Bundesminister",
+			"der Landesausschuss für Berufsbildung",
+			"der Kultusminister/Kultussenator des jeweiligen Bundeslandes",
+			"die Kammern und die anderen zuständigen Stellen"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche Aussage zur Höhe der Vergütung ist zutreffend?",
+		"Answers": [
+			"Die Vergütung ist zwingend zu erhöhen, wenn ein Auszubildender eine verlängerte Ausbildung absolviert.",
+			"Die im Ausbildungsvertrag festgelegten Vergütungen dürfen weder erhöht noch unterschritten werden.",
+			"Nach bestandener Abschlussprüfung erhält der Auszubildende bis zum Ablauf des Prüfungsmonats die Vergütung in der zuletzt gezahlten Höhe.",
+			"Die Vergütung muss mit fortschreitender Berufsausbildung mindestens jährlich steigen.",
+			"Auszubildende, deren Ausbildungszeit aufgrund einer Rechtsverordnung um ein Jahr gekürzt wurde, beginnen mit der Vergütung des ersten Ausbildungsjahres."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Wann ist nach dem Berufsbildungsgesetz die Ausbildungsvergütung spätestens zu zahlen?",
+		"Answers": [
+			"Am ersten Tag des laufenden Kalendermonats.",
+			"Am letzten Arbeitstag des laufenden Kalendermonats.",
+			"Innerhalb einer Woche nach Ablauf des betreffenden Kalendermonats.",
+			"Innerhalb von vierzehn Tagen nach Ablauf des betreffenden Kalendermonats.",
+			"Am letzten Arbeitstag des betreffenden Quartals."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Bei Abschluss des Berufsausbildungsvertrages muss für die gesamte Ausbildungszeit eine angemessene Vergütung festgelegt werden. Müssen Anpassungen vorgenommen werden, wenn sich während der Ausbildungszeit das Vergütungsniveau für Auszubildende erhöht?",
+		"Answers": [
+			"Die festgelegten Vergütungen müssen dem angehobenen Niveau angepasst werden.",
+			"Aus Gründen der Gerechtigkeit sollten die festgelegten Vergütungen angepasst werden, dies ist jedoch nicht zwingend.",
+			"Die festgelegten Vergütungen müssen nur angepasst werden, wenn eine beiderseitige tarifliche Bindung vorliegt.",
+			"Eine Anpassung der Vergütung an das neue Vergütungsniveau ist nicht notwendig, weil es durch die jährliche Steigerung der Vergütung im Vertrag schon berücksichtigt ist.",
+			"Es ist keine Anpassung vorzunehmen."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Durch einen Brand fallen die Ausbildungsmaßnahmen in einer Ausbildungsstätte für längere Zeit aus. Ist in dieser Zeit eine Vergütung zu zahlen, wenn sich der Auszubildende für die Ausbildung bereithält?\n\nIn diesem Fall wird die Vergütung ...",
+		"Answers": [
+			"... für die Dauer von 14 Tagen fortgezahlt.",
+			"... für höchstens 4 Wochen fortgezahlt.",
+			"... für höchstens 6 Wochen fortgezahlt.",
+			"... unbeschränkt fortgezahlt.",
+			"... nicht gezahlt, weil die Ausbildung nicht stattfindet."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welche Vereinbarung, die im Rahmen eines Berufsausbildungsvertrages getroffen wurde, ist nach Maßgabe des BBiG eine 'nichtige' Vereinbarung?\n\nAls nichtig ist eine Vereinbarung anzusehen, nach der ...",
+		"Answers": [
+			"... der Auszubildende an einer bestimmten auswärtigen Maßnahme zur Vorbereitung auf die Abschlussprüfung teilzunehmen hat.",
+			"... der Auszubildende für die Berufsausbildung wegen der besonders hohen Aufwendungen des Ausbildenden keine Vergütung erhält.",
+			"... eine Kündigung während der Probezeit ohne Angabe von Gründen möglich sein soll.",
+			"... die Vergütung nicht an den jugendlichen Auszubildenden, sondern an die Erziehungsberechtigten auszuzahlen ist.",
+			"... der Auszubildende an einem zusätzlichen Fachlehrgang teilzunehmen hat."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Eine besondere Vergütung für eine über die vereinbarte regelmäßige Ausbildungsvergütung hinausgehende Beschäftigung ist ...",
+		"Answers": [
+			"... immer zu zahlen, gleichgültig, ob die Beschäftigung zulässig ist oder nicht.",
+			"... grundsätzlich nicht zu zahlen, weil im Ausbildungsverhältnis kein Entgelt für geleistete Arbeit vereinbart ist. Die Ausbildungsvergütung ist lediglich ein Zuschuss zum Unterhalt.",
+			"... nur dann zu zahlen, wenn die Beschäftigung zulässig gewesen wäre.",
+			"... nur dann zu zahlen, wenn die Beschäftigung dem Gewerbeaufsichtsamt angezeigt wurde.",
+			"... nur dann zu zahlen, wenn die Beschäftigung vom Gewerbeaufsichtsamt genehmigt war oder die Genehmigung nachträglich erteilt wurde."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "In Tarifverträgen werden unter anderem auch die Vergütungssätze der Auszubildenden geregelt. Welche Verbindlichkeit haben diese bei der Festlegung der Vergütung im Berufsausbildungsvertrag, wenn Ausbildende und Auszubildende jeweils den Tarifparteien angehören?\n\nDie tariflich vereinbarten Vergütungen ...",
+		"Answers": [
+			"... sind feststehende Sätze, von denen auf keinen Fall abgewichen werden darf.",
+			"... sind Richtwerte, von denen die Parteien des Berufsausbildungsvertrages im gegenseitigen Einvernehmen nach oben oder nach unten geringfügig abweichen können.",
+			"... sind Höchstsätze, die nicht überschritten werden dürfen.",
+			"... sind Mindestsätze, von denen nur zugunsten des Auszubildenden abgewichen werden darf.",
+			"... haben für die Berufsausbildungsverhältnisse stets nur den Charakter der Empfehlung."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Können Sachleistungen (Kost, Wohnung) auf die Vergütung für Auszubildende angerechnet werden?",
+		"Answers": [
+			"Ja, in jedem Fall ohne Begrenzung.",
+			"Ja, aber nicht über 50 % der Vergütung hinaus.",
+			"Nein, sie können überhaupt nicht angerechnet werden.",
+			"Ja, aber nicht über 60 % der Vergütung hinaus.",
+			"Ja, aber nicht über 75 % der Vergütung hinaus"
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Während der Berufsausbildung zahlt der Ausbildende dem Auszubildenden eine angemessene Vergütung. Die Sozialversicherungsbeiträge im Rahmen des Berufsausbildungsverhältnisses ...",
+		"Answers": [
+			"... trägt der Ausbildende in voller Höhe.",
+			"... trägt der Auszubildende in voller Höhe.",
+			"... sind immer je zur Hälfte vom Ausbildenden und vom Auszubildenden zu tragen.",
+			"... werden bis zu einer bestimmten Höhe der Ausbildungsvergütung (Geringfügigkeitsgrenze) vom Ausbildenden, ansonsten je zur Hälfte vom Ausbildenden und vom Auszubildenden getragen.",
+			"... trägt die Bundesanstalt für Arbeit (nur Anteil des Auszubildenden) und der Ausbildende."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Die Ausbildungsvergütung hat den Charakter ...",
+		"Answers": [
+			"... eines Lohnes für erbrachte Leistungen in der Ausbildung und kann demzufolge leistungsabhängig differenziert werden.",
+			"... eines monatlich feststehenden Gehalt und kann einbehalten werden, wenn der Auszubildende schuldhaft einen oder mehrere Tage die Ausbildung versäumt.",
+			"... eines Unterhaltsbeitrages und ist nicht an die erbrachte Leistung gebunden.",
+			"... eines Unterhaltsbeitrages und kann in jedem Fall einbehalten werden, wenn der Auszubildende die Ausbildung schuldhaft versäumt (unentschuldigtes Fehlen).",
+			"... eines leistungsabhängigen Gehalts."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "In welcher Rechtsquelle ist die Ausbildungsdauer für einen Ausbildungsberuf geregelt?",
+		"Answers": [
+			"im BBiG",
+			"in der Ausbildungsordnung",
+			"in der Prüfungsordnung der zuständigen Stelle",
+			"im Rahmenlehrplan",
+			"im JArbSchG"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Die Ausbildungsdauer soll nach dem BBiG ...",
+		"Answers": [
+			"... nicht mehr als 3 und nicht weniger als 1,5 Jahre betragen.",
+			"... nicht mehr als 3 und nicht weniger als 2,5 Jahre betragen.",
+			"... nicht mehr als 3 und nicht weniger als 2 Jahre betragen.",
+			"... nicht mehr als 3,5 und nicht weniger als 2 Jahre betragen.",
+			"... nicht mehr als 3 und nicht weniger als 1 Jahr betragen."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Kann die in der Ausbildungsordnung vorgeschriebene Ausbildungsdauer verlängert werden?",
+		"Answers": [
+			"Der Auszubildende kann die Ausbildungsdauer verlängern, wenn am Ende der Ausbildung der Ausbildungsplan noch nicht erfüllt ist.",
+			"Der Auszubildende kann die Ausbildung ohne Angaben von Gründen verlängern.",
+			"Die zuständige Stelle kann die Ausbildung von sich aus verlängern, wenn sie den Eindruck gewinnt, dass die Ausbildung noch nicht sehr effektiv war.",
+			"Der Auszubildende kann eine Verlängerung beantragen, wenn zu erwarten ist, dass er das Ausbildungsziel nicht erreicht, z. B. weil er längere Zeit krank war.",
+			"Die Berufsschule kann eine Verlängerung bewirken, z. B. wenn der Unterricht längere Zeit ausfiel."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Unter welchen Voraussetzungen hat die zuständige Stelle die Ausbildungszeit zu verkürzen?",
+		"Answers": [
+			"Wenn der Auszubildende nach der Berufsausbildung studieren möchte.",
+			"Wenn eine längere Ausbildungszeit aus sozialen Gründen nicht vertretbar wäre.",
+			"Wenn der Auszubildende dieser Ausbildung eine zweite Berufsausbildung anschließen möchte, z. B. wenn der Ausbildung in einem gewerblichen Beruf eine kaufmännische Ausbildung folgen soll.",
+			"Wenn zu erwarten ist, dass der Auszubildende das Ausbildungsziel in der kürzeren Zeit erreicht.",
+			"Wenn dies vom Ausbildungsbetrieb ausdrücklich gewünscht wird."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Ein Auszubildender hat bereits in einem früheren Wohnort eine Ausbildung von 12 Monaten in einem weitgehend entsprechenden Ausbildungsberuf durchlaufen. Ist in diesem Fall eine Verkürzung der Ausbildungszeit möglich?",
+		"Answers": [
+			"In diesem Fall liegt kein Grund vor, der eine Verkürzung der Ausbildungszeit zu Beginn der Berufsausbildung rechtfertigen würde.",
+			"In diesem Fall ist eine Verkürzung möglich, z. B. dadurch, dass der Ausbildende und der Auszubildende dies bei der zuständigen Stelle beantragen.",
+			"In diesem Fall besteht ein Rechtsanspruch auf vorzeitige Zulassung zur Abschlussprüfung.",
+			"In diesem Fall hat der Auszubildende einen auf einer Rechtsverordnung beruhenden Rechtsanspruch auf eine halbjährige Verkürzung der Ausbildungszeit.",
+			"In diesem Fall hat der Auszubildende einen auf einer Rechtsverordnung beruhenden Rechtsanspruch auf eine einjährige Verkürzung der Ausbildungszeit."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein Berufsanfänger hat eine einjährige Berufsfachschule in einer dem gewerblichen Ausbildungsberuf entsprechenden Fachrichtung erfolgreich besucht. Ist bei Vertragsabschluss eine Verkürzung der Ausbildungsdauer möglich?",
+		"Answers": [
+			"In diesem Fall liegt kein Grund vor, der eine Verkürzung der Ausbildungszeit zu Beginn der Berufsausbildung rechtfertigen würde.",
+			"In diesem Fall ist eine Verkürzung möglich, z. B. dadurch, dass der Ausbildende und der Auszubildende dies bei der zuständigen Stelle beantragen.",
+			"In diesem Fall besteht ein Rechtsanspruch auf vorzeitige Zulassung zur Abschlussprüfung.",
+			"In diesem Fall hat der Auszubildende einen auf einer Rechtsverordnung beruhenden Rechtsanspruch auf eine halbjährige Verkürzung der Ausbildungszeit.",
+			"In diesem Fall hat der Auszubildende einen auf einer Rechtsverordnung beruhenden Rechtsanspruch auf eine einjährige Verkürzung der Ausbildungszeit."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Ein Auszubildender legt am 25.07.20. die Abschlussprüfung ab und besteht sie nicht.\n\nWie wirkt sich dies auf das Berufsausbildungsverhältnis mit einem vereinbarten Ende zum 31.08. desselben Jahres aus?",
+		"Answers": [
+			"Das Berufsausbildungsverhältnis endet am 25.7.20..",
+			"Das Berufsausbildungsverhältnis ist nicht beendet, kann aber wegen Erfolglosigkeit der Ausbildung gekündigt werden.",
+			"Das Berufsausbildungsverhältnis verlängert sich kraft Gesetz bis zum nächsten Prüfungstermin.",
+			"Das Berufsausbildungsverhältnis besteht weiter bis zum 31.08. des Jahres.",
+			"Dem Auszubildenden ist es freigestellt, bis zum vertraglich vereinbarten Termin die Ausbildung fortzusetzen."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Die Firma Kupfernagel in Darmstadt möchte mit der l7jährigen Monika G. einen Berufsausbildungsvertrag in einem kaufmännischen Beruf abschließen. Monika hat die zweijährige Berufsfachschule, Fachrichtung Wirtschaft, mit Erfolg besucht. Im Berufsbildungsrecht ist die Vertragsfreiheit durch zahlreiche Bestimmungen eingeschränkt.\n\nWelcher Lösungsvorschlag schränkt in diesem Falle die Vertragsfreiheit ein?",
+		"Answers": [
+			"Die Ausbildungsverordnung",
+			"Das Jugendarbeitsschutzgesetz",
+			"Die Berufsfachschul- Anrechnungs- Verordnung",
+			"Das Schulgesetz des betreffenden Bundeslandes",
+			"Die Berufsgrundbildungsjahr-Anrechnungs-Verordnung"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein Auszubildender besteht die Abschlussprüfung sechs Wochen vor Ende der vertraglichen Ausbildungsdauer. Welche Verpflichtung hat der Ausbildende bezüglich der Weiterbeschäftigung?",
+		"Answers": [
+			"Er muss ihn bis zum vertraglich vereinbarten Termin weiterbeschäftigen.",
+			"Er muss ihn über drei Monate hinaus nach der bestandenen Prüfung weiterbeschäftigen.",
+			"Er braucht ihn ab Bestehen der Prüfung nicht weiterzubeschäftigen.",
+			"Er muss ihn in ein Arbeitsverhältnis auf unbestimmte Zeit übernehmen, wenn der Auszubildende das verlangt.",
+			"Er muss ihn nur dann weiterbeschäftigen, wenn der Auszubildende dem besonderen Kündigungsschutz (z. B. bei weiblichen Auszubildenden Mutterschutzgesetz) unterliegt."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Bei Nichtbestehen der Abschlussprüfung kann auf Antrag die Ausbildungsdauer verlängert werden. Welche der nachfolgenden Aussagen ist zutreffend?",
+		"Answers": [
+			"Auf Antrag des Ausbildenden bei der zuständigen Stelle kann die Ausbildungsdauer um maximal ein halbes Jahr verlängert werden, weil der Auszubildende einmal die Abschlussprüfung wiederholen kann.",
+			"Auf Antrag des Auszubildenden kann die Ausbildungsdauer beliebig verlängert werden, wenn der Ausbildende zustimmt.",
+			"Die Abschlussprüfung kann maximal zweimal wiederholt und die Ausbildungsdauer um maximal 1,5 Jahre verlängert werden.",
+			"Die Abschlussprüfung kann zweimal wiederholt und die Ausbildungsdauer um maximal ein Jahr verlängert werden.",
+			"Eine Verlängerung ist immer nur mit Zustimmung des Ausbildenden möglich."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Was versteht man in der Berufspädagogik unter einem Lernziel?",
+		"Answers": [
+			"Die Beschreibung eines Lerninhaltes und der Verhaltensweisen, die ein Lernender nach erfolgreichem Lernen zeigen soll, nennt man Lernziel.",
+			"Lernziel nennt man die einzelnen Details der Prüfungsordnungen.",
+			"Lernziel nennt man die Vorsätze eines Ausbilders oder Lehrers für eine Ausbildungsmaßnahme.",
+			"Die Lerninhalte, die ein Auszubildender durch selbständiges Lernen erwirbt.",
+			"Lernziel nennt man jedes Thema, welches absichtsvoll zum Gegenstand einer Unterweisung gemacht wird."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Was bedeutet der Begriff \"kognitiv\", der im Zusammenhang mit Lernzielbeschreibungen verwandt wird?",
+		"Answers": [
+			"Die Bewegungsabläufe betreffend",
+			"Die manuelle Fähigkeiten beireffend",
+			"Die Erkenntnis betreffend",
+			"Das Gefühlsleben betreffend",
+			"Das soziale Verhalten betreffend"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welche Maßnahme des Ausbilders ist ein Teil der von ihm geforderten Zielplanung?",
+		"Answers": [
+			"Der Ausbilder stellt einen Versetzungsplan auf, in dem er die Verweildauer der Auszubildenden an den einzelnen Lernorten festlegt.",
+			"Der Ausbilder stellt eine Serie von Arbeitstransparenten her.",
+			"Der Ausbilder zergliedert einen Arbeitsablauf unter sachlogischen Gesichtspunkten.",
+			"Der Ausbilder legt sich die Methode für die nächste Unterweisung zurecht.",
+			"Der Ausbilder definiert das Verhalten, das die Auszubildenden am Ende eines Ausbildungsabschnittes zeigen können."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Worauf beziehen sich die affektiven Lernziele?",
+		"Answers": [
+			"Rechenfertigkeiten",
+			"Handfertigkeiten",
+			"Geschicklichkeit",
+			"Kenntnisse",
+			"Gefühle und Wertvorstellungen"
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Worauf beziehen sich u. a. die kognitiven Lernziele?",
+		"Answers": [
+			"Fähigkeiten",
+			"Wissen, Kenntnisse",
+			"Fertigkeiten",
+			"Gefühle",
+			"Wertvorstellungen"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche Lernzielformulierung ist überwiegend dem kognitiven Lernbereich zuzuordnen? Der Auszubildende soll ...",
+		"Answers": [
+			"... Rohre biegen können;",
+			"... Nietverbindungen herstellen können;",
+			"... Kunden freundlich beraten;",
+			"... Transportwagen sorgfältig beladen können;",
+			"... Flächenberechnungen durchführen können."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Welche Lernzielformulierung ist überwiegend dem affektiven Lernbereich zuzuordnen? Der Auszubildende soll ...",
+		"Answers": [
+			"... Eigenschaften von Kupfer nennen können;",
+			"... die Herstellung von Messing erklären können;",
+			"... die ihm übertragenen Arbeiten verantwortungsbewußt ausführen;",
+			"... Steckdosen anbringen können;",
+			"... den Rauminhalt einer Pyramide berechnen können."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Worauf beziehen sich die psychomotorischen Lernziele?",
+		"Answers": [
+			"Kenntnisse",
+			"Wertempfinden",
+			"Einsichten",
+			"Gefühle, Einstellungen",
+			"motorische Fähigkeiten und Fertigkeiten"
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Welches Lernziel gehört in den psychomotorischen Lernbereich? Der Auszubildende ...",
+		"Answers": [
+			"... nennt den Mehrwertsteuersatz für Nahrungsmittel.",
+			"... zählt Gefahren des Straßenverkehrs auf.",
+			"... erklärt ein Diagramm.",
+			"... lackiert einen Fensterrahmen.",
+			"... geht bei der Gruppenarbeit bereitwillig auf die übrigen Mitarbeiter ein."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welches der folgenden Lernziele ist \"operationalisiert\"?",
+		"Answers": [
+			"Der Auszubildende kann Kunden beraten, Waren verkaufen und Bargeld entsprechend den Vorschriften ordentlich einnehmen.",
+			"Nach der Unterweisung kann der Auszubildende Möglichkeiten des bargeldlosen Zahlungsverkehrs nennen und mit eigenen Worten erklären.",
+			"Das Ziel der Unterweisung ist erreicht, wenn der Auszubildende mittels einer Bohrmaschine in eine Metallplatte von 10 mm Stärke 10 Bohrungen mit verschiedenen vorgegebenen Durchmesser fehlerfrei (Fehlerquote 0) an den in einer technischen Zeichnung vorgegebenen Stellen anbringen kann.",
+			"Das Ziel der Unterweisung ist erreicht, wenn der Auszubildende den Vorgang mit eigenen Worten beschreiben kann."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Betriebliche Schulungen, die Bestandteil der Ausbildung sind ...",
+		"Answers": [
+			"... dürfen nur in berufsschulfreien Zeiten und maximal zwei Stunden pro Woche durchgeführt werden.",
+			"... können bis zu zwei Stunden wöchentlich außerhalb der regelmäßigen täglichen Ausbildungszeit durchgeführt werden.",
+			"... können nach Zustimmung durch die zuständige Stelle auch außerhalb der täglichen Ausbildungszeit durchgeführt werden, wenn sie die Höchststundenzahl nicht überschreiten.",
+			"... müssen grundsätzlich während der täglichen Ausbildungszeit erfolgen.",
+			"... dürfen mit Genehmigung der Aufsichtsbehörde auch außerhalb der täglichen Ausbildungszeit durchgeführt werden, weil sie eine erfolgreiche Abschlussprüfung zum Ziel haben."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Wie hoch ist die nach dem Jugendarbeitsschutzgesetz höchstzulässige tägliche und wöchentliche Arbeitszeit für Jugendliche im Normalfall?",
+		"Answers": [
+			"7 Stunden täglich, 35 Stunden wöchentlich",
+			"7,5 Stunden täglich, 37,5 Stunden wöchentlich",
+			"8 Stunden täglich, 37,5 Stunden wöchentlich",
+			"8 Stunden täglich, 40 Stunden wöchentlich",
+			"8,5 Stunden täglich, 40 Stunden wöchentlich"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Ein auf einen Feiertag folgender Werktag, an dem nicht gearbeitet oder ausgebildet wird, kann bei Jugendlichen wie folgt herausgearbeitet werden:",
+		"Answers": [
+			"Mit maximal 8,5 Stunden je Arbeitstag innerhalb von 6 Wochen.",
+			"Mit maximal 10 Stunden je Arbeitstag innerhalb von 5 Wochen.",
+			"Maximal 8,5 Stunden je Arbeitstag innerhalb von einem halben Jahr.",
+			"Mit maximal 8,5 Stunden je Arbeitstag innerhalb von 5 Wochen.",
+			"Mit maximal 9 Stunden je Arbeitstag innerhalb von 2 Wochen."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Ein Jugendlicher möchte sich das Geld für eine Stereoanlage verdienen. Er möchte deshalb regelmäßig Samstag als Aushilfskraft an einer Tankstelle arbeiten. Der Jugendliche befindet sich in einer Berufsausbildung, die keine Samstagsbeschäftigung beinhaltet. Darf der Tankstelleninhaber den Auszubildenden beschäftigen?",
+		"Answers": [
+			"Nein",
+			"Ja",
+			"Ja, allerdings bedarf es dazu der Zustimmung des Ausbildungsbetriebes.",
+			"Ja, allerdings nur mit Zustimmung des gesetzlichen Vertreters.",
+			"Nein, weil der Gesetzgeber Samstagarbeit für Jugendliche ausdrücklich verbietet."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Jugendliche dürfen im Ausbildungsbetrieb nicht beschäftigt werden, wenn der Berufsschulunterricht an diesem Tag ...",
+		"Answers": [
+			"... 5 Stunden beträgt.",
+			"... mehr als 4 Stunden beträgt.",
+			"... mehr als 3 Stunden beträgt.",
+			"... mehr als 5 Stunden beträgt.",
+			"... begonnen wurde."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Ein 17jähriger Auszubildender im ersten Ausbildungsjahr hat in der Berufsschule Blockunterricht mit 28 Unterrichtsstunden an 5 Tagen in der Woche. Darf der Ausbilder in dieser Woche eine betriebliche DV-Ausbildung zusätzlich durchführen?",
+		"Answers": [
+			"Nein, während der Freistellung zum Blockunterricht in der Berufsschule darf keinerlei betriebliche Ausbildung erfolgen.",
+			"Ja, bis zu 4 Stunden je Woche.",
+			"Ja, bis zu 2 Stunden je Woche.",
+			"Ja, zusätzlich Samstags mit maximal 4 Stunden.",
+			"Ja, solange Schulzeit und Betriebliche Ausbildungszeit nicht mehr als 8 Stunden täglich ergeben."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Wer wacht über die Einhaltung der Arbeitszeit?",
+		"Answers": [
+			"Die Berufsgenossenschaft",
+			"Die zuständige Stelle",
+			"Das Arbeitsamt",
+			"Das Gewerbeaufsichtsamt",
+			"Das Amt für Jugendfragen"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Der jugendliche Auszubildende soll an einem Montag von 8:00 Uhr bis 14:00 Uhr an der schriftlichen Abschlussprüfung teilnehmen und beansprucht in seinem Ausbildungsbetrieb die Freistellung für den vorangegangenen Freitag. Er arbeitet von Montag bis Freitag in der Woche 40 Stunden. Welchen Freistellungsanspruch besitzt der Jugendliche?",
+		"Answers": [
+			"Der Auszubildende kann den Tag seiner Freistellung vor der schriftlichen Prüfung selbst bestimmen.",
+			"Die Freistellungspflicht gilt nur für den Arbeitstag, der der schriftlichen Abschlussprüfung unmittelbar vorausgeht.",
+			"Die Freistellungspflicht gilt nur für die Zwischenprüfung.",
+			"Eine Freistellungspflicht besteht nur, wenn die Prüfung sich ohne Pausen über mindestens sechs Stunden erstreckt.",
+			"Für die Freistellung bedarf es einer übereinstimmenden Willenserklärung aller an dem Berufsausbildungsverhältnis Beteiligten."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Jugendlichen ist nach Beendigung der täglichen Arbeitszeit Freizeit zu gewähren. In welchem der nachfolgend genannten Beispiele ist die Freizeitregelung des JArbSchG beachtet worden?",
+		"Answers": [
+			"Der Arbeitgeber bittet den Auszubildenden während einer Zeit sehr flauer Geschäftstätigkeit, sich für den folgenden Arbeitstag zur Arbeit bereit zu halten(Rufbereitschaft). Zwischen Ausbildungsende am ersten Tag und der Wiederbeschäftigung liegen 10 Stunden.",
+			"Der Arbeitgeber bittet den Auszubildenden, seine Freizeit zu unterbrechen, da ein anderer Mitarbeiter erkrankt ist.",
+			"Der Arbeitgeber bittet den Auszubildenden, während seiner Freizeit ausnahmsweise die gelegentlichen Telefonanrufe von Kunden entgegenzunehmen. Im übrigen könne er während der Zeit seine Schulaufgaben machen, lesen oder Musik hören.",
+			"Der Arbeitgeber bittet den Auszubildenden, seine Freizeit für 4 Stunden zu unterbrechen, da er einen unaufschiebbaren Kundenbesuch machen muss und sonst niemand im Betrieb ist.",
+			"Der Auszubildende, der in einer Wohngemeinschaft mit seinem Arbeitgeber lebt, hilft aus Gefälligkeit im Familienhaushalt des Ausbildenden mit."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Welche Ruhepausen sind für Jugendliche vorgeschrieben, sofern keine abweichenden Vereinbarungen bestehen?",
+		"Answers": [
+			"Nach 3 Stunden Arbeitszeit eine Pause von 30 Minuten.",
+			"Bei einer Arbeitszeit von mehr als 6 Stunden 60 Minuten.",
+			"Bei mehr als 5 Stunden Arbeitszeit eine Pause von 45 Minuten.",
+			"Bei 8 Stunden Arbeitszeit mindestens eine Frühstückspause von 15 Minuten und eine Mittagspause von 30 Minuten.",
+			"Bei einer Arbeitszeit von bis 5 Stunden ist eine Pause nicht zwingend vorgeschrieben."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Wie lange dürfen Jugendliche und Erwachsene ununterbrochen beschäftigt werden, ohne dass eine Ruhepause zwischengelagert ist?",
+		"Answers": [
+			"Jugendliche 4 Stunden, Erwachsene 6 Stunden",
+			"Jugendliche 4,5 Stunden, Erwachsene 6 Stunden",
+			"Jugendliche und Erwachsene 4 Stunden",
+			"Erwachsene 4,5 Stunden, Jugendliche 6 Stunden",
+			"Jugendliche 4 Stunden, Erwachsene 5 Stunden"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Nach den Vorschriften des JArbSchG können auch jugendliche Auszubildende bei vorübergehenden und unaufschiebbaren Arbeiten und in Notfällen mit Mehrarbeit betraut werden. Auf welchen der nachfolgenden Sachverhalte trifft der Notfall zu?",
+		"Answers": [
+			"Der Ausbildende hat einen Fehler bei der Personaldisposition gemacht und verlangt am Dienstleistungsabend im Einzelhandel von seinem Auszubildenden Mehrarbeit.",
+			"Der Auszubildende hat kurz vor Arbeitsschluss eine länger dauernde Arbeit, die nicht unterbrochen werden darf, begonnen. Der Ausbildende verlangt, die Beendigung der Arbeit in Mehrarbeit.",
+			"Der Ausbildende hat ein Transportmittel zu spät bestellt. Als es endlich gegen Feierabend eintrifft, verlangt er von dem Auszubildenden, dass er das Fahrzeug noch mit der auszuliefernden Ware belädt.",
+			"Ein Angestellter des Ausbildungsbetriebes ist plötzlich erkrankt. Der Ausbildende verlangt von dem Auszubildenden Mehrarbeit bis zur Genesung des erkrankten Mitarbeiters.",
+			"Ein Wasserrohrbruch hat das Materiallager teilweise überschwemmt. Um die empfindlichen Materialien zu schützen und vor Unbrauchbarkeit zu bewahren, sollen sie in höher gelegene Regale verlegt werden. Alle Mitarbeiter des Betriebes einschließlich der Auszubildenden werden daran beteiligt."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Warum ist die Einführung des Auszubildenden in den Betrieb so wichtig?",
+		"Answers": [
+			"Weil er in der Regel noch minderjährig ist.",
+			"Weil er dann die Ausbildung schneller beendet.",
+			"Weil sich die Chancen, die Zwischenprüfung zu bestehen, erhöhen.",
+			"Weil dadurch die Probezeit verkürzt werden kann.",
+			"Weil dem Lehrling das betriebliche Milieu und die Spielregeln meist fremd sind."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Im Allgemeinen sind Jugendliche, die in einen Ausbildungsbetrieb eintreten, ...",
+		"Answers": [
+			"... sehr gut über den Betrieb informiert.",
+			"... gut über den Betrieb informiert.",
+			"... kaum über den Betrieb informiert."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "In der ersten Zeit der Ausbildung sind die jungen Menschen ...",
+		"Answers": [
+			"... wegen ihrer natürlichen Vorsicht kaum durch Unfälle gefährdet.",
+			"... auf die Sicherheitsunterweisung durch Ausbilderinnen oder Ausbilder angewiesen.",
+			"... von allen gefährlichen Situationen am Arbeitsplatz und auf den betrieblichen Verkehrswegen fernzuhalten."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Die Führung des Ausbildungsnachweises sollte ...",
+		"Answers": [
+			"... in den ersten Tagen der Ausbildung angeleitet werden.",
+			"... sollte in der ersten Woche noch nicht gefordert werden.",
+			"... sollte nach Beendigung der Probezeit einsetzen.",
+			"... sollte spätestens vor der Zwischenprüfung nachgeholt werden."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Die Regelungen zur Arbeitszeit und den Pausen ...",
+		"Answers": [
+			"... sollten die Auszubildenden von anderen Mitarbeitenden erfragen.",
+			"... sind im Rahmen der Fürsorgepflicht der Ausbilder und Ausbilderinnen schon am ersten Ausbildungstag darzustellen.",
+			"... sind unbedingt schriftlich mitzuteilen."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Wenn die Auszubildenden erfahren, welche Bedeutung der Betrieb hat und welche Leistungen er erbringt, dann kann dadurch ...",
+		"Answers": [
+			"... eine erwünschte Identifizierung mit dem Betrieb angebahnt werden.",
+			"... eine Abschreckung ausgelöst werden, weil die Auszubildenden sich nicht zutrauen, diese Leistungen ebenfalls zu erbringen."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Um die Zusammenarbeit mit den anderen Mitarbeitenden in die richtigen Bahnen zu lenken, sollten Ausbilderinnen und Ausbilder insbesondere das Prinzip ...",
+		"Answers": [
+			"... Kundenfreundlichkeit erklären.",
+			"... Selbstverantwortung erklären.",
+			"... Solidarität erklären."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Die Vorstellung von Weisungsberechtigten ist ...",
+		"Answers": [
+			"... wichtig, weil die Auszubildenden nur die Weisungen von solchen Personen befolgen müssen.",
+			"... wichtig, weil die Auszubildenden wissen müssen, wer im Betrieb grundsätzlich Weisungen erteilen darf.",
+			"... auf alle Weisungsberechtigten zu beziehen, unabhängig davon, ob die Auszubildenden etwas mit ihnen zu tun haben."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Was ist eine richtige Reihenfolge im Bildungssystem Deutschlands?",
+		"Answers": [
+			"Primarbereich- Tertiärbereich- Sekundarbereich I- Sekundarbereich II",
+			"Sekundarbereich I- Sekundarbereich II- Tertiärbereich- Primarbereich",
+			"Primarbereich I- Sekundarbereich I- Primarbereich II- Sekundarbereich II Tertiärbereich",
+			"Primarbereich- Sekundarbereich I- Sekundarbereich II- Tertiärbereich"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche schulischen Bildungseinrichtungen gehören ausschließlich in den Sekundarbereich II?",
+		"Answers": [
+			"Grundschule, Realschule, Gymnasium",
+			"Grundschule, Berufsschule, Universität",
+			"Berufsschule, Berufsfachschule, Berufsaufbauschule",
+			"Realschule, Berufsfachschule, Fachhochschule"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Was ist ein typischer Entwicklungsweg zum Meistertitel im Handwerk?",
+		"Answers": [
+			"Grundschule- Realschule- Berufsausbildung im dualen System Fachschule",
+			"Grundschule- Gymnasium- Studium an einer Universität",
+			"Grundschule- Realschule- Berufsfachschule- Fachschule",
+			"Grundschule- Hauptschule- Berufsfachschule- Fachhochschule"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Der Sekundarbereich II ist der Bereich ...",
+		"Answers": [
+			"... der Berufsausbildung.",
+			"... der betrieblichen Fortbildung/ Weiterbildung.",
+			"... der Allgemeinbildenden Vollzeitschule.",
+			"... der Berufsausbildung und der Weiterbildung"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Was bedeutet Transparenz im Bildungssystem?",
+		"Answers": [
+			"Chancengleichheit",
+			"Überschaubarkeit",
+			"horizontale Durchlässigkeit",
+			"Anpassung an neue Anforderungen"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Der Forderung nach vertikaler Durchlässigkeit wird das Bildungssystem Deutschlands gerecht, indem die Möglichkeit eingeräumt wird, ...",
+		"Answers": [
+			"... z. B. von der Realschule zum Gymnasium zu wechseln.",
+			"... ohne Berufsabschluss einen Meisterabschluss im Handwerk oder der Industrie zu erlangen.",
+			"... gleichgültig aus welcher sozialen Schicht er kommt, alle Bildungswege zu nutzen.",
+			"... von einer Stufe des Bildungswesens in eine höhere aufzusteigen."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche der nachfolgenden Aussagen zur beruflichen Bildung ist nicht richtig?",
+		"Answers": [
+			"Ein Berufsabschluss und berufliche Fortbildung sind ein dringendes Erfordernis, um den qualitativ steigenden Anforderungen des Berufslebens gerecht zu werden.",
+			"Ein Berufsabschluss wirkt sich positiv auf die Chancen auf dem Arbeitsmarkt",
+			"Die Berufsausbildung ist nicht Bestandteil des Bildungssystems Deutschlands, da sie vorwiegend in Betrieben erfolgt.",
+			"Die Allgemeinbildenden Schulen gewährleisten eine differenzierte Vorbereitung auf ein Berufsleben."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welche Aussage zur wirtschaftlichen Bedeutung der Berufsbildung ist richtig?",
+		"Answers": [
+			"Mit zunehmender Automatisierung sinkt die Bedeutung einer beruflichen Bildung.",
+			"In einem rohstoffarmen Land wie Deutschland nimmt die berufliche Bildung eine Schlüsselrolle ein.",
+			"Die wirtschaftliche Entwicklung ist absolut nicht im Zusammenhang mit dem Niveau der Berufsbildung zu sehen.",
+			"Investitionen im Sachkapital ersetzen Investitionen im Humankapital."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Der bildungspolitische Schwerpunkt der Entwicklung der Berufsausbildung liegt ...",
+		"Answers": [
+			"... in der noch umfassenderen Allgemeinbildung.",
+			"... im weiteren Ausbau des Netzes der Berufsschulen.",
+			"... im Ausbau überbetrieblicher Ausbildungsstätten.",
+			"... in der weiteren Qualifizierung der berufspraktischen Ausbildung im Betrieb."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Die öffentliche Verantwortung für die Berufsausbildung im Ausbildungsbetrieb wird wahrgenommen durch die Zuständigkeit ...",
+		"Answers": [
+			"... der Ausbildungsbetriebe selbst.",
+			"... der Selbstverwaltungseinrichtungen der Wirtschaft (IHK, HWK und andere).",
+			"... der Schulämter.",
+			"... der Gewerbeaufsichtsämter."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Falls die zuständige Stelle die Eintragung eines Berufsausbildungsverhältnisses verweigert, ...",
+		"Answers": [
+			"... kann dagegen das Amtsgericht angerufen werden.",
+			"... kann dagegen ohne weiteres außergerichtliches Vorverfahren das Verwaltungsgericht angerufen werden.",
+			"... kann dagegen nach Durchführung des Widerspruchsverfahrens Klage beim Verwaltungsgericht erhoben werden.",
+			"... kann überhaupt kein Gericht angerufen werden, sondern nur Widerspruch bei der zuständigen Stelle eingelegt werden.",
+			"... kann nur Widerspruch bei der Landesregierung eingelegt werden."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Sie beauftragen den jugendlichen Auszubildenden, sich der vorgeschriebenen Nachuntersuchung zu unterziehen. Welche Aussage ist richtig?",
+		"Answers": [
+			"die Zeit der Untersuchung wird bei der Berechnung der Ausbildungsvergütung abgezogen.",
+			"Der Auszubildende muss sich in seiner Freizeit untersuchen lassen.",
+			"Der Ausbildende muss den Auszubildenden unter Fortzahlung der Vergütung freistellen.",
+			"Die Kosten der Untersuchung tragen die Erziehungsberechtigten des Auszubildenden.",
+			"Die Kosten der Untersuchung tragen zu je 50% der Auszubildende und die Erziehungsberechtigten des Auszubildenden."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Ordnen Sie die folgenden Aussagen zur Entwicklung der Gefühle und Wertvorstellungen den 3 Phasen des Jugendalters zu!\n(Aussage I: Die Gefühlsreaktionen entsprechen in ihrer Heftigkeit häufig nicht dem auslösenden Anlaß-Unausgeglichenheit der Gefühle.)",
+		"Answers": [
+			"Vorpubertät",
+			"Pubertät",
+			"Adoleszenz"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ordnen Sie die folgenden Aussagen zur Entwicklung der Gefühle und Wertvorstellungen den 3 Phasen des Jugendalters zu!\n(Aussage II: Der Jugendliche hat die Fähigkeit erworben, seine Gefühle verhältensmäßig gut zu kontrollieren und in angemessener Weise zu äußern.)",
+		"Answers": [
+			"Vorpubertät",
+			"Pubertät",
+			"Adoleszenz"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Ordnen Sie die folgenden Aussagen zur Entwicklung der Gefühle und Wertvorstellungen den 3 Phasen des Jugendalters zu!\n(Aussage III: Neue Entfaltungsmöglichkeiten werden erkannt. Das führt zu innerer Unsicherheit, leichter Verletzbarkeit und Hellhörigkeit.)",
+		"Answers": [
+			"Vorpubertät",
+			"Pubertät",
+			"Adoleszenz"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Ordnen Sie die folgenden Aussagen zur Entwicklung der Gefühle und Wertvorstellungen den 3 Phasen des Jugendalters zu!\n(Aussage IV: Das Selbstwertgefühl steigt, verbunden mit der Tendenz der Selbstüberschätzung)",
+		"Answers": [
+			"Vorpubertät",
+			"Pubertät",
+			"Adoleszenz"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ordnen Sie die folgenden Aussagen zur Entwicklung der Gefühle und Wertvorstellungen den 3 Phasen des Jugendalters zu!\n(Aussage V: Die Ideale werden als schonungsloser Maßstab bei Vorbildern angewendet.)",
+		"Answers": [
+			"Vorpubertät",
+			"Pubertät",
+			"Adoleszenz"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ordnen Sie die folgenden Aussagen zur Entwicklung der Gefühle und Wertvorstellungen den 3 Phasen des Jugendalters zu!\n(Aussage VI: Der Jugendliche wird auch gegenüber seinen neuen Vorbildern toleranter.)",
+		"Answers": [
+			"Vorpubertät",
+			"Pubertät",
+			"Adoleszenz"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Bis wann ist die Entwicklung der Feinmotorik weitgehend abgeschlossen?",
+		"Answers": [
+			"bis zum 4. Lebensjahr",
+			"bis zum 10. Lebensjahr",
+			"bis zum 15. Lebensjahr",
+			"bis zum Ende der Adoleszenz"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Aussage bezüglich der Entwicklung der Bindung an die elterliche Familie ist typisch für das Jugendalter?",
+		"Answers": [
+			"Die Familie hat überhaupt keine Bedeutung mehr.",
+			"Der Einfluss der Familie erlangt steigende Bedeutung. Die Eltern dienen als uneingeschränkte Vorbilder.",
+			"Das Jugendalter ist gekennzeichnet durch ein schrittweises Lösen von der Familie.",
+			"Die Familie spielt nur noch im Freizeitverhalten des Jugendlichen eine Rolle."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welches Persönlichkeitsmerkmal entspricht dem allgemeinen Entwicklungsstand eines 18-jährigen Auszubildenden (im Vergleich mit jüngeren Auszubildenden)?",
+		"Answers": [
+			"ausgeprägte Vergesslichkeit",
+			"stärkere Bereitschaft zur sozialen Einordnung, Übernahme von Verantwortung",
+			"stärkere Wechselhaftigkeit der Stimmungen und Gefühle, Gefühlsausbrüche",
+			"Unsicherheit im Umgang mit anderen Menschen"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Wie nennt man diesen Vorgang? Jugendliche begegnen beim Eintritt in den Betrieb neuen Forderungen an das Verhalten, an die Wertvorstellungen usw. Nach und nach übernimmt der Jugendliche im Ausbildungsbetrieb gültige soziale Normen, Wertvorstellungen, Verhaltensmuster und Rollen.",
+		"Answers": [
+			"Sozialisation",
+			"Retardierung",
+			"Akzeleration",
+			"Pubertät"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Wie nennt man die Erscheinung, dass sich die Phasen des Jugendalters immer mehr nach vorn verlagern und Jugendliche heute im Vergleich zu Jugendlichen vor 50 bis 60 Jahren um durchschnittlich 10 cm größer sind?",
+		"Answers": [
+			"Frustration",
+			"Akzeleration",
+			"Retardierung",
+			"Frühreife"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welches Verhalten sollte der Ausbilder bei Jugendlichen als entwicklungsbedingtes Merkmal erwarten und entsprechend bewerten?\n\nDer Ausbilder sollte erwarten, dass die Jugendlichen ...",
+		"Answers": [
+			"... besonders verstandsmäßig reagieren.",
+			"... weniger Gefühl zeigen als Erwachsene.",
+			"... kaum nach Unabhängigkeit streben.",
+			"... oft unangemessen heftig reagieren."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Kann man einen Jugendlichen in gleicher Weise körperlich beanspruchen wie einen 30jährigen von etwa gleicher Statur?",
+		"Answers": [
+			"Der Jugendliche kann in der Regel körperlich langzeitig stärker beansprucht werden als ein Erwachsener.",
+			"Bei gleicher Statur ist bei Jugendlichen und Erwachsenen die Belastbarkeit gleich.",
+			"Das Herz-Kreislauf-System ist bei Erwachsenen in der Regel weniger leistungsfähig als bei Jugendlichen.",
+			"Der Jugendliche ermüdet in der Regel schneller als ein Erwachsener."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welcher Einfluss auf die Entwicklung der Sozialkompetenz des Jugendlichen ist besonders stark?",
+		"Answers": [
+			"Arbeitsbedingungen",
+			"Vorbildwirkung des Ausbilders",
+			"Arbeitsplatzbeleuchtung",
+			"Alkohol- und Nikotingenuss"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Wenn ein Ausbilder entwicklungsbedingte Probleme beim Jugendlichen in seinem Leistungsverhalten feststellt, sollte er ...",
+		"Answers": [
+			"... die Forderungen betont autoritär durchsetzen.",
+			"... in jedem Fall die Fehlleistung tadeln.",
+			"... mit Rücksicht darauf reagieren.",
+			"... in einem Streitgespräch die Folgen seiner ungenügenden Leistungen für den Betrieb aufzeigen und mit einer Abmahnung drohen."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Beim Antritt seiner ersten Stelle fragt sich der Ausbilder: Ob die Auszubildenden mich auch respektieren?\n\nWenn der Ausbilder ...",
+		"Answers": [
+			"... seinen Status als Vorgesetzte betont, wird er voll respektiert werden.",
+			"... fachliche Kompetenz erkennen lässt, werden die Jugendliche seine Autorität anerkennen.",
+			"... sich auf die Stufe der Auszubildenden stellt und sich mit ihnen in allen Fragen solidarisiert, wird er zur natürlichen Autoritätsperson.",
+			"... charakterlich einwandfrei und entgegenkommend handelt, wird er wahrscheinlich ausgenutzt werden."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Was versteht man unter Entwicklung? Entwicklung ist ...",
+		"Answers": [
+			"... die Prägung des Verhaltens durch die Kultur.",
+			"... die Reihe relativ dauerhafter Veränderungen, denen Erleben und Verhalten im Zeitverlauf unterliegen.",
+			"... das Auftreten sogenannter sensibler Phasen im Reifungsprozess, in denen eine besonders intensive Möglichkeit zur Beeinflussung gegeben ist.",
+			"... das Ergebnis des Erziehungsprozesses."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche der folgenden Beschreibungen kennzeichnet am besten den körperlichen Reifungsprozess?\n\nReifen ist ...",
+		"Answers": [
+			"... die durch Training gewonnene, zunehmende Koordinierung der Körperbewegungen.",
+			"... die Entwicklung der verschiedenen Körperfunktionen, in Verbindung mit Wachstumsvorgängen.",
+			"... die Entwicklung von Fertigkeiten, die auf Lernprozessen beruhen.",
+			"... die wachsende Freude an körperlicher Bewegung im Jugendalter."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Auf welchen Zeitpunkt legt man heute unter entwicklungspsychologischen Gesichtspunkten den Anfang des Jugendalters?\n\nDen Anfang des Jugendalters legt man ...",
+		"Answers": [
+			"... auf den Zeitpunkt der Berufswahl.",
+			"... auf den Zeitpunkt, zu dem der junge Mensch seine wirtschaftliche Unabhängigkeit erlangt.",
+			"... auf den Zeitpunkt des Einsetzens der geschlechtlichen Reife.",
+			"... auf den Zeitpunkt, zu dem die Berufsausbildung beginnt."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Wie nennt man den Prozess, in dessen Verlauf sich beim Kind die Muskeln bis zur vollen Funktionsfähigkeit herausbilden?",
+		"Answers": [
+			"Verstärkung",
+			"Reifung",
+			"Differenzierung",
+			"Pubertät"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche Aussage zur Entwicklung des Auszubildenden im Rahmen der Ausbildung ist zutreffend?",
+		"Answers": [
+			"In der Ausbildung kann man Begabungen nicht mehr entfalten, wenn dieses in früheren Jahren versäumt wurden.",
+			"Je niedriger das Begabungsniveau eines Auszubildenden von der Anlage her ist, um so intensiver müssen die Anregungen durch die Ausbildung sein.",
+			"Auszubildende sollen keine Gelegenheit zur selbständigen Auseinandersetzung mit der Umwelt erhalten, weil dieses häufig zu Entwicklungsrückschlägen führt.",
+			"In der Ausbildung sollte man den Auszubildenden nicht laufend fordern, weil dadurch Begabungen zurückgedrängt werden."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche Aussage zum menschlichen Lernen ist zutreffend?",
+		"Answers": [
+			"Lernen vollzieht sich nur in der Form des Kenntniserwerbs.",
+			"Lernen vollzieht sich vielfach ohne Lehr- und Ausbildungsmaßnahmen, indem der Mensch sich mit der Umwelt auseinandersetzt.",
+			"Nach Beendigung der Jugendzeit ist der Mensch nicht mehr lernfähig (Was Hänschen nicht lernt, lernt Hans nimmermehr!).",
+			"Lernen vollzieht sich nur infolge irgendwelcher Lehr- oder Ausbildungsmaßnahmen, z.B. durch Eltern, Lehrer, Ausbilder."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Um welchen Vorgang handelt es sich? Eine Schreibkraft beherrscht das Maschinen-Schreiben seit 15 Jahren perfekt. Sie erhält den Auftrag eine Liste abzuschreiben. Diese Aufgabe erfüllt die Mitarbeiterin gewohnheitsmäßig.\n\nEs handelt sich um ...",
+		"Answers": [
+			"... einen Reifungsprozess.",
+			"... Lernen.",
+			"... weder um Reifen noch Lernen.",
+			"... Reifen und Lernen"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Prüfen Sie den Text auf sachliche Richtigkeit!\n\nI. Der Mensch ist in hohem Maße lernfähig.\nII. Die Lernfähigkeit ermöglicht dem Menschen, sich zu verändern.\nIII. Die Änderung des Verhaltens und der Verhaltensmöglichkeiten ist wesentliches Merkmal des Lernvorgangs.\nIV. Lernen Setzt sofort nach der Geburt ein und vollzieht sich in den ersten Lebensjahren vorzugsweise in Form der Funktionsreifung.\nV. Mit Beginn der Schule setzen unter staatlicher Aufsicht Lehr- und Lernprozesse ein, die das Kind schrittweise in die gesellschaftlichen Funktionen einführen.\nVI. Die Gesellschaft hat ein Interesse daran, dass die Nachkommende Generation die Lerninhalte erwirbt, die dem Einzelnen und der Gesellschaft nützen.",
+		"Answers": [
+			"Alle Aussagen sind richtig.",
+			"Die Aussagen 1, 4 und 6, sind falsch.",
+			"Die Aussage 4 ist falsch, alle anderen Aussagen sind richtig.",
+			"Die Aussage 4 ist richtig, alle anderen sind falsch."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Aussage ist falsch?\n\nReifung beschreibt u. a. die Entwicklung des Menschen hinsichtlich seiner ...",
+		"Answers": [
+			"... äußeren Erscheinung.",
+			"... Intelligenz.",
+			"... Auseinandersetzung mit der Umwelt.",
+			"... Persönlichkeit."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welche Aussage ist falsch?\n\nVerhaltensveränderungen des Menschen können auf ... zurückzuführen sein.",
+		"Answers": [
+			"ausschließlich Lernprozesse",
+			"ausschließlich Reifungsvorgänge",
+			"ausschließlich Auseinandersetzung mit der Umwelt",
+			"Reifungs- und Lernprozesse"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Feststellung zur Entstehung von Gruppen und zum Eintritt in Gruppen ist in der Regel zutreffend?",
+		"Answers": [
+			"Informelle Gruppen entstehen z. B. durch organisatorische Maßnahmen eines Betriebes, indem bestimmte Mitarbeiter zu einer Arbeitsgruppe zusammengefasst werden.",
+			"Häufige Kontakte fördern die Entstehung von Gruppen.",
+			"Das Führungsverhalten des Ausbilders hat keinen Einfluss auf die Gruppenbildung unter den Auszubildenden.",
+			"Die Zugehörigkeit zu einer bestimmten sozialen Schicht ist für den Eintritt in eine informelle Gruppe ohne Bedeutung."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche Aussage kennzeichnet treffend den Einfluss, den eine Lerngruppe auf das Lernverhalten des einzelnen ausübt?",
+		"Answers": [
+			"Der Gruppeneinfluss verhindert die Entfaltung der Persönlichkeit.",
+			"Die Gruppe dämpft die Lernmotivation des einzelnen.",
+			"Das Gruppenmitglied erhält bei seinen Lernversuchen Ermutigungen, die die Anstrengungsbereitschaft fördern.",
+			"Beim Auftreten von Lernschwierigkeiten wird einen Gruppe schneller entmutigt als ein individuell Lernender."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welche Aussage über die Beziehungen und das Verhalten der Jugendlichen in der Gruppe ist zutreffend?",
+		"Answers": [
+			"In der Gruppe von Gleichaltrigen fühlt der Jugendliche sich deshalb wohl, weil er sich keiner Autorität fügen muss.",
+			"Jugendliche können sich, ohne Schwierigkeiten zu bekommen, über die Normen ihrer Gruppe hinwegsetzen.",
+			"In den Gruppen Jugendlicher werden keine Gruppenführer anerkannt.",
+			"In der Gruppe der Gleichaltrigen findet der Jugendliche bei der Ablösung vom Elternhaus Verständnis für seine Nöte."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Aussage zur Entstehung von informellen Gruppen ist in der Regel zutreffend?",
+		"Answers": [
+			"Informelle Gruppen bilden sich z. B. dadurch, dass der Ausbilder eine entsprechende Anweisung gibt.",
+			"Informelle Gruppen entstehen immer außerhalb der Betriebe und Ausbildungsstätten.",
+			"Gruppenbildung wird dort verhindert, wo Auszubildende partnerschaftlich geführt werden.",
+			"Wenn ein Ausbilder seine Auszubildenden durch ungerechtfertigte Forderungen bedrängt, löst er Prozesse der informalen Gruppenbildung aus."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Jugendlichen bilden eine informelle Gruppe?",
+		"Answers": [
+			"Durch den Versetzungsplan werden sechs Auszubildende in einer Abteilung zusammengefasst.",
+			"In der Berufsschule werden die Auszubildenden eines bestimmten Berufes in einer Klasse zusammengefasst.",
+			"Der Ausbilder fasst Auszubildende, die Rechtschreibschwächen haben, zu einer Arbeitsgemeinschaft zusammen.",
+			"Vier Auszubildende, die ein Moped besitzen, treffen sich nach Arbeitsschluss häufig zu gemeinsamen Fahrten."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Begriffserklärung trifft auf den Begriff 'Rolle' zu?\n\nRolle nennt man:",
+		"Answers": [
+			"Die Stellung, die ein Gruppenmitglied in der Hierarchie der Gruppe einnimmt.",
+			"Die Spielregeln für den Umgang der Gruppenmitglieder untereinander.",
+			"Die Gesamtheit der Erwartungen, die in bestimmten Situationen an das Verhalten eines Gruppenmitgliedes gerichtet werden.",
+			"Die Verhaltensweisen eines Gruppenmitglieds, das sich nicht mit den Zielen der Gruppe identifiziert."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Ein Ausbilder bemüht sich um einen partnerschaftlichen Führungsstil. Wie wirkt sich dieses in der Tendenz auf das Gruppenverhalten der Auszubildenden aus?\n\nDie Auszubildenden ...",
+		"Answers": [
+			"... zeigen Bereitschaft zu kooperativem Verhalten.",
+			"... bereiten keinerlei Disziplinschwierigkeiten.",
+			"... äußern untereinander Missgunst und Misstrauen.",
+			"... lösen sich aus allen Gruppenbindungen."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Aussage über Gruppen ist zutreffend?",
+		"Answers": [
+			"Der Gruppenführer braucht sich nicht an die Gruppennormen zu halten.",
+			"Durch Verwendung einer Gruppensprache gewinnt der Sprecher gegenüber Außenstehenden das Gefühl der Überlegenheit.",
+			"Eine Gruppe, in der die Führung von zwei verschiedenen Gruppenführern wahrgenommen wird, z. B. von dem Stärksten und dem Klügsten, fällt zwangsläufig auseinander",
+			"Solange eine Gruppe besteht, bleiben die Gruppennormen unverändert."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein Ausbilder will Gruppenunterricht durchführen. Welche Aussage über die Schwierigkeiten bzw. Vorteile der verschiedenen Gruppengrößen ist zutreffend?",
+		"Answers": [
+			"Eine Vierergruppe hat die Tendenz, einen Auszubildenden an den Rand zu drängen.",
+			"Die Achtergruppe garantiert den engsten Zusammenhalt und die zielstrebigste Sacharbeit.",
+			"Die Vierergruppe löst sich häufig in Zweiergruppen auf.",
+			"Die Fünfergruppe erschwert eine zielgerichtete Arbeit, weil Personalbeziehungen und Rangkämpfe die sachlichen Fragen überdecken."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Ein Ausbilder hatte an seine acht Auszubildenden die folgende Frage gestellt: 'Wem würden Sie sich in der Meinung anschließen, wenn Sie sich bei einer Streitfrage keine eigene Meinung bilden könnten?' Welchen Sinn hat ein solches Soziogramm? Das Soziogramm soll ...",
+		"Answers": [
+			"... die Beziehungen innerhalb der Gruppe verdeutlichen.",
+			"... die Festigung informeller Gruppen verhindern.",
+			"... Gruppenprozesse organisieren.",
+			"... die Auszubildenden zu Rangkämpfen anregen."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Aussage kennzeichnet zutreffend die Rolle der Jugend in der Gesellschaft?",
+		"Answers": [
+			"Die Jugend spielt keine eigenständige Rolle, sie ahmt in allem die Erwachsenen nach und wächst sehr schnell in die Erwachsenenrolle hinein.",
+			"In kultureller Hinsicht fehlt den Jugendlichen jede eigenständige Lebens- und Ausdrucksform.",
+			"Im Gegensatz zu früheren Jahrhunderten spielt die Jugend als Gruppe eine deutlich geringer ausgeprägte Rolle in der Gesellschaft.",
+			"Durch eigenständige Verhaltensmuster, Mode, Musik und Freizeitbeschäftigungen heben sich die Jugendlichen als Gruppe von der Gruppe der Erwachsenen ab."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Merkmale bzw. Verhaltensweisen könnten bei einem Auszubildenden Symptome einer beginnenden Drogenabhängigkeit sein?",
+		"Answers": [
+			"ständiges Müdesein und zunehmende Passivität",
+			"übersteigerte Beachtung der eigenen Kleidung und des äußeren Erscheinungsbildes",
+			"zunehmende geistige Regsamkeit",
+			"pedantische Ordnungsliebe und Rechthaberei"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche der genannten Vorschriften ist eine von der zuständigen Stelle erlassene Rechtsvorschrift?",
+		"Answers": [
+			"Das Berufsbildungsgesetz",
+			"Die Ausbildungsordnungen",
+			"Die Ausbildereignungsverordnung",
+			"Die Berufsfachschul-Anrechnungsverordnung",
+			"Die Prüfungsordnung für Zwischen- und Abschlussprüfung"
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Gemäß Berufsbildungsgesetz obliegt der Kammer als zuständige Stelle ...",
+		"Answers": [
+			"... die Regelung der Durchführung der Berufsausbildung.",
+			"... die Überwachung der Durchführung der Berufsausbildung.",
+			"... die Regelung der Durchführung und Überwachung der Berufsausbildung.",
+			"... die Förderung der Berufsausbildung.",
+			"... die Regelung und Überwachung der Durchführung der Berufsausbildung sowie die Förderung."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Mitglieder der Berufsbildungsausschüsse bei den zuständigen Stellen sind",
+		"Answers": [
+			"je 6 Beauftragte der Arbeitnehmer, der Ausbildungsbetriebe und der Berufsschule.",
+			"je 6 Beauftragte der Arbeitgeber und der Arbeitnehmer sowie 6 Lehrer an Berufsbildenden Schulen",
+			"je 6 Beauftragte der Arbeitgeber und Arbeitnehmer sowie 5 Lehrer der berufsbildenden Schulen und 1 Geschäftsführer der zuständigen Stelle.",
+			"je 6 Beauftragte der Arbeitgeber und der Arbeitnehmer, der Berufsgenossenschaft, den Berufsbildenden Schulen und der zuständigen Stellen zusammen gestellt werden.",
+			"Vertreter der Arbeitgeber, der Arbeitnehmer sowie der Berufsbildenden Schulen. Der Umfang wird mit der Prüfungsordnung der zuständigen Stelle geregelt."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche der nachfolgenden Sachverhalte liegt im Aufgaben- und Entscheidungsbereich des Berufsbildungsausschusses der zuständigen Stelle?\n\nDer Berufsbildungsausschuss ...",
+		"Answers": [
+			"... entscheidet über Anträge auf vorzeitige Zulassung zur Abschlussprüfung.",
+			"... beschließt neue Ausbildungsordnungen.",
+			"... beschließt die auf der Grundlage des BBiG von der zuständigen Stelle zu erlassenen Rechtsvorschriften für die Durchführung der Berufsbildung.",
+			"... vermittelt bei Streitigkeiten aus Berufsausbildungsverhältnissen.",
+			"... beschließt die von den Prüfungsausschüssen entwickelten Prüfungsaufgaben für die Durchführung der Zwischen- und Abschlussprüfungen."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welche der nachstehenden Lösungsvorschläge kennzeichnet zutreffend das Aufgabenspektrum des Ausbildungsberaters der zuständigen Stelle? Der Ausbildungsberater hat",
+		"Answers": [
+			"den Ausbilder zu beraten.",
+			"Ausbildende, Ausbilder und Auszubildende zu beraten.",
+			"die Einhaltung des JArbSchG bei Jugendlichen in der Berufsausbildung zu überwachen.",
+			"Ausbildende, Ausbilder und Auszubildende zu beraten und die Ausbildung zu überwachen.",
+			"Ausbildungsbetriebe und Berufsschulen zu beraten und die Ausbildung zu überwachen."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Wer ist im Rahmen des Prüfungswesens zuständig für die Ausschreibung von Prüfungen und die Bestimmung des Prüfungstermins?",
+		"Answers": [
+			"Der Prüfungsausschuss",
+			"Die für die Berufsbildung zuständige Stelle",
+			"Der Berufsbildungsausschuss der zuständigen Stelle",
+			"Die Berufsschule",
+			"Der Ausbildende"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Wer beschließt die Prüfungsordnung der zuständigen Stelle?",
+		"Answers": [
+			"Der Berufsbildungsausschuss der zuständigen Stelle; die zuständige oberste Landesbehörde muss die Prüfungsordnung genehmigen",
+			"Der Prüfungsausschuss der zuständigen Stelle",
+			"Die zuständige Stelle",
+			"Der Landesausschuss für Berufsbildung",
+			"Die zuständige Landesregierung"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Was gehört nicht zu den Aufgaben des Berufsbildungsausschusses der zuständigen Stelle?",
+		"Answers": [
+			"Beratung der Landesregierung in allen Grundsatzfragen der Berufsbildung",
+			"Beratung der zuständigen Stellen in allen Grundfragen der Berufsausbildung",
+			"Beratung der zuständigen Stelle auf dem Gebiet der beruflichen Fortbildung",
+			"Beratung der zuständigen Stellen in Fragen der Berufsausbildung",
+			"Beschließen der Prüfungsordnung der zuständigen Stelle"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Aufgaben hat der bei der zuständigen Stelle gebildete Schlichtungsausschuss?",
+		"Answers": [
+			"Er schlichtet Differenzen zwischen Kammer und Ausbildungsbetrieb bei mangelnder Ausbildung.",
+			"Er kann bei allen Streitigkeiten aus einem bestehenden oder aufgelösten Ausbildungsverhältnis anstelle des Arbeitsgerichts angerufen werden.",
+			"Er ist zur Beilegung von Streitigkeiten zwischen Ausbildenden und Auszubildenden aus einem bestehenden Berufsausbildungsverhältnis einzuschalten.",
+			"Er schlichtet Streitigkeiten über Prüfungsergebnisse.",
+			"Er entscheidet bei Streitigkeiten zwischen Ausbildungsbetrieb und Berufsschule."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Wie heißen die Rechtsvorschriften, die Kammern als zuständige Stellen erlassen?",
+		"Answers": [
+			"Gesetze",
+			"Rechtsverordnungen",
+			"Satzungen",
+			"Betriebsvereinbarungen",
+			"Tarifverträge"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welche Aufgaben hat der Landesausschuss für Berufsbildung?",
+		"Answers": [
+			"Erlassen von Rechtsverordnungen für die zuständigen Stellen für die Berufsbildung.",
+			"Beratung der Landesarbeitsämter in Fragen der beruflichen Fortbildung.",
+			"Beratung der Landesregierung in allen grundsätzlichen Fragen der Berufsausbildung.",
+			"Beratung der Landesregierung in allen grundsätzlichen Fragen der Berufsbildung.",
+			"Beratung d Ausbildungsbetriebe."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Aufgaben hat u. a. das Bundesinstitut für Berufsbildung?",
+		"Answers": [
+			"Es erlässt Richtlinien für die Tätigkeit der Berufsbildungsausschüsse.",
+			"Es ist beteiligt am Erlass von Finanzierungsrichtlinien für die Berufsbildung.",
+			"Es erlässt neue Ausbildungsordnungen.",
+			"Es wirkt an der Vorbereitung neuer Ausbildungsordnungen und bei der Erstellung des jährlichen Berufsbildungsberichtes mit.",
+			"Es berät die Ausbildungsbetriebe."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Rechtsgrundlage regelt die Arbeitsweise des Bundesinstitutes für Berufsbildung?",
+		"Answers": [
+			"BBiG",
+			"JArbSchG",
+			"Schulgesetze der Länder",
+			"GG",
+			"III. SGB"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Was ist das oberste Organ des Bundesinstituts für Berufsbildung?",
+		"Answers": [
+			"Der Präsident des BiBB",
+			"Die Kultusministerkonferenz",
+			"Die Konferenz der Vorsitzenden der Landesausschüsse für Berufsbildung",
+			"Der Hauptausschuss des BiBB",
+			"Die Bundesregierung"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Mitglieder des Hauptausschusses für Berufsbildung des BiBB mit beschließender Stimme sind?",
+		"Answers": [
+			"je 8 Beauftragte der Arbeitgeber, der Arbeitnehmer und der Länder, sowie 5 Beauftragte des Bundes.",
+			"je 8 Beauftragte der Arbeitgeber und der Arbeitnehmer sowie 5 Beauftragte der Bundesagentur für Arbeit.",
+			"je 8 Beauftragte der Bundesregierung, der Arbeitgeber und der Arbeitnehmer.",
+			"je 8 Beauftragte der Bundesregierung, der Bundesagentur für Arbeit und des BiBB.",
+			"je 8 Beauftragte der Bundesregierung und der Bundesagentur für Arbeit sowie 5 Beauftragte des BIBB."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "In der Berufsausbildung sollen die Auszubildenden befähigt werden, sich mit den ständigen Veränderungen der Wirtschaft, der wissenschaftlich-technischen Entwicklung und den sich damit verändernden Arbeitsinhalten auseinandersetzen und den neuen Anforderungen zu entsprechen. Man spricht in diesem Zusammenhang von",
+		"Answers": [
+			"Schlüsselqualifikation.",
+			"Handlungsregulation.",
+			"Handlungsorientierung.",
+			"Handlungskompetenz.",
+			"Handlungsmotivation."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Schlüsselqualifikationen sind ...",
+		"Answers": [
+			"... Fähigkeiten im Bereich von Schlüsseltechnologien.",
+			"... anlagebedingte beruflich wichtige Fähigkeiten.",
+			"... langfristig wirksame Ausstattung einer Person mit beruflich wertvollen Fähigkeiten",
+			"... im Arbeitsprozess unbeabsichtigt erworbene Fähigkeiten.",
+			"... in einer Person verborgene unbewusste und unveränderliche Fähigkeiten."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Im Laufe der Ausbildung soll der Ausbilder berufliche Handlungsfähigkeit fördern. Welche der folgenden Aussagen über den Inhalt der verschiedenen Kompetenzen trifft bzw. treffen zu?\nA) Fachkompetenz beinhaltet u. a. fachliche Grundkenntnisse, fachliche Fertigkeiten, Kooperationsfähigkeit, Ausdrucksfähigkeit.\nB) Persönlichkeitskompetenz beinhaltet u. a. Leistungsbereitschaft, Eigeninitiative, Lernfähigkeit und Lernbereitschaft, Kreativität.\nC) Sozialkompetenz beinhaltet u. a. Kooperationsfähigkeit, Hilfsbereitschaft, Einfühlungsvermögen, Kollegialität, Ausdrucksfähigkeit.",
+		"Answers": [
+			"Nur die Aussage A trifft zu.",
+			"Nur die Aussage B trifft zu.",
+			"Die Aussagen A und C treffen zu.",
+			"Die Aussagen B und C treffen zu.",
+			"Nur die Aussage C trifft zu."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Kenntnisse, Fähigkeiten und Fertigkeiten, die nicht nur mit einem Beruf, sondern berufsübergreifend von Bedeutung sind, nennt man ...",
+		"Answers": [
+			"... Problemlösefähigkeit.",
+			"... schlussfolgerndes Denken.",
+			"... Fachliche Kompetenz.",
+			"... Selbststeuerung und Selbstorganisation.",
+			"... Sozialkompetenz."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche Kompetenz wird insbesondere gefördert, wenn der Ausbilder auf die Qualität der Arbeitsausführung achtet?",
+		"Answers": [
+			"Problemlösefähigkeit",
+			"Schlussfolgerndes Denken",
+			"Fachliche Kompetenz",
+			"Selbststeuerung und Selbstorganisation",
+			"Sozialkompetenz"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welcher Lernauftrag ist insbesondere geeignet, die Fachkompetenz des Auszubildenden zu fördern?",
+		"Answers": [
+			"Begegnen sie den Kunden offen und aufgeschlossen!",
+			"Versuchen sie, sich voll auf die Ausbildungsziele zu konzentrieren!",
+			"Arbeiten sie die Sachstruktur des Themas heraus!",
+			"Stimmen sie ihre Vorgehensweise mit ihrem Arbeitspartner ab!",
+			"Vertrauen sie ihren Einfällen bei der Suche nach möglichen Problemlösungen!"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Die Schlüsselqualifikation Kommunikationsfähigkeit wird in solchen Lernprozessen gefördert, ...",
+		"Answers": [
+			"... in denen die Handlungsspielräume eingeschränkt sind.",
+			"... die durch Computereinsatz unterstützt werden.",
+			"... alternative Lösungswege zulassen und eine gemeinsame Entscheidungsfindung ermöglichen.",
+			"... in denen der Ausbilder möglichst viel eingreift.",
+			"... in denen ein guter Ausbildungsvortrag nachgeahmt wird."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welche Maßnahme des Ausbilders fördert insbesondere die Sozialkompetenz der Auszubildenden?",
+		"Answers": [
+			"Aufgaben stellen, die Initiative herausfordern",
+			"Fördern des selbst gesteuerten Lernens",
+			"Problemlösungen in der Gruppe suchen lassen",
+			"Arbeiten übertragen, deren Nutzen unmittelbar für andere erkennbar ist",
+			"Individuell abzuarbeitende Arbeitsprogramme"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Im kaufmännischen Bereich wird besonderer Wert auf Belastungsfähigkeit und Flexibilität gelegt. Welche Schlüsselqualifikation sollte daher besonders entwickelt werden?",
+		"Answers": [
+			"Kommunikationsfähigkeit, damit man mit den Kunden gut zurecht kommt",
+			"Planungsfähigkeit, damit man das Richtige zum richtigen Zeitpunkt macht",
+			"Umstellungsfähigkeit, damit man sich schnell auf neue Aufgaben einstellen kann",
+			"Individuelle Arbeitsweise, damit man seinen eigenen Stil entwickelt",
+			"Bereitschaft zur Übernahme von Verantwortung"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Neue Formen der Ausbildung haben die Förderung fachübergreifender Qualifikation zum Ziel. Welche Methode ist zum Erreichen dieses Ziels besonders geeignet?",
+		"Answers": [
+			"Die Leittextmethode",
+			"Der Ausbildervortrag",
+			"Eine Demonstration",
+			"Die Vier-Stufen-Methode",
+			"Alle vorgenannten Methoden"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Neuere Ausbildungsmethoden verlangen eine andere Stellung des Ausbilders. Er soll nicht mehr im Mittelpunkt des unmittelbaren Lerngeschehens stehen. Welche Wirkung hat dies für den Auszubildenden?",
+		"Answers": [
+			"Der Auszubildende kontrolliert seinen Ausbildungserfolg selbst und macht sich danach an die nächste Arbeit, die sein Ausbildungsplan für ihn vorsieht.",
+			"Der Auszubildende kontrolliert sämtliche Maschinenzeiten für eine bestimmte Arbeit selbst ohne Rücksprache und Absprachen mit seinen Ausbildungskollegen.",
+			"Der Auszubildende kontrolliert seine Arbeitsergebnisse zunächst selbst und klärt in einem anschließenden Fachgespräch mit dem Ausbilder Schwachstellen.",
+			"Der Auszubildende kontrolliert, ob der vorgegebene Text sinnvoll ist und ob er seine Arbeiten an Ausbildungskollegen delegieren kann.",
+			"Der Auszubildende kontrolliert, ob seine Übungsteile zu einem funktions- und gebrauchsfähigen Gegenstand zusammengebaut werden können. Produktion von Edelschrott ist nicht Aufgabe der Berufsausbildung."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Selbst gesteuertes Lernen gewinnt immer mehr an Bedeutung. Welche Anforderungen werden dadurch an den Ausbilder gestellt?",
+		"Answers": [
+			"Er wählt die Fachbücher gezielt aus, die der Auszubildende für die Lösung einer Aufgabe benötigt.",
+			"Durch den immer stärkeren Einsatz von neuen Technologien muss sich der Ausbilder umfassend auf diesen Gebieten weiterbilden, um weiterhin sachkundig die Auszubildenden zu unterweisen.",
+			"Er erstellt detaillierte Ausbildungsunterlagen, damit der Auszubildende selbstständig die ihm übertragenen Aufgaben planen und durchführen kann.",
+			"Der Ausbilder muss teamfähig sein, da er mit den anderen Ausbildern zusammen arbeiten muss.",
+			"Seine Aufgaben, wie Unterweisen, detailliertes Anweisen und Bewerten, verlagern sich zum Erstellen von Arbeitsaufträgen und Vermitteln von Methoden. Er wird Ansprechpartner und Berater."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Durch welche Art der Gestaltung der Ausbildung kann der Ausbilder insbesondere dazu beitragen, dass sich der Auszubildende Lern- und Arbeitsmethoden aneignet?",
+		"Answers": [
+			"Planvolles Vorgehen bei der Erarbeitung neuer Sachverhalte fordern",
+			"Systematisches Üben von Fertigkeiten",
+			"Arbeiten im Team",
+			"Diskussionen führen",
+			"Anleitung zur Arbeitszergliederung einer übertragenen Aufgabe"
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Schlüsselqualifikationen im Bereich der Sozialkompetenz finden auch ihren Niederschlag in Beurteilungen. Welcher Beurteilungspunkt gehört zum Sozialverhalten?",
+		"Answers": [
+			"Belastbarkeit",
+			"Arbeitstempo",
+			"Arbeitsleistung",
+			"Arbeitsgüte",
+			"Vertrauenswürdigkeit"
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Welche Aussage zur Entwicklung von Schlüsselqualifikationen ist richtig? Schlüsselqualifikationen ...",
+		"Answers": [
+			"... können nur in Ausbildungssituationen entwickelt werden, die selbst gesteuertes Lernen der Auszubildenden ermöglicht.",
+			"... müssen vom Ausbilder neben den fachlichen Zielen gesondert entwickelt werden.",
+			"... müssen vom Ausbilder im Zusammenhang mit fachlichen Zielen entwickelt werden.",
+			"... können nur in Ausbildungssituationen entwickelt werden, die Gruppen- oder Partnerarbeit ermöglichen.",
+			"... entwickeln sich automatisch."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Dürfen betriebsspezifische Ausbildungsinhalte in einer Ausbildungsstätte vermittelt werden?",
+		"Answers": [
+			"Nein, unter keinen Umständen darf das geschehen.",
+			"Diese Entscheidung ist allein dem Ausbildungsbetrieb anheim gestellt.",
+			"Betriebsspezifische Ausbildungsinhalte dürfen zusätzlich zu den vorgeschriebenen Fertigkeiten und Kenntnissen vermittelt werden.",
+			"Der Betrieb ist verpflichtet, vorrangig betriebsspezifische Ausbildungsinhalte zu vermitteln.",
+			"Betriebsspezifische Ausbildungsinhalte dürfen nur in der beruflichen Grundbildung vermittelt werden."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "WeIche Dauer einer Probezeit entspricht den gesetzlichen Bestimmungen?",
+		"Answers": [
+			"Bis 3Wochen",
+			"Bis 5 Wochen",
+			"Drei Wochen",
+			"Mindestens ein Monat, höchstens 4 Monate",
+			"Bis höchstens 6 Monate"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Mit der Ausbildungsordnung werden die wesentlichen Inhalte und Ziele der Ausbildung vorgegeben. Wer ist letztlich für die vollständige Vermittlung der Ausbildungsinhalte verantwortlich?",
+		"Answers": [
+			"Die Berufsschule",
+			"Ausbildenden",
+			"Der Ausbilder",
+			"Der Auszubildende",
+			"Die zuständige Stelle (Kammern usw.)"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche Definition des Begriffs Konflikt ist richtig? Unter einem Konflikt verstehen wir ...",
+		"Answers": [
+			"... einen Zustand, in dem man sich zwischen einander widersprechenden Motiven, Einstellungen, Standpunkten und Interessen entscheiden muss.",
+			"... die zwischen formellen und informellen Gruppen bestehenden unterschiedlichen Merkmale.",
+			"... ausschließlich Meinungsverschiedenheiten zwischen Menschen, wobei die Meinungsverschiedenheiten nicht gelöst werden können durch die beteiligten Personen.",
+			"... die in einer bestimmten Situation erwartete Haltung einer Person."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Was ist eine richtige Aussage über den Konflikt?",
+		"Answers": [
+			"Konflikte zwischen Auszubildenden und Ausbildern kennen nur durch den Ausbildenden gelöst werden.",
+			"Konflikte sind von vornherein negativ zu bewerten.",
+			"Bei Konflikten besteht zwischen den Parteien Spannung.",
+			"Bei Konflikten besteht zwischen den Parteien unlösbarer Gegensatz."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "In verschiedenen Verhaltenssituationen wird von Frust bzw. Frustration gesprochen. Was verstehen wir darunter?",
+		"Answers": [
+			"ein Spannungszustand, eine Entscheidungssituation",
+			"eine Erscheinung, die den unterschiedlichen Entwicklungsstand geistiger und körperlicher Entwicklung zum Ausdruck bringt",
+			"ein Gefühl der Enttäuschung, welches die Person daran hindert, Ziele weiter zu verfolgen",
+			"die menschliche Reaktion auf Lob und Tadel"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welche Wirkung von Konflikten ist typisch? Konflikte führen zu ...",
+		"Answers": [
+			"... Lernfreude, Zielstrebigkeit und Einsatzwillen.",
+			"... einer Erhöhung des Selbstbewusstseins.",
+			"... Optimismus und Lebensfreude.",
+			"... Reibungsverlusten und Beeinträchtigung der zwischenmenschlichen Beziehungen."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Verhaltensform gehört nicht zu den typischen bei Frust?",
+		"Answers": [
+			"Regression",
+			"Resignation",
+			"Aggression",
+			"Reorganisation"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Verhaltensweise charakterisiert aggressives Verhalten eines Jugendlichen?",
+		"Answers": [
+			"Ein jugendlicher Auszubildender kommt häufig zu spät zur Ausbildung und belügt den Ausbilder über die Ursache dieses Fehlverhaltens.",
+			"Ein Auszubildender wird vom Ausbilder auf einen Fehler bei der Ausführung mehrmals hingewiesen. Er stellt die falsche Handlung nicht ab und sagt: Das lerne ich nie!",
+			"Nach einer kritischen Auseinandersetzung verlässt der Jugendliche den Raum und schlägt die Tür lautstark hinter sich zu.",
+			"Ein Jugendlicher versucht, sich durch Ausreden um die Verantwortung für ein Fehlverhalten zu drücken."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Unter Resignation versteht man ...",
+		"Answers": [
+			"... feindliches Verhalten gegenüber Menschen und Gegenständen.",
+			"... Rückfall in Verhaltensweisen, die für frühere Zeiträume typisch sind.",
+			"... die Verdrängung von Erlebnissen und Einstellungen vom Bewusstsein ins Unterbewusstsein.",
+			"... das \"Sich in sein Schicksal ergeben\"."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Reaktion eines Jugendlichen ist als Regression zu bezeichnen?",
+		"Answers": [
+			"Ein Jugendlicher reagiert auf Kritik, indem er zunächst weint, dann trotzt und schließlich mit irgendwelchen Gegenständen spielt.",
+			"Um sich für ein Fehlverhalten zu rechtfertigen, erfindet ein Jugendlicher unzählige Ausreden.",
+			"Für seine schlechten schulischen Leistungen macht ein Auszubildender alle und alles, nur nicht sich selbst verantwortlich.",
+			"Ein Auszubildender streitet sich häufig mit anderen Auszubildenden, beleidigt diese und wird sogar handgreiflich."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Ein Rollenkonflikt liegt vor, ...",
+		"Answers": [
+			"... wenn altersbedingte Unterschiede in den Meinungen zu bestimmten aktuellen Tagesproblemen bestehen.",
+			"... wenn ein Gruppenführer nicht den Erwartungen der anderen Gruppenmitglieder entspricht.",
+			"... wenn ein Auszubildender sich nicht an die Gruppennormen gebunden fühlt, trotzdem aber danach handelt.",
+			"... wenn ein Gruppenführer vom Ausbilder eingesetzt wird."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein Rollenkonflikt wird verursacht, ...",
+		"Answers": [
+			"... immer dann, wenn sich jedes Gruppenmitglied sehr konsequent an die Gruppennormen hält.",
+			"... wenn sich ein Gruppenmitglied in einer bestimmten Funktion anders verhält als man das von ihm erwartet.",
+			"... wenn ein Gruppenmitglied eine andere Meinung zu einem Sachverhalt hat und diese nicht äußert.",
+			"... wenn ein Gruppenmitglied sich für die Durchsetzung der Gruppennormen einsetzt."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Aggressivität hat häufig ihre Ursache in ...",
+		"Answers": [
+			"... mangelndem Vertrauen.",
+			"... starkem Geltungsbedürfnis.",
+			"... Entwicklungsrückständen.",
+			"... Gleichgültigkeit."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Wenn ein Auszubildender versucht, Erlebnisse vom Bewusstsein ins Unterbewusstsein zu verdrängen, spricht man von ...",
+		"Answers": [
+			"... Regression.",
+			"... Frust.",
+			"... Verdrängung.",
+			"... Aggression."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Ein Ausbilder kann dazu beitragen, den Generationskonflikt zu überwinden, ...",
+		"Answers": [
+			"... indem er über unterschiedliche Auffassungen zwischen Jugendlichen und älteren Mitarbeitern hinwegsieht, denn der Jugendliche wird schon durch die Älteren erzogen.",
+			"... durch autoritären Führungsstil, denn der Jugendliche muss möglichst schnell zur Lebesauffassung der Älteren gebracht werden.",
+			"... durch konsequentes Ahnden jeglicher Abweichung im Verhalten Jugendlicher gegenüber Erwachsenen mit Sanktionen.",
+			"... durch tolerantes Verhalten, denn jeder hat seinen Beitrag zur Lösung dieses Konfliktes zu leisten."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Ein Ziel- bzw. Entscheidungskonflikt ist gegeben, wenn ...",
+		"Answers": [
+			"... die Ansichten von Jugendlichen von denen älterer Menschen abweichen.",
+			"... alternative Lösungsvorschläge vorliegen und sich der Auszubildende für eine dieser zu entscheiden hat.",
+			"... ein Auszubildender sich in seiner Rolle nicht wohl fühlt und diese nicht ausfüllt.",
+			"... die Gruppenmitglieder der gleichen Meinung sind."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Wie soll sich ein Ausbilder in einer Konfliktsituation verhalten?",
+		"Answers": [
+			"Konflikte lösen sich in der Regel von selbst. Demzufolge soll er sich nicht für deren Lösung engagieren.",
+			"Der Ausbilder soll sofort Maßnahmen festlegen, um die Situation zu bereinigen.",
+			"Der Ausbilder soll die Ursache erforschen, um dann fundierte Lösungen zu erwirken.",
+			"Der Ausbilder soll seine funktionale Autorität nutzen, um sofort den Konflikt durch Weisung aus der Welt zu schaffen."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Wodurch ist der Zusammenhang zwischen Lernen und Funktionsreifung gekennzeichnet?",
+		"Answers": [
+			"Funktionsreifung ist die Folge des Lernens.",
+			"Lernen ist Teil der Funktionsreifung im affektiven Bereich.",
+			"Lernen und Funktionsreifung laufen völlig getrennt voneinander ab.",
+			"Körperliche und geistige Funktionsreifung sind Voraussetzung für erfolgreiches Lernen."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Wesentliche Bestandteile des Lerngegenstandes sind ...",
+		"Answers": [
+			"... Kenntnisse, Fertigkeiten, Fähigkeiten und fachliche und soziale Verhaltensweisen.",
+			"... Fertigkeiten, Kenntnisse, Einstellungen und Motivationshilfen.",
+			"... Intervalltraining, Präzision, Fertigkeiten und Kenntnisse.",
+			"... Selbstkontrolle, Zuordnung von Lernzielen, fachliche und soziale Verhaltenswesen und Fertigkeiten."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Einsichtiges Lernen erfordert das vollständige Erfassen von Zusammenhängen und Abläufen. Es ist ...",
+		"Answers": [
+			"... immer van praktischen Erlebnissen und Erfahrungen abhängig.",
+			"... ein bloßes Reagieren auf Reize und Signale der Umwelt.",
+			"... die höchste Stufe des Lernens und baut oft auf recht schwierigen Denkvorgängen auf.",
+			"... teils zufälliges Lernen und teils geplantes Lernen."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welche Ursachen für mangelnde Lernbereitschaft treffen zu?",
+		"Answers": [
+			"Vermittlung von Fertigkeiten und Kenntnissen.",
+			"Mangelndes Interesse und fehlende Einsicht in Sinn und Zweck der gestellten Aufgaben.",
+			"Anerziehung von bestimmten Verhaltensweisen und Aneignung von Kenntnissen im technischen Bereich.",
+			"kontinuierliche praktische und theoretische Ausbildung in den überbetrieblichen Unterweisungsstätten."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Unter Lernmotivation versteht man grundsätzlich den Beweggrund oder Auslöser zum Lernen.\n\nUnter Aktualmotivation versteht man ...",
+		"Answers": [
+			"... Beweggründe, die aus bestimmten Einzelsituationen heraus entstehen.",
+			"... Beweggründe, die bereits zur Gewohnheit geworden sind.",
+			"... Beweggründe, die außerhalb der unmittelbaren Lerntätigkeit liegen.",
+			"... Beweggründe, die direkt auf den Lerngegenstand bezogen sind."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Unter Lernkurve versteht man ...",
+		"Answers": [
+			"... das Zeichnen von Kurven im berufskundlichen Unterricht.",
+			"... die Darstellung, wie groß der Zuwachs beim Lernen im Laufe der Übung ist.",
+			"... die Darstellung der richtigen Bewegungen im psychomotorischen Bereich.",
+			"... die Speicherdauer von Informationen im Kurzzeitgedächtnis."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Wovon hängt der Erfolg beim Vorbereiten und Auslösen des Lernprozesses ab?",
+		"Answers": [
+			"Von der Art des Arbeitsauftrages.",
+			"Von der Art und Weise der Übermittlung des Arbeitsauftrages.",
+			"Vom Schwierigkeitsgrad der Arbeitshandlung.",
+			"Von der Handlungsmotivation."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welcher Faktor gehört nicht zur Lernmotivation?",
+		"Answers": [
+			"Erfolgserlebnisse",
+			"Befähigung zum Problemlösen",
+			"Selbstverwirklichung",
+			"Anerkennung"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Lernhilfen sind abhängig von ...",
+		"Answers": [
+			"... dem Lernziel, Lerngegenstand und Lernschwierigkeiten.",
+			"... der Vermittlung von Fertigkeiten und Kenntnissen.",
+			"... der Aneignung zu erlernender Verhaltensweisen.",
+			"... den zum Einsatz kommenden Ausbildungsmitteln."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche der aufgeführten Akquisitionsformen dient gleichzeitig auch wirkungsvoll einer zuverlässigen Auswahl von Lehrlingen?",
+		"Answers": [
+			"Das Betriebspraktikum.",
+			"Der Tag der offenen Tür.",
+			"Der Leistungswettbewerb der Handwerksjugend.",
+			"Die berufskundliche Ausstellung."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Erscheinung in der betrieblichen Ausbildungspraxis ist zweckvolles zufälliges Lernen?",
+		"Answers": [
+			"Der Einsatz des Lehrlings nach Bedarf.",
+			"Den Lehrling probieren lassen, möglichst wenig erläutern.",
+			"Das mit-den-Augen-Mausen.",
+			"Zufälliges Lernen ist immer sinnvoll."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Was ist Intervalltraining?",
+		"Answers": [
+			"Eine Übungshilfe zum Ausprägen und Festigen von Fertigkeiten.",
+			"Eine organisatorische Maßnahme, die im Versetzungsplan berücksichtigt werden muss.",
+			"Eine Forderung der Ausbildungsverordnung.",
+			"Eine moderne Unterweisungsmethode."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Wovon hängt der Behaltenseffekt beim Lernen ab?",
+		"Answers": [
+			"Von der Anfangsmotivation.",
+			"Von Umfang und Intensität der Übung.",
+			"Von den Erläuterungen des Ausbilders.",
+			"Von der Ausdauer des Lernenden."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche Handlungsweise/Maßnahme des Ausbilders fördert beim Lehrling Sozialkompetenz?",
+		"Answers": [
+			"Die Forderung nach exakter Arbeitsvorbereitung ohne fremde Hilfe.",
+			"Die Bewertung einer Arbeit nach vorher bekannten Kriterien.",
+			"Ein kooperatives Gespräch über gezeigtes Fehlverhalten des Lehrlings.",
+			"Die zeitliche Abstimmung der zu vermittelnden Kenntnisse und Fertigkeiten mit der Berufsschule."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Ein Lehrling, der erstmalig einen Anruf entgegennehmen soll erinnert sich der Worte seines Meisters in gleicher Situation und meldet sich am Telefon mit: shefd Automobile GmbH, Schneider, Guten Morgen. Für den betreffenden Lehrling ist diese Formulierung ...",
+		"Answers": [
+			"... ein Ergebnis des Lernens durch Versuch und Irrtum.",
+			"... ein Ergebnis des Lernens durch Nachahmung",
+			"... ein Ergebnis des Lernens durch Einsicht.",
+			"... normal. Dazu braucht niemand etwas zu lernen."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Wodurch kann die Motivation des Lehrlings langzeitlich am besten beeinflusst werden?",
+		"Answers": [
+			"Durch kooperatives Ausbilderverhalten.",
+			"Durch Arbeitsaufgaben mit hohen Anspruchsniveau.",
+			"Durch Teamwechsel.",
+			"Durch Leistungsdruck."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Die genaue Festlegung von Kernpunkten ...",
+		"Answers": [
+			"... ermöglicht eine systematische fachtheoretische und fachpraktische Ausbildung.",
+			"... erleichtert die methodische Arbeit mit akustischen und visuellen Anschauungsmitteln.",
+			"... bestimmt den Erfolg der Unterweisung.",
+			"... erleichtert die methodische Arbeit kaum."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Wichtige Gründe für den Ausbildungsabbruch aus der Sicht des Lehrlings sind ...",
+		"Answers": [
+			"... Schwierigkeiten mit Ausbildern und Kollegen, fachliche Überforderung und mangelnde Zukunftsperspektiven in Beruf und Betrieb.",
+			"... ständige Unterforderung in der praktischen und betrieblichen Ausbildung.",
+			"... nur familiäre und finanzielle Sorgen, entwicklungsbedingte Schwierigkeiten im persönlichen Bereich.",
+			"... ständige Über- und Unterforderungen in der überbetrieblichen Unterweisungsstätte."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Aussage zum menschlichen Lernen ist zutreffend?",
+		"Answers": [
+			"Lernen vollzieht sich ausschließlich in Form des Kenntniserwerbs.",
+			"Lernen vollzieht sich hauptsächlich durch Funktionsreifung.",
+			"Nach der Jugendzeit ist der Mensch nur noch bedingt lernfähig.",
+			"Der Mensch kann nur bewusst lernen, unbewusstes Lernen gibt es nicht.",
+			"Der Mensch lernt, indem er sich mit seiner Umwelt auseinandersetzt."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Welche Aussage zum Verhältnis von Reifen und Lernen ist zutreffend?",
+		"Answers": [
+			"Reifen ist das Ergebnis von Lernen.",
+			"Lernen setzt Reifen voraus.",
+			"Lernen und Reifen haben nichts miteinander zu tun.",
+			"Reifen ist eine andere Formulierung für Lernen.",
+			"Lernen ist das Ergebnis von Reifen."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Um welchen Vorgang handelt es sich, wenn ein Auszubildender beim Betrachten einer Skizze eines technischen Gerätes zunächst keinen Sinn erkennt, aber nachdem ihm die Bedeutung einer gestrichelten Linie klar geworden ist, plötzlich die Gestalt des Gerätes vor sich sieht? Es handelt sich um ...",
+		"Answers": [
+			"... einen Reifungsprozess.",
+			"... lernen durch Versuch, Irrtum und Erfolg.",
+			"... lernen durch Nachahmung.",
+			"... lernen durch Einsicht.",
+			"... überhaupt kein Lernen."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Woran ist der Lernprozess erkennbar?",
+		"Answers": [
+			"An alten Gewohnheiten und Fertigkeiten;",
+			"An neuartigen Fertigkeiten und Verhaltensweisen;",
+			"An entwicklungsbedingten Verhaltensweisen;",
+			"An Wissen, das man aus der allgemeinbildenden Schule mitbringt;",
+			"An den Anlagen, die jeder Mensch besitzt."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Um welchen Vorgang handelt es sich? Eine Schreibkraft beherrscht das Maschinenschreiben seit 15 Jahren perfekt. Sie erhält den Auftrag, eine Liste abzuschreiben. Diese Aufgabe erfüllt die Mitarbeiterin gewohnheitsmäßig.",
+		"Answers": [
+			"Es handelt sich hierbei weder um einen Reifungsvorgang noch um einen Lernvorgang.",
+			"Es handelt sich um Lernen durch Einsicht.",
+			"Es handelt sich um Lernen durch Nachahmung.",
+			"Es handelt sich um Lernen, welches unmittelbar mit Reifungsvorgängen zu tun hat.",
+			"Das ist ausschließlich ein Reifungsvorgang."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Regel zur Veränderung des Verhaltens ist zutreffend?",
+		"Answers": [
+			"Will man eine Verhaltensweise öfter sehen, so darf man sie nicht verstärken.",
+			"Wird durch Umwelteinflüsse ein angenehmer Zustand beendet, so steigt die Häufigkeit des betreffenden Verhaltens.",
+			"Wird durch eine Handlung ein angenehmer Zustand ausgelöst, so sinkt die Häufigkeit des betreffenden Verhaltens.",
+			"Folgt auf eine Handlung ein angenehmer Zustand, so ist zu erwarten, dass die Häufigkeit dieser Handlung steigt.",
+			"Wenn man mit einer Handlung einmal Erfolg hatte, führt man diese nicht wieder aus."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Mit welchem der nachfolgend aufgeführten Sachverhalte beginnt, in der Regel der Lernprozess?",
+		"Answers": [
+			"Der Auszubildende bemüht sich um Erfassen eines Sinnzusammenhangs.",
+			"Der Ausbilder interessiert den Auszubildenden für einen bestimmten Lerngegenstand.",
+			"Der Auszubildende findet durch einen spontanen Einfall die richtige Lösung.",
+			"Durch Wiederholen und Üben wird das Gelernte im Gedächtnis gefestigt.",
+			"Der Auszubildende probiert seine gedankliche Lösung erstmals praktisch aus."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Was versteht man unter Lerntransfer?",
+		"Answers": [
+			"Theoretische Kenntnisse werden in der berufspraktischen Ausbildung ignoriert belassen;",
+			"Regelmäßiges Üben immer mit dem gleichen Material und der gleichen Aufgabenstellung;",
+			"Abstimmung zwischen theoretischen und praktischen Aufgabenstellungen;",
+			"Übertragung vorhandener Kenntnisse und Fertigkeiten auf andere Aufgabenstellungen;",
+			"Erwerb von Kenntnissen und Fertigkeiten."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Nach welchem Gesichtspunkt sollte wirkungsvolles Wiederholen und Üben erfolgen?",
+		"Answers": [
+			"Regelmäßig üben und wiederholen;",
+			"Keinen Lerntransfer anstreben;",
+			"Möglichst ohne abwechslungsreiche Beispiele üben;",
+			"Möglichst einen langen Zeitraum zwischen Vermittlung und Übung lassen;",
+			"Nicht planmäßig üben."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Aussage zur Wirksamkeit eines Vorbildes für das Lernen ist zutreffend?",
+		"Answers": [
+			"Je mehr Fürsorge ein Vorbild einem Auszubilden zuteil werden lässt, um so schwächer wird die Wirksamkeit des Vorbildes.",
+			"Die Wirksamkeit eines Vorbildes steigt mit seinem sozialen Status und seinem Vorleben/seiner Übereinstimmung mit der gelehrten Verhaltensweise.",
+			"Die Wirksamkeit eines Vorbildes nimmt mit dem Ausmaß seines allgemeinen Ansehens ab.",
+			"Der Einfluss des Vorbildes steigt, wenn sich das Vorbild entgegen gesellschaftlichen Normen verhält.",
+			"Ein Vorbild wird ungeprüft und unveränderlich akzeptiert, gleich wie es sich verhält."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein Handwerksbetrieb beschäftigt einen Auszubildenden, der zu Beginn des Kalenderjahres noch nicht 18 Jahre alt ist. Er will vom Ausbilder wissen, wie hoch sein gesetzlicher Mindesturlaubsanspruch für das laufende Jahr ist.\n\nDer gesetzliche Mindesturlaubsanspruch beträgt in diesem Fall jährlich:",
+		"Answers": [
+			"15 Werktage.",
+			"18 Werktage.",
+			"25 Werktage.",
+			"30 Werktage.",
+			"35 Werktage."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Ein Handwerksmeister wird von der Innung gebeten, im Gesellenprüfungsausschuss mitzuwirken. Nachdem er sich über den jährlichen Zeitaufwand für diese ehrenamtliche Mitarbeit informiert hat, will er wissen, für wie viele Jahre ihn seine Zusage für diese Mitarbeit bindet, d. h. welche Amtsdauer die Handwerksordnung längstens vorsieht. Weiche Aussage trifft zu?\n\nDie Mitglieder des Gesellenprüfungsausschusses der Innung werden ...",
+		"Answers": [
+			"... längstens für 1 Jahr gewählt.",
+			"... längstens für 2 Jahre gewählt.",
+			"... längstens für 3 Jahre gewählt.",
+			"... längstens für 4 Jahre gewählt.",
+			"... längstens für 5 Jahre gewählt."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Der Inhaber eines Handwerksbetriebes hat zum 1. August zwei neue Auszubildende eingestellt, die beide berufsschulpflichtig sind. Vor dem ersten Berufsschultag informiert er kurz die beiden Lehrlinge über die wichtigsten Aufgabenschwerpunkte der Berufsschule. Welche der nachfolgenden Informationen ist die zutreffende?",
+		"Answers": [
+			"Die Berufsschule vermittelt berufsübergreifende und berufsspezifische fachtheoretische Kenntnisse.",
+			"Die Berufsschule vermittelt fachtheoretische Kenntnisse, vertieft praktische Fertigkeiten und fördert Allgemeinbildung.",
+			"Die Berufsschule ergänzt die praktische und fachtheoretische Ausbildung im Betrieb und fördert die Allgemeinbildung.",
+			"Die Berufsschule ersetzt die fachtheoretische Ausbildung im Betrieb, vermittelt praktische Kenntnisse und fördert die Allgemeinbildung.",
+			"Die Berufsschule ergänzt die praktische Ausbildung im Betrieb, vermittelt fachtheoretische Kenntnisse und fördert die Allgemeinbildung"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein Handwerksbetrieb stellt zwei Jugendliche Auszubildende ein. Er muss für diese eine Regelung der täglichen Arbeitszeit finden, die nach dem Jugendarbeitsschutzgesetz zulässig ist. Die höchstzulässige, tägliche Arbeitszeit für die jugendlichen Auszubildenden beträgt nach dem Jugendarbeitsschutzgesetz ...",
+		"Answers": [
+			"8 h Stunden",
+			"8 Stunden",
+			"9 Stunden",
+			"9 1/2 Stunden",
+			"10 Stunden"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein in einem Handwerksbetrieb ausgebildeter Lehrling hat am Ende der Ausbildungszeit die Gesellenprüfung abgelegt. Die Prüfungsmaßnahmen erstreckten sich über zwei Tage, so dass der Prüfling aufgrund der großen Entfernung zwischen Ausbildungsbetrieb und Prüfungsort Übernachten musste. Der Lehrling verlangt vom Ausbildungsbetrieb unter Vorlage der Rechnung die Erstattung der Übernachtungskosten.\nMuss der Ausbildende dem Lehrling die Übernachtungskosten erstatten?",
+		"Answers": [
+			"Ja, weil die Gesellenprüfung als Abschluss einer Berufsausbildung generell zum Kostenbereich des Ausbildenden gehört.",
+			"Nein, weil diese Kosten immer vom Arbeitsamt getragen werden.",
+			"Nein, weil diese Kosten von der Berufsschule getragen werden.",
+			"Nein, weil diese Kosten immer von der Innung getragen werden.",
+			"Nein, weil nach der Rechtsprechung eine solche Pflicht für den Ausbildenden nicht besteht."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Ein in einem Handwerksbetrieb in Berufsausbildung stehender Lehrling kommt gegen Ende des 2. Ausbildungsjahres, also während der vereinbarten 3-jährigen Ausbildungszeit, zum Ausbilder mit der Bitte um Abkürzung der Ausbildungszeit um 1 Jahr.\nKann die Ausbildungszeit im vorliegenden Fall gekürzt werden?",
+		"Answers": [
+			"Ja, wenn der Lehrling von der Berufsschule bestätigt bekommt, dass er überdurchschnittliche Noten hat.",
+			"Ja, wenn zu erwarten ist, dass der Lehrling das Ausbildungsziel wegen überdurchschnittlicher Leistungen in der gekürzten Zeit erreicht.",
+			"Ja, wenn die Berufsschule und die Berufsberatung vom Arbeitsamt einer Verkürzung zustimmen.",
+			"Nein, weil dem Lehrling sonst wichtige Ausbildungsinhalte vorenthalten werden.",
+			"Nein, weil eine Verkürzung der Ausbildung nur vor Beginn der Ausbildung möglich ist."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Der Inhaber eines Handwerksbetriebes beabsichtigt, künftig Lehrlinge auszubilden. Bevor er aber seine Entscheidung endgültig trifft, steht er exemplarisch alle Kosten, die dem Ausbildungsbetrieb bei der Ausbildung entstehen, der Reihe nach zusammen. Bei der Position Ausbildungsmittel ist er sich noch nicht ganz im Klaren, ob der Ausbildungsbetrieb tatsächlich alle für die Ausbildung erforderlichen Ausbildungsmittel kostenlos zur Verfügung stellen und bzw. diese voll kostenmäßig zu tragen hat.\nWas ist richtig?",
+		"Answers": [
+			"Er braucht die Ausbildungsmittel nicht kosten Eos zur Verfügung zu stellen, weil der Lehrling die Ausbildungsmittel selbst bezahlen muss.",
+			"Die Eltern des Lehrlings haben diese Kosten zu übernehmen-",
+			"Die Ausbildungsmittel werden dem Ausbildungsbetrieb nach dem Ausbildungsförderungsgesetz ersetzt.",
+			"Die Ausbildungsmittel werden dem betrieb nach dem Ausbildungsförderungsrecht ersetzt.",
+			"Das Berufsbildungsgesetz verpflichtet den Ausbildenden, die Ausbildungsmittel kostenlos bereitzustellen."
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Ein Ausbilder in einem Handwerksbetrieb führt mit einem Bewerber und dessen Eltern ein Vorstellungsgespräch, das zum Abschluss des Berufsausbildungsvertrages führt. Bei der Besprechung verschiedener Punkte des Ausbildungsvertrages stellt sich u. a. heraus, dass der Lehrstellenbewerber und dessen Eltern an einer möglichst kurzen Probezeit des Berufsausbildungsverhältnisses interessiert sind Es ist daher zu klären, wie lange die Probezeit mindestens dauern muss.\n\nWelche Aussage trifft zu?",
+		"Answers": [
+			"14 Tage.",
+			"1 Monat.",
+			"2 Monate.",
+			"3 Monate.",
+			"4 Monate."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein Handwerksmeister, der sich vor kurzem selbstständig gemacht hat, will nun einen Lehrling einstellen. Er bereitet sich auf das Einstellungsgespräch mit dem Bewerber und seinen Eltern vor. Er will u. a. feststellen, was hinsichtlich der Ausbildungsvergütung gilt.\nWelche der nachfolgenden Aussagen ist grundsätzlich zutreffend?",
+		"Answers": [
+			"Die Höhe der Vergütung obliegt nur der freien Vereinbarung der Vertragspartner des Berufsausbildungsverhältnisses.",
+			"Die Vergütung muss angemessen sein und mit fortschreitender Berufsausbildung mindestens jährlich ansteigen.",
+			"Die Höhe der Vergütung richtet sich nur nach tarifvertraglicher Regelung des Handwerks und der Industrie.",
+			"Die Höhe der Vergütung richtet sich nur nach Empfehlung der Landesinnungsverbände.",
+			"Die Höhe der Vergütung richtet sich nur nach Empfehlungen der Handwerkskammern."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein in einem Handwerksbetrieb beschäftigter Lehrling ist an einer Infektion unverschuldet erkrankt und fehlt nunmehr 7 Wochen im Betrieb.\nWie lange muss der Ausbildende die Vergütung des Lehrlings in diesem Fall bezahlen?",
+		"Answers": [
+			"Bis zu einer Krankheitsdauer von 2 Wochen,",
+			"Bis zu einer Krankheitsdauer von 3 Wochen.",
+			"Bis zu einer Krankheitsdauer von 4 Wochen.",
+			"Bis zu einer Krankheitsdauer von 6 Wochen.",
+			"Bis zu einer Krankheitsdauer von 7 Wochen."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Ein Handwerksbetrieb will seinen beiden Auszubildenden die tarifliche Ausbildungsvergütung bezahlen, die im Tarifvertrag für seinen Handwerkszweig vereinbart ist. Der Tarifvertrag ist aber nicht allgemeinverbindlich und die Tarifgebundenheit kraft beidseitiger Organisationszugehörigkeit ist auch nicht gegeben.\nWie kann die gewünschte tarifvertragliche Regelung der Ausbildungsvergütung in diesem Falle zur Anwendung kommen.",
+		"Answers": [
+			"Durch Anordnung der Handwerkskammer.",
+			"Durch Anordnung des Gewerbeamtes.",
+			"Durch Anordnung des Gewerbeaufsichtsamtes.",
+			"Durch Vereinbarung im Berufsausbildungsvertrag („Tarifklausel\")",
+			"Durch Verbindlichkeitserklärung der zuständigen Innung."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Ein in einem Handwerksbetrieb in Ausbildung stehender Lehrling hat zur Ermittlung des Ausbildungstandes nach dem ersten Berufsausbildungsjahr an der Zwischenprüfung teilgenommen. Seine in der Zwischenprüfung gezeigten Leistungen haben dem nach dem ersten Ausbildungsjahr üblichen Ausbildungsstand nicht entsprochen. Deshalb will der Ausbildende das Berufsausbildungsverhältnis lösen.\nKann er das?",
+		"Answers": [
+			"Nein, das Prüfungsergebnis rechtfertigt nicht die Auflösung.",
+			"Ja, wenn der Auszubildende es verlangt.",
+			"Ja, wenn das Amt für Ausbildungsförderung es verlangt.",
+			"Ja, wenn die Innung darauf besteht.",
+			"Ja, wenn die Handwerkskammer es verlangt."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Ein Auszubildender in einem Handwerksbetrieb hat die Gesellenprüfung nicht bestanden und verlangt vom Ausbildenden eine Verlängerung der Ausbildungszeit und zwar bis zur nächstmöglichen Wiederholungsprüfung. Der Ausbildende will diese Verlängerung nicht.\nKann der Ausbildende die Fortsetzung des Arbeitsverhältnisses in diesem Fall bis zur Wiederholungsprüfung verweigern?",
+		"Answers": [
+			"Er kann sie verweigern, wenn eindeutig feststeht, dass der Lehrling das Nichtbestehen der Gesellenprüfung selbst verschuldet hat.",
+			"Er kann sie stets verweigern.",
+			"Er kann sie nur verweigern, wenn zu erwarten ist, dass auch durch die Nachlehre das Ausbildungsziel und das Bestehen der Abschlussprüfung nicht erreicht werden kann.",
+			"Er kann sie nur verweigern, wenn die Ausbildungszeit durch die Nachlehre um mehr als 1 Jahr verlängert würde.",
+			"Er kann sie verweigern, wenn sich der Lehrling während der Ausbildungszeit ungebührlich benommen hat"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Der Berufsausbildungsvertrag mit einem Lehrling endet am 31. August. Die Gesellenprüfung findet bereits in vollem Umfange im Monat Juli statt. Der Lehrling besteht die Prüfung.\nMit welchem Zeitpunkt endet die Ausbildung, wenn die Prüfung wie im vorliegenden Fall in die vereinbarte Ausbildungszeit fällt?",
+		"Answers": [
+			"Nur mit Aushändigung des Prüfungszeugnisses.",
+			"Mit dem Ablauf der Woche, in der die Prüfung bestanden wurde.",
+			"Mit formeller Bekanntgabe des Prüfungsergebnisses (Zugang der Mitteilung).",
+			"Mit dem Ende der vereinbarten Ausbildungszeit.",
+			"Mit Ablauf des Monats, in dem der Auszubildende die Prüfung bestanden hat."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Ein Handwerksbetrieb entscheidet sich, im bevorstehenden Ausbildungsjahr zwei Lehrlinge einzustellen. Um geeignete Bewerber zu finden, gibt der Betriebsinhaber eine Stellenanzeige in Auftrag. Ein wichtiger Bestandteil dieser Stellenanzeige ist das Anforderungsprofil.\nWelche Bestandteile sollte der Ausbilder in dieses Anforderungsprofil aufnehmen?",
+		"Answers": [
+			"Er nennt einzelne Schlüsselqualifikationen für die personelle, die fachliche und die soziale Kompetenz, die er vom Lehrling erwartet.",
+			"Er beschreibt die Phasen des selbstständigen Planens, Durchführens und Kontrollierens die in dem Ausbildungsberuf häufig auftreten.",
+			"Er beschreibt die Arbeitstätigkeiten und Lernanforderungen, schildert die Arbeitsbedingungen und nennt die erwarteten Persönlichkeitsmerkmale.",
+			"Er beschreibt das Ausbildungsberufsbild sowie den Ausbildungsrahmenplan und schildert die Prüfungsanforderungen.",
+			"Er schildert den Versetzungsplan, gibt die erreichbare Vergütung an und beschreib häufig vorkommende Unterweisungsaufträge"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Ein Handwerksbetrieb bildet drei jugendliche Lehrlinge aus. Bei der Durchführung der Ausbildung kommt es immer wieder zu Schwierigkeiten. Der Ausbilder stellt Überlegungen an, wie er künftig systematischer als bisher bei der Behandlung dieser Schwierigkeiten vorgehen könnte. \nWas unternimmt der Ausbilder und wie kann er bei der Behandlung von Schwierigkeiten mit Jugendlichen planmäßig vorgehen?",
+		"Answers": [
+			"Der Ausbilder legt harte Strafen konsequent fest und vollzieht diese schnell.",
+			"Der Ausbilder führt strenge Gebote und Verbote ein und kontrolliert diese ständig.",
+			"Der Ausbilder wartet ab, weil sich Erziehungsschwierigkeiten in der Regel ohne besondere Maßnahmen selbst lösen.",
+			"Der Ausbilder ermittelt zuerst den Sachverhalt. Anschließend legt er geeignete Maßnahmen fest, führt diese durch und kontrolliert deren Erfolg.",
+			"Der Ausbilder braucht nicht planmäßig vorgehen, weil dieses Vorgehen zu schematisch erscheint und daher keinen Erfolg verspricht."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Ein betrieblicher Ausbilder hat für die Ausbildung einen einzelbetrieblichen Ausbildungs- und Unterweisungsplan erstellt. Nun geht es um die praktische Umsetzung, unter anderem konkret um die Vermittlung von Fertigkeiten. Wie kann er die Planung vorgesehenen Fertigkeiten vermitteln?",
+		"Answers": [
+			"In erster Linie nach dem besonderen Interesse des Lehrlings.",
+			"Systematisch und stufenweise.",
+			"Nur nach dem Arbeitsanfall im Betrieb.",
+			"Offen, ehrlich und richtig dosiert.",
+			"Nach einem verzweigten programmierten System."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Der Ausbilder möchte den Lehrling in seinem Betrieb im Verlaufe der Ausbildung in steigendem Umfang Zuständigkeiten und damit verbundene Verantwortung übertragen, um ihn an Ernstsituationen des Arbeitslebens heranzuführen.\nAuf welches allgemeine Führungsmittel kann er dazu am geeignetsten zurückgreifen?",
+		"Answers": [
+			"Er berät und informiert den Lehrling.",
+			"Er beaufsichtigt und kontrolliert den Lehrling.",
+			"Er beanstandet das Verhalten des Lehrlings.",
+			"Er erteilt dem Lehrling Gebote und Verbote.",
+			"Er gibt dem Lehrling Anweisungen und Beauftragungen."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Der Ausbilder möchte überprüfen, ob der Lehrling dem während der gesamten Berufsausbildung steigenden Niveau gewachsen ist.\nWelche Möglichkeiten hat er dazu?",
+		"Answers": [
+			"Er verlängert die Probezeit des Auszubildenden über drei Monate hinaus,",
+			"Er bezieht den Auszubildenden sofort in den betrieblichen Leistungsprozess ein.",
+			"Er testet den Auszubildenden nur in einem Bereich des Ausbildungsberufsbildes, dort allerdings sehr intensiv.",
+			"Er steigert den Schwierigkeitsgrad der gestellten Aufgaben während der Probezeit.",
+			"Er legt mindestens zwei Drittel der Probezeit auf den Beginn der betrieblichen Ausbildungsphase."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Der Lehrling in einem Handwerksbetrieb steht kurz vor Beendigung seiner Probezeit. Um zu entscheiden, ob der Lehrling für den Ausbildungsberuf und für den Ausbildungsbetrieb geeignet ist, nimmt der Ausbilder eine Beurteilung des Lehrlings vor. Er weiß, dass er dabei Gefahr unterliegt, verschiedene Fehler bei dieser Beurteilung zu machen.\nWie handelt der Ausbilder beim Fehler der Zentraltendenz?",
+		"Answers": [
+			"Er misst die Lehrlinge an den Anforderungen, die er an sich selbst stellt.",
+			"Er lässt sich stark vom einmal gewonnenen negativen Eindruck vom Lehrling leiten.",
+			"Er schlussfolgert von einigen Merkmalen auf andere, ohne diese ebenfalls gründlich zu beobachten.",
+			"Er neigt dazu, alle Auszubildenden etwa gleich zu beurteilen.",
+			"Er zieht immer wieder frühere Beurteilungen heran, anstatt Veränderung im Verhalten des Lehrlings angemessen zu berücksichtigen."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Formulierung beschreibt am umfassendsten die Aufgabe von Lernhilfen?",
+		"Answers": [
+			"Lernhilfen sind pädagogische Hilfsmittel zur Aufrechterhaltung des Lernprozesses.",
+			"Lernhilfen dienen der Förderung von lernbehinderten Auszubildenden, damit auch diese zu einem Lernerfolg geführt werden können, Lernhilfen brauchen nur Lernbehinderte.",
+			"Lernhilfen sollen das Lernen in Gang bringen und sind deshalb Motivationshilfen.",
+			"Lernhilfen sind pädagogische Hilfsmittel und sämtliche Einwirkungsmöglichkeiten des Ausbilders, den Lernprozess in Gang zu bringen, aufrecht zu erhalten und den Lernerfolg zu sichern."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welches Ausbilderverhalten ist in der Regel als wirksame Motivationshilfe anzusehen?",
+		"Answers": [
+			"Der Ausbilder beobachtet das Leistungsverhalten der Auszubildenden und spricht auch für Teillösungen Anerkennung aus.",
+			"Der Ausbilder sagt den Auszubildenden, dass sie die Prüfung nicht bestehen würden, wenn sie sich nicht mehr anstrengen würden.",
+			"Der Ausbilder stellt den Auszubildenden immer wieder frühere Auszubildende als Beispiel hin.",
+			"Der Ausbilder erzählt den Auszubildenden immer wieder, welche guten Leistungen er selbst in seiner eigenen Ausbildung erbracht habe."
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welches Verhalten des Ausbilders führt bei den Auszubildenden zum Nachlassen der Anstrengungsbereitschaft und zum Unvermögen, mit Misserfolgen fertig zu werden?",
+		"Answers": [
+			"Der Ausbilder stellt überwiegend Aufgaben, die exakt dem Leistungsvermögen der Auszubildenden entsprechen.",
+			"Der Ausbilder wechselt häufig den Schwierigkeitsgrad der Aufgaben.",
+			"Der Ausbilder stellt nur Aufgaben, die unter dem wirklichen Leistungsvermögen der Auszubildenden liegen.",
+			"Der Ausbilder stellt häufiger Transfer-Aufgaben."
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Zwei Auszubildende haben bei der Montage eines Gerätes Schwierigkeiten. Welche Maßnahme des Ausbilders ist eine Lernhilfe, die die Selbständigkeit der Lernenden wahrt und fördert?",
+		"Answers": [
+			"Der Ausbilder tadelt die Auszubildenden wegen ihrer Schwerfälligkeit.",
+			"Der Ausbilder spornt die Auszubildenden an.",
+			"Der Ausbilder macht die Montage des Gerätes vor und gibt dabei detaillierte Erklärungen ab.",
+			"Der Ausbilder zeigt wortlos auf ein Maschinenteil und dann auf die Stelle des Gerätes, an der das Teil montiert werden kann."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Ein Ausbilder beobachtet einen Auszubildenden bei der Anfertigung einer Arbeitsprobe. Als der Auszubildende im Begriff steht, einen Fehler zu machen, schüttelt der Ausbilder - für den Auszubildenden sichtbar - den Kopf. Um welche Art von Hilfe handelt es sich bei dieser Lösungshilfe?",
+		"Answers": [
+			"Das beschriebene Ausbilderverhalten ist ein lernwirksamer zeichenhafter Impuls.",
+			"Das beschriebene Ausbilderverhalten ist ein lernwirksamer mimisch-gestischer Impuls.",
+			"Das beschriebene Ausbilderverhalten ist eine unnötige Störung des Auszubildenden.",
+			"Das beschriebene Ausbilderverhalten ist ein gegenständlicher Impuls."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein Ausbilder will ein abstraktes und kompliziertes Unterweisungsthema behandeln. Die Auszubildenden lassen wenig Interesse an diesem Thema erkennen. Welche Maßnahme bietet sich hier als wirksame Lernhilfe an?",
+		"Answers": [
+			"Der Ausbilder sollte den Auszubildenden wegen ihres geringen Interesses Vorwürfe machen.",
+			"Der Ausbilder sollte die Auszubildenden unter Strafandrohung zum Mitmachen zwingen.",
+			"Der Ausbilder sollte sofort mit Übungen beginnen, damit die Auszubildenden sehen, dass sie das Thema noch nicht beherrschen.",
+			"Der Ausbilder sollte den Lerngegenstand so präsentieren, dass die Auszubildenden neugierig werden."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche der folgenden Lernhilfen dient insbesondere der Aufrechterhaltung des Lernprozesses?",
+		"Answers": [
+			"Der Ausbilder erhöht mit Fortschritt des Lernprozesses die Schwierigkeit der Aufgabenstellung.",
+			"Der Ausbilder versetzt den Auszubildenden in die Lage, ständig seinen Lernfortschritt zu erkennen.",
+			"Der Ausbilder löst Verkrampfung.",
+			"Der Ausbilder bietet die Lösung Schritt für Schritt dar."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein Auszubildender vertieft sich in die Problemstellung einer Aufgabe und er findet keinen Lösungsansatz, obwohl die Aufgabe an sich nicht schwierig ist. Welche Maßnahme des Ausbilders bietet sich in dieser Phase als wirkungsvolle Lösungshilfe an?",
+		"Answers": [
+			"Der Ausbilder sollte den Lernprozess sofort abbrechen.",
+			"Der Ausbilder sollte die Lösung sofort nennen.",
+			"Der Ausbilder sollte dem Auszubildenden deuten, dass er wahrscheinlich überfordert sei und die Lösung nie finden werde.",
+			"Der Ausbilder sollte den Auszubildenden ermutigen und ihm einen kleinen Schritt weiterhelfen."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Aussage ist als eine wichtige Lernhilfe für die Stufe des Behaltens und Einübens anzusehen?",
+		"Answers": [
+			"Der Ausbilder soll beim Üben und Wiederholen Gruppenarbeit verhindern, um ungestörte individuelle Lernakte zu ermöglichen.",
+			"Beim Auftreten von Lernplateaus soll der Ausbilder dem Auszubildenden das Vertrauen in das eigene Gedächtnis und die eigene Lernfähigkeit erhalten.",
+			"Das Üben und Wiederholen soll immer in gleicher Form mit gleichen Aufgaben erfolgen.",
+			"Ähnliche Lerngegenstände sollen möglichst kurz nacheinander vermittelt werden.",
+			"Mit zunehmender Übung (Automatisierung) müssen die Übungsfolgen zeitlich immer enger beieinanderliegen."
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Welche Lernhilfe ist insbesondere am Ende des Lernprozesses erforderlich, wenn es um das Behalten des Gelernten und das Übertragen auf andere Aufgaben geht?",
+		"Answers": [
+			"Der Ausbilder ermutigt die Auszubildenden durch einen allgemeinen Zuspruch.",
+			"Der Ausbilder nennt den Auszubildenden die Lernziele des gerade durchlaufenden Lernprozesses.",
+			"Der Ausbilder nennt den Auszubildenden die Lösung von Übungsaufgaben, wenn die Auszubildenden diese nicht selbst gefunden haben.",
+			"Der Ausbilder bespricht mit den Auszubildenden das Allgemeine der gewonnenen Einsichten und Kenntnisse."
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Wer ist im Rahmen des Prüfungswesens zuständig für die Ausschreibungen von Prüfungen und die Bestimmung des Prüfungstermins?",
+		"Answers": [
+			"Der Prüfungsausschuss der zuständigen Stelle",
+			"Der Berufsbildungsausschuss der zuständigen Stelle",
+			"Die Ausbilder",
+			"Die Berufsschule",
+			"Die für die Berufsausbildung zuständige Stelle"
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Wie viele Personen müssen mindestens mitwirken, damit ein Prüfungsausschuss der zuständigen Stelle beschlussfähig ist?",
+		"Answers": [
+			"Unabhängig von der Zahl der Ausschussmitglieder mindestens drei",
+			"Es genügen immer zwei Drittel der Ausschussmitglieder",
+			"In der Regel zwei Drittel der Ausschussmitglieder, jedoch mindestens drei",
+			"Es müssen stets alle Ausschussmitglieder mitwirken; für den Fall der Verhinderung sind Stellvertreter zu berufen",
+			"Es darf höchstens ein Ausschussmitglied fehlen"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welcher der nachfolgend genannten Sachverhalte kennzeichnet zutreffend die Verpflichtungen des Ausbildenden gegenüber dem Auszubildenden im Hinblick auf Prüfungen?",
+		"Answers": [
+			"Der Ausbildende ist verpflichtet, den Auszubildenden zu Prüfungsvorbereitungslehrgängen externer Bildungsträger zu entlassen",
+			"Der Ausbildende muss auf Wunsch kostenlos Lehrbücher zur Prüfungsvorbereitung beschaffen",
+			"Der Ausbildende muss den Auszubildenden für die Zwischen- und Abschlussprüfung bei der zuständigen Stelle anmelden",
+			"Der Ausbildende muss ältere Prüfungsaufgaben zur Verfügung stellen, damit der Auszubildende sich auf die Art der Aufgabenstellung vorbereiten kann",
+			"Der Ausbildende muss im Rahmen der betrieblichen Ausbildung selbst Prüfungsvorbereitungsseminare planen und durchführen"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "In welchem Zusammenhang stehen Ausbildung und Zwischenprüfung?",
+		"Answers": [
+			"Die betriebliche Ausbildung dient vorwiegend der Vorbereitung auf die Zwischenprüfung",
+			"Leistungsanforderungen im Betrieb müssen immer etwas unter dem Niveau der Zwischenprüfung liegen",
+			"Die Zwischenprüfungen dienen in erster Linie der Kontrolle der Ausbildungsleistungen des Ausbilders",
+			"Zwischenprüfungen sollen den Ausbildungsstand erkennen lassen, um eventuelle Ausbildungsmängel rechtzeitig korrigieren zu können",
+			"Zwischenprüfungen erhöhen den Leistungsdruck, der sich auf die weitere Ausbildung nachteilig auswirken kann"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Regelung gilt für die Freistellung von Auszubildenden zur Zwischenprüfung?",
+		"Answers": [
+			"Jugendliche Auszubildende sind an dem Arbeitstag, der der Zwischenprüfung unmittelbar vorausgeht, von der Ausbildung freizustellen",
+			"Zur Zwischenprüfung ist grundsätzlich freizustellen",
+			"Der zeitliche Umfang der Freistellung liegt im vollen Ermessen des Ausbildungsbetriebes",
+			"Der Ausbildende hat volljährige Auszubildende für die Dauer der Zwischenprüfung unbezahlt freizustellen",
+			"Alle Auszubildenden sind unabhängig von ihrem Lebensalter für die Dauer der Zwischenprüfung bei Fortzahlung der Vergütung freizustellen"
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Ein Mitarbeiter eines Unternehmens, der sich im Rahmen eines Berufspraktikums Fertigkeiten und Kenntnisse angeeignet hat, möchte die Abschlussprüfung ablegen. Unter welchen Voraussetzungen kann auch ohne vorangegangene abgeschlossene Ausbildungszeit eine Zulassung zur Abschlussprüfung erfolgen?",
+		"Answers": [
+			"Der Bewerber muss mindestens 25 Jahre alt sein und eine fünfjährige berufliche Berufspraxis nachweisen",
+			"Der Bewerber muss mindestens die 1,5-fache Zeit einschlägiger praktischer Berufstätigkeit nachweisen, die für die Ausbildung in diesem Beruf vorgeschrieben ist, oder sonst glaubhaft machen, dass er die erforderlichen Fertigkeiten und Kenntnisse angeeignet hat",
+			"Der Bewerber muss mindestens 25 Jahre alt sein und nachweisen, dass ihm ohne Verschulden eine reguläre Berufsausbildung nicht möglich war",
+			"Der Bewerber muss nachweisen, dass ihm eine Berufsausbildung nur mit unzumutbarer Belastung möglich gewesen wäre",
+			"Der Bewerber muss eine Bestätigung des Arbeitgebers vorlegen, in der ihm die gleichen beruflichen Fertigkeiten und Kenntnisse bestätigt werden wie einem Auszubildenden nach der Ausbildung"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Was ist Prüfungsgegenstand der Abschlussprüfung?",
+		"Answers": [
+			"Nur, was in der Ausbildungsordnung als Prüfungsgegenstand genannt ist",
+			"Der Stoff der Berufsschule",
+			"Die erforderlichen Fertigkeiten und Kenntnisse gemäß Ausbildungsordnung und der in der Berufsschule vermittelte, für die Berufsausbildung wesentliche Stoff",
+			"Die dem Auszubildenden während der Ausbildung im Betrieb vermittelten Kenntnisse und Fertigkeiten und der für die Berufsschule vorgeschriebene Lehrstoff",
+			"Was der Prüfungsausschuss der zuständigen Stelle für den jeweiligen Prüfungstermin beschlossen hat"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Was soll der Prüfling bei der Abschlussprüfung nachweisen?",
+		"Answers": [
+			"Die notwendige Reife und das Verantwortungsbewusstsein für die Berufstätigkeit sowie berufliche Fertigkeiten und Kenntnisse",
+			"Ausdauer, Sorgfalt sowie Berufserfahrungen und Kenntnisse des in der Berufsschule vermittelten Stoffes",
+			"Kenntnis der wichtigsten, für den Beruf notwendigen praktischen Fertigkeiten und Kenntnisse",
+			"Die für den Beruf notwendigen praktischen und theoretischen Fertigkeiten und Kenntnisse und den im Berufsschulunterricht vermittelten, für die Berufsausbildung wesentlichen Lehrstoff",
+			"Dass die Ausbildung systematisch erfolgt ist und der Auszubildende seinen Pflichten gemäß BBiG entsprochen hat"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Aussage über die Zwischenprüfung trifft zu?",
+		"Answers": [
+			"Die Teilnahme an der Zwischenprüfung ist freiwillig und keine Voraussetzung für die Zulassung zur Abschlussprüfung",
+			"Für Externenprüflinge, die auf Grund besonderer Leistungen die Abschlussprüfung vorzeitig ablegen, ist das Bestehen der Zwischenprüfung unbedingte Zulassungsvoraussetzung zur Abschlussprüfung",
+			"Die Teilnahme an der Zwischenprüfung ist Voraussetzung für die Zulassung zur Abschlussprüfung",
+			"Eine nichtbestandene Zwischenprüfung muss in jedem Falle wiederholt werden",
+			"Bei nichtbestandener Zwischenprüfung entscheidet die zuständige Stelle nach Anhörung des Prüfungsausschusses über die Zulassung zur Abschlussprüfung"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Welche Mindestangaben muss das betriebliche Zeugnis zum Ende des Berufsausbildungsverhältnisses haben?",
+		"Answers": [
+			"Ausbildungsberuf, Noten der Abschlussprüfung und Aussagen über die Führung",
+			"Dauer der Berufsausbildung und besondere Qualifikationen",
+			"Art, Dauer, Ziel der Berufsausbildung und Angaben über erworbene Fertigkeiten und Kenntnisse",
+			"Ausbildungsberuf und Angaben über erworbene Fertigkeiten und Kenntnisse",
+			"Dauer und Ziel der Berufsausbildung, erworbene Fertigkeiten und Kenntnisse, Angaben über Fehlzeiten"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "In einem besonders gelagerten Fall fällt die Abschlussprüfung in einen Zeitraum, der nach der Beendigung der vertraglich festgelegten Ausbildungszeit liegt. Wann endet die Ausbildungszeit?",
+		"Answers": [
+			"Mit dem Tag der bestandenen Abschlussprüfung",
+			"Mit Ablauf der vertraglich festgelegten Ausbildungszeit",
+			"Mit dem Tag der Aushändigung des Prüfungszeugnisses",
+			"Mit Ablauf des Monats, in dem die Prüfung bestanden wurde",
+			"Mit Ablauf des Monats, in dem das Prüfungszeugnis ausgehändigt wurde"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein Auszubildender beendet in nächster Zeit seine Berufsausbildung. Wozu ist der Ausbildende verpflichtet?",
+		"Answers": [
+			"Dem Auszubildenden zu kündigen, wenn er ihn nicht weiter beschäftigen möchte",
+			"Den Auszubildenden mindestens ein Jahr weiter zu beschäftigen, wenn dieser das möchte",
+			"Dem Auszubildenden nach dessen Antrag ein einfaches Arbeitszeugnis auszustellen",
+			"Dem Auszubildenden auf dessen Verlangen ein qualifiziertes Zeugnis auszustellen",
+			"Den Auszubildenden zur Arbeitsvermittlung dem Arbeitsamt zu melden"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "In welchem Gesetz ist die Zeugniserteilungspflicht des Ausbildenden bei Beendigung des Ausbildungsverhältnisses zwingend vorgeschrieben?",
+		"Answers": [
+			"Im BGR",
+			"Im BetrVG",
+			"In der Ausbildungsordnung",
+			"Im BBiG",
+			"In der Prüfungsordnung der zuständigen Stelle"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Im Zeugnis des Auszubildenden Jens Meier im Ausbildungsberuf Bankkaufmann, der von seinem Ausbildungsbetrieb die außerordentliche Kündigung erhalten hat, steht: \"Wir müssen uns von Herrn Meier trennen, da wir dringend vermuten, dass er während des Kassendienstes an Unregelmäßigkeiten beteiligt war.\" Jens Meier bestritt die Vorwürfe, möchte unter den gegebenen Umständen seine Ausbildung aber in einem anderen Geldinstitut zu Ende führen und verlangt die Ausstellung eines neuen Zeugnisses. Hat er einen Anspruch darauf?",
+		"Answers": [
+			"Ja, denn die Angabe wäre nur dann berechtigt, wenn der Sachverhalt von der Polizei untersucht wurde und diese den Tatverdacht gegen Herrn Meier bestätigt hat",
+			"Nein, denn wenn der Zeugnisaussteller nach Abwägung aller Umstände keinen vernünftigen Zweifel an der Beteiligung des Auszubildenden an den Unregelmäßigkeiten haben konnte, ist er zur Angabe im Zeugnis verpflichtet",
+			"Ja, denn wird in einem Zeugnis nur der Verdacht auf eine Straftat geäußert, so verstößt dies gegen Treu und Glauben",
+			"Nein, denn schon der Verdacht auf eine Straftat ist in Bankkreisen von solcher Wichtigkeit, dass die Unterlassung dieser Angabe geeignet ist, Zeugnisleser zu täuschen",
+			"Ja, denn ein Zeugnis darf unter gar keinen Umständen einen Hinweis auf eine tatsächliche oder vermutete Straftat haben"
+		],
+		"CorrectAnswerIndex": 4
+	},
+	{
+		"Text": "Der Auszubildende Kurt Klein kündigt seinen Berufsausbildungsvertrag zum Ende der Probezeit. Der Ausbildende weigert sich, ihm ein qualifiziertes Zeugnis auszustellen mit der Begründung, ihm sei die Zeit zu knapp bemessen, den Auszubildenden objektiv und qualifiziert zu beurteilen. Welchen Anspruch hat Kurt Klein?",
+		"Answers": [
+			"Es besteht überhaupt kein Anspruch auf ein Zeugnis, wenn das Ausbildungsverhältnis vom Auszubildenden in der Probezeit gelöst wird",
+			"Kurt Klein hat auch dann einen Anspruch auf ein qualifiziertes Zeugnis, wenn für seine Leistungsbeurteilung nur drei Ausbildungsmonate zugrunde gelegt werden können",
+			"Der Anspruch auf ein qualifiziertes Zeugnis setzt voraus, dass das Ausbildungsverhältnis frühestens mit dem Ablauf der Probezeit gekündigt wird",
+			"Kurt Klein hat nur einen Anspruch auf ein einfaches Zeugnis",
+			"Der Ausbildende kann die Ausstellung des Zeugnisses verweigern, weil er nach dieser kurzen Zeit nicht in der Lage ist, qualifizierte Aussagen über Kurt Klein zu machen"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Das BBiG verpflichtet den Ausbildenden ...",
+		"Answers": [
+			"... selbst auszubilden",
+			"... die Ausbildung am Arbeitsplatz durch regelmäßige betriebsinterne Schulungsmaßnahmen zu ergänzen",
+			"... selbst auszubilden oder einen Ausbilder ausdrücklich damit zu beauftragen",
+			"... die Ausbildung möglichst außerhalb des Produktions- und Geschäftsablaufes durchzuführen",
+			"... die Ausbildung auf jeden Auszubildenden individuell abzustimmen"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Was gehört zu den Pflichten des Ausbildenden?",
+		"Answers": [
+			"Dafür zu sorgen, dass der Auszubildende charakterlich gefördert sowie sittlich und körperlich nicht gefährdet wird",
+			"Die Erstattung nach dem Jugendarbeitsschutzgesetz zu bezahlen",
+			"Dem Auszubildenden die Lehrbücher für den Berufsschulunterricht kostenlos zur Verfügung zu stellen",
+			"Dem Auszubildenden die Aufwendungen für Fahrten zur Berufsschule zu erstatten",
+			"Dem Auszubildenden Nachhilfe in allen Berufsschulfächern zu geben, bei denen er besondere Lernschwierigkeiten hat"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Eine 16-jährige Auszubildende wird zur Industriekauffrau ausgebildet. Im Betrieb sind im Rahmen von Umbaumaßnahmen schwere Geräte abzubauen. Darf der Betrieb die Auszubildende hierbei einsetzen?",
+		"Answers": [
+			"Ja, es handelt sich um eine ausbildungsbezogene Tätigkeit",
+			"Ja, wenn männliche Arbeitnehmer im Moment nicht zur Verfügung stehen",
+			"Ja, wenn diese Tätigkeit besonders vergütet wird.",
+			"Nein, die Verrichtung dient nicht dem Ausbildungszweck und ist den körperlichen Kräften der Auszubildenden nicht angemessen",
+			"Nein, weil weibliche Arbeitnehmer generell keine körperliche Arbeit leisten dürfen"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Zum Erledigen von Arbeiten im Rahmen der Ausbildung benötigt der Auszubildende Werkstoffe und Werkzeuge. Welche Verpflichtungen hat dabei der Auszubildende?",
+		"Answers": [
+			"Der Auszubildende hat dem Ausbildenden die Kosten der Werkstoffe zu erstatten, die bei der Zwischenprüfung verbraucht wurden",
+			"Der Auszubildende hat die Ausbildungsmittel pflichgemäß zu behandeln",
+			"Der Auszubildende kann für den Verlust von Werkzeugen in keinem Fall verantwortlich gemacht werden",
+			"Der Auszubildende hat auf Verlangen des Ausbildenden die Werkzeuge selbst zu beschaffen, die er unmittelbar und ständig benutzt",
+			"Der Auszubildende hat die Ausbildungsmittel in dem Zustand zurückzugeben, in dem der Betrieb diese zur Verfügung gestellt hat"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Mit Eintritt in die Berufsausbildung übernimmt der Auszubildende besondere Pflichten. Welche der folgenden Aussagen zu den Pflichten des Auszubildenden ist richtig?",
+		"Answers": [
+			"Die Pflicht, am Berufsschulunterricht teilzunehmen, ergibt sich allein nach den Schulpflichtgesetzen der Länder. Sie ist keine Pflicht gegenüber dem Ausbilder",
+			"Der Auszubildende hat die für die Ausbildungsstätte geltende Ordnung zu beachten",
+			"Der Auszubildende hat nur den Weisungen der formell bestellten Ausbilder zu folgen. Andere zu seiner Ausbildung eingesetzte Fachkräfte haben gegenüber dem Auszubildenden kein Weisungsrecht",
+			"Die Pflicht, über Betriebs- und Geschäftsgeheimnisse Stillschweigen zu wahren, betrifft nur die volljährigen Auszubildenden",
+			"Das Reinigen von Werkzeugen gehört in keinem Fall zu den Pflichten des Auszubildenden"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Der Ausbildende ist verpflichtet, die Auszubildenden zum Besuch der Berufsschule anzuhalten und dies im Rahmen der Möglichkeiten auch zu kontrollieren. Welcher Sachverhalt übersteigt die Pflichten des Ausbildenden?",
+		"Answers": [
+			"Wenn bei einem Ausbildenden Zweifel aufkommen, ob sein Auszubildender regelmäßig die Berufsschule besucht, muss er sich durch telefonische Rücksprache mit der Berufsschule davon überzeugen",
+			"Der Ausbildende ist verpflichtet, darüber zu wachen, dass der Auszubildende die Hausaufgaben der Berufsschule macht",
+			"Bei Schwänzen des Auszubildenden ist der Ausbildende verpflichtet, disziplinarische Maßnahmen zu ergreifen, z. B. ihn mündlich oder schriftlich zu verwarnen",
+			"Bei jugendlichen Auszubildenden ist der Ausbildende bei wiederholten unentschuldigten Schulversäumnissen zur Rücksprache mit der Berufsschule verpflichtet",
+			"Zeigt die Berufsschule dem Betrieb Schulversäumnisse des Auszubildenden an, ist der Ausbildende zur Rücksprache mit der Berufsschule verpflichtet"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Ein Berufsschullehrer empfiehlt seiner Klasse die Anschaffung von Testbögen für programmierte Prüfungen zur Vorbereitung auf Zwischen- und Abschlussprüfungen. Die Schüler kaufen die Bögen und verlangen von ihren Ausbildungsbetrieben Ersatz ihrer Auslagen. Sind die Betriebe zur Zahlung verpflichtet?",
+		"Answers": [
+			"Ja, weil der fachkundige Berufsschullehrer die Notwendigkeit dieser Ausbildungsmittel festgestellt hat",
+			"Ja, weil Vorbereitungsmaterial für die Prüfungen zu den zur Verfügung zu stellenden Arbeitsmaterialien gehört",
+			"Nein, weil der Betrieb nur die rechtlich vorgeschriebenen Ausbildungsmittel zur Verfügung stellen muss",
+			"Ja, aber nur dann, wenn der Ausbildungsbetrieb überhaupt Vorbereitungsmaterial an den Auszubildenden überträgt",
+			"Nein, weil die Testbögen unter die Lehrmittelfreiheit der Länder fallen"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Der Ausbildende hat dem Auszubildenden bei Beendigung der Berufsausbildung ein Zeugnis auszustellen. Welche der nachfolgend genannten Angaben gehört zu den Mindestangaben des Zeugnisses?",
+		"Answers": [
+			"Die Dauer der Berufsausbildung",
+			"Die Leistung des Auszubildenden in allen Ausbildungsbereichen",
+			"Die Führung des Auszubildenden während der Ausbildungszeit",
+			"Besondere fachliche Kenntnisse in der Berufsschule",
+			"Das Sozialverhalten des Auszubildenden während der Ausbildung"
+		],
+		"CorrectAnswerIndex": 0
+	},
+	{
+		"Text": "Welche Tätigkeit ist ein rechtlich nicht zu beanstandender Teil der Berufsausbildung?",
+		"Answers": [
+			"In einem Einzelhandelsbetrieb wird das wöchentliche Putzen der Schaufenster bei 5 Auszubildenden überwiegend dem Auszubildenden A übertragen",
+			"In einem Fachgeschäft für Glas- und Porzellanwaren staubt die Auszubildende B regelmäßig die Gläser ab",
+			"Der Auszubildende C führt täglich zweimal den Hund seines Ausbildenden in den naheliegenden Park",
+			"In einem Arbeitsteam von 10 Beschäftigten muss die Auszubildende D täglich die Blumen gießen",
+			"Der kaufmännisch Auszubildende E hat die Aufgabe, regelmäßig die Betriebsfahrzeuge zu waschen"
+		],
+		"CorrectAnswerIndex": 1
+	},
+	{
+		"Text": "Dem Auszubildenden obliegen im Rahmen der Berufsausbildung besondere Verpflichtungen, die im BBiG genannt sind. Welche Aussage ist richtig?\n\nDer Auszubildende ...",
+		"Answers": [
+			"... hat den Weisungen aller Mitarbeiter im Betrieb zu folgen",
+			"... hat während des Urlaubs jede dem Erholungszweck widersprechende Erwerbstätigkeit zu unterlassen",
+			"... hat die vorgeschriebenen Ausbildungsnachweise auf eigene Kosten zu beschaffen und ordnungsgemäß zu führen",
+			"... ist verpflichtet, alle Verrichtungen auszuführen, die dem Ausbildungszweck dienen und seinen körperlichen Kräften angemessen sind",
+			"... ist verpflichtet, dem Ausbildungsbetrieb jede Erkrankung spätestens am zweiten Fehltag zu melden"
+		],
+		"CorrectAnswerIndex": 3
+	},
+	{
+		"Text": "Welche Aussage zu den Pflichten des Ausbildenden bzw. des Auszubildenden hinsichtlich des Weisungsrechts ist zutreffend?",
+		"Answers": [
+			"Der Ausbildende hat der zuständigen Stelle ausdrücklich die im Rahmen der Ausbildung weisungsberechtigten Personen zu benennen",
+			"Weisungsberechtigung darf nur dem Ausbilder erteilt werden",
+			"Der Ausbildende hat dem Auszubildenden ausdrücklich die weisungsberechtigten Personen zu benennen",
+			"Der Auszubildende hat den Weisungen aller Erwachsenen des Betriebes zu folgen",
+			"Der Auszubildende muss alle Weisungen von weisungsberechtigten Personen befolgen, auch wenn sie nicht dem Ausbildungszweck dienen"
+		],
+		"CorrectAnswerIndex": 2
+	},
+	{
+		"Text": "Zu welcher der folgenden Tätigkeiten muss der Ausbildende den Auszubildenden nicht freistellen?",
+		"Answers": [
+			"Zur Teilnahme am Berufsschulunterricht",
+			"Zur Teilnahme an außerbetrieblichen Ausbildungsmaßnahmen, die im Ausbildungsvertrag vereinbart sind",
+			"Zur Teilnahme an der Zwischenprüfung",
+			"Zur Teilnahme an einem Hobbyzirkel, der sehr stark berufsorientiert ist",
+			"Zur Teilnahme an einer Wehrtauglichkeitsuntersuchung"
+		],
+		"CorrectAnswerIndex": 3
+	}
+]

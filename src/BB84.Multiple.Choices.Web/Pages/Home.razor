@@ -1,0 +1,62 @@
+﻿@page "/"
+
+<PageTitle>BB84.Multiple.Choices - Home</PageTitle>
+
+<div class="home-container">
+	<h1>Configure your quiz and get started!</h1>
+
+	<div class="quiz-config">
+		<div class="form-group mb-3">
+			<label for="questionsFile">Questions File</label>
+			<select id="questionsFile" class="form-select" @bind="_questionsFile">
+				<option value="sample-data\sampleQuestions.json">Sample Questions</option>
+			</select>
+		</div>
+
+		<div class="form-group mb-3">
+			<label for="perQuiz">Questions per Quiz</label>
+			<input id="perQuiz" type="number" class="form-control" @bind="_questionsPerQuiz" min="1" />
+		</div>
+
+		<div class="form-group mb-3">
+			<label for="perRound">Questions per Round</label>
+			<input id="perRound" type="number" class="form-control" @bind="_questionsPerRound" min="1" />
+		</div>
+
+		<div class="form-check mb-3">
+			<input id="randomize" type="checkbox" class="form-check-input" @bind="_randomize" />
+			<label class="form-check-label" for="randomize">Randomize Questions</label>
+		</div>
+
+		<div class="form-group mb-3">
+			<label for="threshold">Threshold Score per Round (%)</label>
+			<input id="threshold" type="number" class="form-control" @bind="_thresholdPercent" min="0" max="100" step="5" />
+		</div>
+
+		<button class="btn btn-primary btn-lg" @onclick="StartQuiz">Start Quiz</button>
+	</div>
+</div>
+
+@code {
+	[Inject] private NavigationManager Navigation { get; set; } = default!;
+
+	private string _questionsFile = "sample-data\\sampleQuestions.json";
+	private int _questionsPerQuiz = 50;
+	private int _questionsPerRound = 5;
+	private bool _randomize;
+	private int _thresholdPercent = 50;
+
+	private void StartQuiz()
+	{
+		float threshold = _thresholdPercent / 100f;
+		string uri = Navigation.GetUriWithQueryParameters("/quiz", new Dictionary<string, object?>
+		{
+			["file"] = _questionsFile,
+			["perQuiz"] = _questionsPerQuiz,
+			["perRound"] = _questionsPerRound,
+			["randomize"] = _randomize,
+			["threshold"] = threshold
+		});
+		Navigation.NavigateTo(uri);
+	}
+}

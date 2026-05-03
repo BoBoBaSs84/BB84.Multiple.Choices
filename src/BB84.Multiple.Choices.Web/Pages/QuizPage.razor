@@ -1,0 +1,213 @@
+﻿@using BB84.Multiple.Choices.Core.Abstractions.Services
+@using BB84.Multiple.Choices.Core.Abstractions.Settings
+@using BB84.Multiple.Choices.Core.Events
+@using BB84.Multiple.Choices.Core.Models
+@using BB84.Multiple.Choices.Core.Settings
+
+@page "/quiz"
+
+<PageTitle>BB84.Multiple.Choices - Quiz</PageTitle>
+
+@if (_quizCompleted)
+{
+	<div class="quiz-completed">
+		<h2>🎉 Quiz Completed!</h2>
+		<p>Your final score: <strong>@_finalScore.ToString("F1")%</strong></p>
+		<ScoreBoard RoundScores="_roundScores" />
+		<div class="quiz-actions">
+			<button class="btn btn-primary" @onclick="RestartQuiz">Restart Quiz</button>
+			<a class="btn btn-secondary" href="/">Back to Home</a>
+		</div>
+	</div>
+}
+else if (_roundThresholdNotMet)
+{
+	<RoundSummary RoundTitle="@_currentRoundTitle"
+								Score="_lastRoundScore"
+								ThresholdNotMet="true"
+								OnContinue="RetryRound"
+								OnQuit="GoHome" />
+}
+else if (_roundCompleted)
+{
+	<RoundSummary RoundTitle="@_completedRoundTitle"
+								Score="_lastRoundScore"
+								ThresholdNotMet="false"
+								OnContinue="ContinueToNextRound"
+								OnQuit="GoHome" />
+}
+else if (_quizStarted)
+{
+	<div class="quiz-header">
+		<h2>@_currentRoundTitle</h2>
+		<p>Question @(_questionIndex + 1)</p>
+	</div>
+
+	@if (_lastAnswerCorrect.HasValue)
+	{
+		<div class="answer-feedback @(_lastAnswerCorrect.Value ? "correct" : "incorrect")">
+			@if (_lastAnswerCorrect.Value)
+			{
+				<p>✅ Correct!</p>
+			}
+			else
+			{
+				<p>❌ Incorrect. The correct answer(s): @string.Join(", ", _lastCorrectAnswers)</p>
+			}
+		</div>
+	}
+
+	<QuestionCard Question="_currentQuestion"
+								QuestionIndex="_questionIndex + 1"
+								OnAnswerSubmitted="HandleAnswerSubmitted" />
+}
+else
+{
+	<p>Loading quiz...</p>
+}
+
+@code {
+	[Inject] private IQuizService QuizService { get; set; } = default!;
+	[Inject] private IQuizDataService QuizDataService { get; set; } = default!;
+	[Inject] private IEventService EventService { get; set; } = default!;
+	[Inject] private NavigationManager Navigation { get; set; } = default!;
+
+	[SupplyParameterFromQuery(Name = "file")]
+	public string? QuestionsFile { get; set; }
+
+	[SupplyParameterFromQuery(Name = "perQuiz")]
+	public int? QuestionsPerQuiz { get; set; }
+
+	[SupplyParameterFromQuery(Name = "perRound")]
+	public int? QuestionsPerRound { get; set; }
+
+	[SupplyParameterFromQuery(Name = "randomize")]
+	public bool? Randomize { get; set; }
+
+	[SupplyParameterFromQuery(Name = "threshold")]
+	public float? Threshold { get; set; }
+
+	private bool _quizStarted;
+	private bool _quizCompleted;
+	private bool _roundCompleted;
+	private bool _roundThresholdNotMet;
+	private float _finalScore;
+	private float _lastRoundScore;
+	private string _currentRoundTitle = string.Empty;
+	private string _completedRoundTitle = string.Empty;
+	private Question _currentQuestion = default!;
+	private int _questionIndex;
+	private bool? _lastAnswerCorrect;
+	private IReadOnlyList<string> _lastCorrectAnswers = [];
+	private List<(string Title, float Score)> _roundScores = [];
+
+	protected override async Task OnInitializedAsync()
+	{
+		SubscribeToEvents();
+
+		string file = QuestionsFile ?? "sampleQuestions.json";
+		QuizSettings settings = new()
+		{
+			QuestionsFilePath = file,
+			QuestionsPerQuiz = QuestionsPerQuiz ?? 50,
+			QuestionsPerRound = QuestionsPerRound ?? 5,
+			RandomizeQuestions = Randomize ?? false,
+			ThresholdScorePerRound = Threshold ?? 0.5f
+		};
+
+		IReadOnlyList<Question> questions = await QuizDataService.LoadAllQuestionsAsync(settings.QuestionsFilePath);
+		QuizService.StartQuiz(Path.GetFileNameWithoutExtension(file), questions.ToList(), settings);
+
+		_quizStarted = true;
+		_currentRoundTitle = QuizService.GetCurrentRound().Title;
+		_currentQuestion = QuizService.GetCurrentQuestion();
+		_questionIndex = 0;
+	}
+
+	private void SubscribeToEvents()
+	{
+		EventService.Subscribe<RoundCompletedEvent>(e =>
+		{
+			_roundScores.Add((e.Title, e.Score));
+			_completedRoundTitle = e.Title;
+			_lastRoundScore = e.Score;
+			_roundCompleted = true;
+			InvokeAsync(StateHasChanged);
+		});
+
+		EventService.Subscribe<QuizCompletedEvent>(e =>
+		{
+			_finalScore = e.Score;
+			_quizCompleted = true;
+			InvokeAsync(StateHasChanged);
+		});
+
+		EventService.Subscribe<QuestionIncorrectAnsweredEvent>(e =>
+		{
+			_lastAnswerCorrect = false;
+			_lastCorrectAnswers = e.CorrectAnswers;
+		});
+
+		EventService.Subscribe<QuestionCorrectAnsweredEvent>(_ =>
+		{
+			_lastAnswerCorrect = true;
+			_lastCorrectAnswers = [];
+		});
+	}
+
+	private void HandleAnswerSubmitted(IReadOnlyList<int> answerIndices)
+	{
+		QuizService.SubmitAnswer(answerIndices);
+
+		if (QuizService.LastRoundThresholdNotMet)
+		{
+			_roundThresholdNotMet = true;
+			_lastRoundScore = 0;
+			_lastAnswerCorrect = null;
+			return;
+		}
+
+		if (!_quizCompleted && !_roundCompleted)
+		{
+			_currentQuestion = QuizService.GetCurrentQuestion();
+			_currentRoundTitle = QuizService.GetCurrentRound().Title;
+			_questionIndex++;
+		}
+	}
+
+	private void ContinueToNextRound()
+	{
+		_roundCompleted = false;
+		_lastAnswerCorrect = null;
+		_currentRoundTitle = QuizService.GetCurrentRound().Title;
+		_currentQuestion = QuizService.GetCurrentQuestion();
+		_questionIndex = 0;
+	}
+
+	private void RetryRound()
+	{
+		_roundThresholdNotMet = false;
+		_lastAnswerCorrect = null;
+		QuizService.RestartQuiz();
+		_quizStarted = true;
+		_currentRoundTitle = QuizService.GetCurrentRound().Title;
+		_currentQuestion = QuizService.GetCurrentQuestion();
+		_questionIndex = 0;
+		_roundScores.Clear();
+	}
+
+	private void RestartQuiz()
+	{
+		_quizCompleted = false;
+		_lastAnswerCorrect = null;
+		_roundScores.Clear();
+		QuizService.RestartQuiz();
+		_quizStarted = true;
+		_currentRoundTitle = QuizService.GetCurrentRound().Title;
+		_currentQuestion = QuizService.GetCurrentQuestion();
+		_questionIndex = 0;
+	}
+
+	private void GoHome()
+		=> Navigation.NavigateTo("/");
+}

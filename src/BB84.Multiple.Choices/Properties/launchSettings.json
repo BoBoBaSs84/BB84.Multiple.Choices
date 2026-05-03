@@ -1,0 +1,17 @@
+{
+  "profiles": {
+    "BB84.Multiple.Choices.Development": {
+      "commandName": "Project",
+      "commandLineArgs": "quiz sampleQuestions.json",
+      "environmentVariables": {
+        "DOTNET_ENVIROMENT": "Development"
+      }
+    },
+    "BB84.Multiple.Choices.Production": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIROMENT": "Production"
+      }
+    }
+  }
+}
