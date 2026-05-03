@@ -1,6 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
-	<PropertyGroup />
+	
+	<PropertyGroup>
+		<IsTestProject>True</IsTestProject>
+	</PropertyGroup>
 
 	<ItemGroup>
 	  <PackageReference Include="Moq" />
@@ -8,6 +10,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\..\src\BB84.Multiple.Choices.Core\BB84.Multiple.Choices.Core.csproj" />
 		<ProjectReference Include="..\..\src\BB84.Multiple.Choices\BB84.Multiple.Choices.csproj" />
 	</ItemGroup>
 
