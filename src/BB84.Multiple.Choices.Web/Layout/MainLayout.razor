@@ -13,6 +13,10 @@
 
 	<footer class="mt-4 text-muted small">
 		<hr />
-		<p>&copy; BB84.Multiple.Choices Quiz App</p>
+		<p>&copy; @CurrentYear BB84.Multiple.Choices</p>
 	</footer>
 </div>
+
+@code {
+	int CurrentYear => DateTime.Now.Year;
+}

@@ -5,9 +5,7 @@ License: MIT
 This source code is licensed under the MIT license found in the
 LICENSE file in the root directory of this source tree.
 */
-using BB84.Multiple.Choices.Core.Abstractions.Services;
-using BB84.Multiple.Choices.Core.Services;
-using BB84.Multiple.Choices.Web.Services;
+using BB84.Multiple.Choices.Web.Extensions;
 
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
@@ -24,9 +22,7 @@ internal class Program
 		builder.RootComponents.Add<HeadOutlet>("head::after");
 
 		builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) })
-			.AddSingleton<IEventService, EventService>()
-			.AddScoped<IQuizDataService, WebQuizDataService>()
-			.AddScoped<IQuizService, QuizService>();
+			.RegisterServices();
 
 		await builder.Build()
 			.RunAsync();
