@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Update="wwwroot\sample-data\sampleQuestions.json">
+    <Content Update="wwwroot/sample-data/sampleQuestions.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

@@ -9,7 +9,7 @@
 		<div class="form-group mb-3">
 			<label for="questionsFile">Questions File</label>
 			<select id="questionsFile" class="form-select" @bind="_questionsFile">
-				<option value="sample-data\sampleQuestions.json">Sample Questions</option>
+				<option value="sample-data/sampleQuestions.json">Sample Questions</option>
 			</select>
 		</div>
 
@@ -40,7 +40,7 @@
 @code {
 	[Inject] private NavigationManager Navigation { get; set; } = default!;
 
-	private string _questionsFile = "sample-data\\sampleQuestions.json";
+	private string _questionsFile = "sample-data/sampleQuestions.json";
 	private int _questionsPerQuiz = 50;
 	private int _questionsPerRound = 5;
 	private bool _randomize;
