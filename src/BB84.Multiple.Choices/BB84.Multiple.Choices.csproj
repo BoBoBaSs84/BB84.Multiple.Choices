@@ -1,19 +1,20 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
 	<PropertyGroup>
+		<EmitCompilerGeneratedFiles>True</EmitCompilerGeneratedFiles>
 		<OutputType>Exe</OutputType>
 	</PropertyGroup>
-
 	<ItemGroup>
+		<PackageReference Include="BB84.SourceGenerators">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
 		<PackageReference Include="Microsoft.Extensions.Hosting" />
 		<PackageReference Include="Spectre.Console" />
 		<PackageReference Include="Spectre.Console.Cli" />
 	</ItemGroup>
-
 	<ItemGroup>
-	  <ProjectReference Include="..\BB84.Multiple.Choices.Core\BB84.Multiple.Choices.Core.csproj" />
+		<ProjectReference Include="..\BB84.Multiple.Choices.Core\BB84.Multiple.Choices.Core.csproj" />
 	</ItemGroup>
-
 	<ItemGroup>
 		<None Update="appsettings.Development.json">
 			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -24,12 +25,8 @@
 		<None Update="appsettings.Production.json">
 			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</None>
-		<None Update="ada.json">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-		</None>
 		<None Update="sampleQuestions.json">
-		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
 		</None>
 	</ItemGroup>
-
 </Project>

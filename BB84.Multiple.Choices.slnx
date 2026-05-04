@@ -17,6 +17,7 @@
     <Project Path="src/BB84.Multiple.Choices/BB84.Multiple.Choices.csproj" />
   </Folder>
   <Folder Name="/tests/">
-    <Project Path="tests/BB84.Multiple.ChoicesTests/BB84.Multiple.ChoicesTests.csproj" />
+    <Project Path="tests/BB84.Multiple.Choices.Core.Tests/BB84.Multiple.Choices.Core.Tests.csproj" Id="e25696f5-3e49-4127-92e1-861fbdcdee1a" />
+    <Project Path="tests/BB84.Multiple.Choices.Tests/BB84.Multiple.Choices.Tests.csproj" />
   </Folder>
 </Solution>

@@ -1,9 +1,10 @@
 ﻿@inherits LayoutComponentBase
+@using BB84.Multiple.Choices.Web.Common
 
 <div class="container py-4">
 	<header class="mb-4">
 		<a href="/" class="text-decoration-none">
-			<h1 class="display-6">🧠 BB84.Multiple.Choices</h1>
+			<h1 class="display-6">🧠 @_headerTitle</h1>
 		</a>
 	</header>
 
@@ -13,10 +14,11 @@
 
 	<footer class="mt-4 text-muted small">
 		<hr />
-		<p>&copy; @CurrentYear BB84.Multiple.Choices</p>
+		<p>@_copyright</p>
 	</footer>
 </div>
 
 @code {
-	int CurrentYear => DateTime.Now.Year;
+	private string _copyright => AssemblyInformation.Copyright;
+	private string _headerTitle => AssemblyInformation.Product;
 }

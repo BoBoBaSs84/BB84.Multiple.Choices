@@ -11,7 +11,7 @@ using BB84.Multiple.Choices.Services;
 
 using Moq;
 
-namespace BB84.Multiple.ChoicesTests.Services;
+namespace BB84.Multiple.Choices.Tests.Services;
 
 [TestClass]
 public sealed class QuizDataServiceTests

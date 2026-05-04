@@ -24,9 +24,9 @@ public sealed class WebQuizDataService(HttpClient httpClient, IEventService even
 	public async Task<IReadOnlyList<Question>> LoadAllQuestionsAsync(string filePath, CancellationToken cancellationToken = default)
 	{
 		List<Question> questions = await httpClient.GetFromJsonAsync<List<Question>>(filePath, cancellationToken) ?? [];
-		
+
 		eventService.Publish(new QuestionsLoadedEvent(questions.Count));
-		
+
 		return questions;
 	}
 }

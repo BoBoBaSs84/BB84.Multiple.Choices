@@ -1,6 +1,7 @@
-﻿@page "/"
+﻿@using BB84.Multiple.Choices.Web.Common
+@page "/"
 
-<PageTitle>BB84.Multiple.Choices - Home</PageTitle>
+<PageTitle>@_pageTitle</PageTitle>
 
 <div class="home-container">
 	<h1>Configure your quiz and get started!</h1>
@@ -40,6 +41,7 @@
 @code {
 	[Inject] private NavigationManager Navigation { get; set; } = default!;
 
+	private string _pageTitle => $"{AssemblyInformation.Product} - Home";
 	private string _questionsFile = "sample-data/sampleQuestions.json";
 	private int _questionsPerQuiz = 50;
 	private int _questionsPerRound = 5;

@@ -1,5 +1,4 @@
 <Project>
-
 	<PropertyGroup Label="VersionData">
 		<VersionMajor>1</VersionMajor>
 		<VersionMinor>0</VersionMinor>
@@ -9,7 +8,6 @@
 		<VersionSuffix Condition="$(Configuration.Equals('Debug'))">Development</VersionSuffix>
 		<FileVersion>$(VersionMajor).$(VersionMinor).$(VersionPatch)</FileVersion>
 	</PropertyGroup>
-
 	<PropertyGroup Label="ProjectData">
 		<AllowUnsafeBlocks>False</AllowUnsafeBlocks>
 		<AnalysisLevel>latest</AnalysisLevel>
@@ -28,35 +26,29 @@
 		<RunAnalyzersDuringLiveAnalysis>True</RunAnalyzersDuringLiveAnalysis>
 		<TargetFramework>net8.0</TargetFramework>
 	</PropertyGroup>
-
 	<PropertyGroup Condition="!$(MSBuildProjectName.EndsWith('Tests'))" Label="MetaData">
 		<Authors>BoBoBaSs84</Authors>
 		<Company>https://github.com/BoBoBaSs84</Company>
 		<Copyright>Copyright © $([System.DateTime]::UtcNow.Year) BoBoBaSs84</Copyright>
-		<Description>...</Description>		
+		<Description>...</Description>
 		<Product>BB84.Multiple.Choices</Product>
 		<Title>$(AssemblyName)</Title>
 	</PropertyGroup>
-
 	<PropertyGroup Condition="$(Configuration.Equals('Release'))">
 		<DebugType>none</DebugType>
 		<GenerateDocumentationFile>False</GenerateDocumentationFile>
 	</PropertyGroup>
-
 	<PropertyGroup Condition="$(MSBuildProjectName.EndsWith('Tests'))">
 		<IsPackable>False</IsPackable>
 		<IsTestProject>True</IsTestProject>
 		<GenerateDocumentationFile>False</GenerateDocumentationFile>
 	</PropertyGroup>
-
 	<ItemGroup Condition="!$(MSBuildProjectName.EndsWith('Tests'))">
-		<InternalsVisibleTo Include="$(AssemblyName)Tests" />
+		<InternalsVisibleTo Include="$(AssemblyName).Tests" />
 	</ItemGroup>
-
 	<ItemGroup Condition="$(MSBuildProjectName.EndsWith('Tests'))">
 		<Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
 		<Using Include="System.Diagnostics" />
 		<Using Include="System.Diagnostics.CodeAnalysis" />
 	</ItemGroup>
-
 </Project>

@@ -3,10 +3,11 @@
 @using BB84.Multiple.Choices.Core.Events
 @using BB84.Multiple.Choices.Core.Models
 @using BB84.Multiple.Choices.Core.Settings
+@using BB84.Multiple.Choices.Web.Common
 
 @page "/quiz"
 
-<PageTitle>BB84.Multiple.Choices - Quiz</PageTitle>
+<PageTitle>@_pageTitle</PageTitle>
 
 @if (_quizCompleted)
 {
@@ -87,6 +88,7 @@ else
 	[SupplyParameterFromQuery(Name = "threshold")]
 	public float? Threshold { get; set; }
 
+	private string _pageTitle => $"{AssemblyInformation.Product} - Quiz";
 	private bool _quizStarted;
 	private bool _quizCompleted;
 	private bool _roundCompleted;

@@ -1,17 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-	
 	<PropertyGroup>
 		<IsTestProject>True</IsTestProject>
+		<TestingPlatformShowTestsFailure>True</TestingPlatformShowTestsFailure>
 	</PropertyGroup>
-
 	<ItemGroup>
-	  <PackageReference Include="Moq" />
-	  <PackageReference Include="MSTest" />
+		<PackageReference Include="Moq" />
+		<PackageReference Include="MSTest" />
 	</ItemGroup>
-
 	<ItemGroup>
 		<ProjectReference Include="..\..\src\BB84.Multiple.Choices.Core\BB84.Multiple.Choices.Core.csproj" />
-		<ProjectReference Include="..\..\src\BB84.Multiple.Choices\BB84.Multiple.Choices.csproj" />
 	</ItemGroup>
-
 </Project>

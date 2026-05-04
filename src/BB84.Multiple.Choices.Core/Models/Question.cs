@@ -12,18 +12,18 @@ namespace BB84.Multiple.Choices.Core.Models;
 /// </summary>
 public sealed class Question
 {
-  /// <summary>
-  /// Gets or sets the question text.
-  /// </summary>
-  public required string Text { get; init; }
+	/// <summary>
+	/// Gets or sets the question text.
+	/// </summary>
+	public required string Text { get; init; }
 
-  /// <summary>
-  /// Gets or sets the list of possible answers.
-  /// </summary>
-  public required List<string> Answers { get; init; }
+	/// <summary>
+	/// Gets or sets the list of possible answers.
+	/// </summary>
+	public required List<string> Answers { get; init; }
 
-  /// <summary>
-  /// Gets or sets the indices of the correct answers in the <see cref="Answers"/> list.
-  /// </summary>
-  public required List<int> CorrectAnswerIndices { get; init; }
+	/// <summary>
+	/// Gets or sets the indices of the correct answers in the <see cref="Answers"/> list.
+	/// </summary>
+	public required List<int> CorrectAnswerIndices { get; init; }
 }
