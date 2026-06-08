@@ -3,9 +3,9 @@
     <ManagePackageVersionsCentrally>True</ManagePackageVersionsCentrally>
   </PropertyGroup>
   <ItemGroup>
-    <PackageVersion Include="BB84.Extensions" Version="4.3.520" />
+    <PackageVersion Include="BB84.Extensions" Version="4.3.603" />
     <PackageVersion Include="BB84.Notifications" Version="3.6.1026" />
-    <PackageVersion Include="BB84.SourceGenerators" Version="2.0.529" />
+    <PackageVersion Include="BB84.SourceGenerators" Version="2.1.607" />
     <PackageVersion Include="MSTest" Version="4.2.3" />
     <PackageVersion Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.27" />
     <PackageVersion Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="10.0.8" />
