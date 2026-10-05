@@ -42,7 +42,7 @@ public sealed class QuizCommand : Command<QuizSettings>
 	}
 
 	/// <inheritdoc/>
-	protected override int Execute(CommandContext context, QuizSettings settings, CancellationToken cancellationToken)
+	public override int Execute(CommandContext context, QuizSettings settings, CancellationToken cancellationToken)
 	{
 		try
 		{
