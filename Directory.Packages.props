@@ -6,7 +6,7 @@
     <PackageVersion Include="BB84.Extensions" Version="5.0.1027" />
     <PackageVersion Include="BB84.Notifications" Version="3.6.1026" />
     <PackageVersion Include="BB84.SourceGenerators" Version="2.8.1115" />
-    <PackageVersion Include="MSTest" Version="4.5.2" />
+    <PackageVersion Include="MSTest" Version="4.5.3" />
     <PackageVersion Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.33" />
     <PackageVersion Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="10.0.14" />
     <PackageVersion Include="Microsoft.Extensions.Hosting" Version="10.0.14" />
